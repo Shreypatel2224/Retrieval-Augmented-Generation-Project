@@ -1,0 +1,111 @@
+Searching in Databases
+
+Overview
+Searching is the most common operation performed by a database system. In SQL, the SELECT statement is arguably the most versatile and complex. The baseline for efficiency is Linear Search.
+
+Linear Search
+- Process:
+  - Start at the beginning of a list and proceed element by element until:
+    - You find what you’re looking for, or
+    - You reach the last element without finding it.
+- Time Complexity:
+  - Best case: O(1) (target is found at the first element).
+  - Worst case: O(n) (target is not in the array).
+
+Key Concepts
+
+Records and Collections
+- Record: A collection of values for attributes of a single entity instance (e.g., a row in a table).
+- Collection: A set of records of the same entity type (e.g., a table).
+- Search Key: A value for an attribute from the entity type (could be one or more attributes).
+
+Lists of Records
+
+Contiguously Allocated List (Array)
+- Description:
+  - All n * x bytes are allocated as a single “chunk” of memory.
+- Pros:
+  - Fast for random access.
+- Cons:
+  - Slow for inserting anywhere but the end.
+
+Linked List
+- Description:
+  - Each record requires x bytes + additional space for memory addresses.
+  - Records are linked together in a chain using memory addresses.
+- Pros:
+  - Fast for inserting anywhere in the list.
+- Cons:
+  - Slow for random access.
+
+Binary Search
+
+Overview
+- Input: An array of values in sorted order and a target value.
+- Output: The location (index) of the target or an indicator that the target was not found.
+
+Algorithm
+def binary_search(arr, target):
+    left, right = 0, len(arr) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1
+
+Time Complexity
+- Best case: O(1) (target is found at the midpoint).
+- Worst case: O(log₂n) (target is not in the array).
+
+Database Searching
+
+Challenges
+- Data is typically stored on disk by column id's value.
+  - Searching for a specific id is fast.
+  - Searching for a specific specialVal requires a linear scan of the column.
+- Problem:
+  - Data cannot be stored on disk sorted by both id and specialVal simultaneously without duplicating data (space inefficient).
+
+Solutions
+- External Data Structures:
+  - Use an array of tuples (specialVal, rowNumber) sorted by specialVal.
+    - Enables binary search for faster retrieval.
+    - Slow for inserts (like inserting into a sorted array).
+  - Use a linked list of tuples (specialVal, rowNumber) sorted by specialVal.
+    - Fast for inserts.
+    - Slow for searching (requires linear scan).
+
+Binary Search Trees (BST)
+
+Overview
+- A binary tree where:
+  - Every node in the left subtree is less than its parent.
+  - Every node in the right subtree is greater than its parent.
+- Advantages:
+  - Fast insert and fast search operations.
+
+Time Complexity Summary
+
+Linear Search
+- Worst case: O(n).
+
+Binary Search
+- Worst case: O(log₂n).
+
+Binary Search Tree (BST)
+- Search: O(log₂n) on average (O(n) in the worst case for an unbalanced tree).
+- Insert: O(log₂n) on average (O(n) in the worst case for an unbalanced tree).
+
+Observations
+- Arrays:
+  - Fast for random access.
+  - Slow for random insertions.
+- Linked Lists:
+  - Slow for random access.
+  - Fast for random insertions.
+- Binary Search Trees:
+  - Balance is key to maintaining O(log₂n) performance for both search and insert operations.

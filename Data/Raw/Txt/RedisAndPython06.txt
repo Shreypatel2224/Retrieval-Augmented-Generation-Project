@@ -1,0 +1,100 @@
+Redis-py
+
+Redis-py is the standard client for Python. It is maintained by the Redis Company itself.
+- GitHub Repo: redis/redis-py
+- Install in your 4300 Conda Environment:
+  pip install redis
+- Value can be any arbitrary data (string, number, JSON object, binary object, etc).
+
+Connecting to the Server
+- For your Docker deployment:
+  - Host: localhost or 127.0.0.1
+  - Port: The port mapping given when you created the container (probably the default 6379).
+  - db: The database (0-15) you want to connect to.
+  - decode_responses: Data comes back from the server as bytes. Setting this to True converts them (decodes) to strings.
+
+Example:
+import redis
+redis_client = redis.Redis(host='localhost', 
+                          port=6379, 
+                          db=2, 
+                          decode_responses=True)
+
+Redis Command List
+- Full List: Redis Commands (https://redis.io/commands/)
+- Use the filter to get commands for the particular data structure you’re targeting (list, hash, set, etc.).
+- Redis.py Documentation: Redis-py Docs (https://redis-py.readthedocs.io/en/stable/)
+- The next slides are not meant to be an exhaustive list of commands, only some highlights. Check the documentation for a complete list.
+
+String Commands
+# r represents the Redis client object
+r.set('clickCount:/abc', 0)
+val = r.get('clickCount:/abc')
+r.incr('clickCount:/abc')
+ret_val = r.get('clickCount:/abc')
+print(f'click count = {ret_val}')
+
+String Commands - 2
+# r represents the Redis client object
+redis_client.mset({'key1': 'val1', 
+                   'key2': 'val2', 
+                   'key3': 'val3'})
+print(redis_client.mget('key1', 
+                        'key2', 
+                        'key3'))
+# returns as list ['val1', 'val2', 'val3']
+
+String Commands - 3
+- set(), mset(), setex(), msetnx(), setnx()
+- get(), mget(), getex(), getdel()
+- incr(), decr(), incrby(), decrby()
+- strlen(), append()
+
+List Commands - 1
+# create list: key = 'names'
+# values = ['mark', 'sam', 'nick']
+redis_client.rpush('names', 
+                   'mark', 'sam', 'nick')
+
+# prints ['mark', 'sam', 'nick']
+print(redis_client.lrange('names', 0, -1))
+
+List Commands - 2
+- lpush(), lpop(), lset(), lrem()
+- rpush(), rpop()
+- lrange(), llen(), lpos()
+- Other commands include moving elements between lists, popping from multiple lists at the same time, etc.
+
+Hash Commands - 1
+redis_client.hset('user-session:123',  
+     mapping={'first': 'Sam',
+              'last': 'Uelle',
+              'company': 'Redis',
+              'age': 30
+})
+
+# prints:
+# {'name': 'Sam', 'surname': 'Uelle', 'company': 'Redis', 'age': '30'}
+print(redis_client.hgetall('user-session:123'))
+
+Hash Commands - 2
+- hset(), hget(), hgetall()
+- hkeys()
+- hdel(), hexists(), hlen(), hstrlen()
+
+Redis Pipelines
+Helps avoid multiple related calls to the server → less network overhead.
+r = redis.Redis(decode_responses=True)
+pipe = r.pipeline()
+
+for i in range(5):
+   pipe.set(f"seat:{i}", f"#{i}")
+
+set_5_result = pipe.execute()
+print(set_5_result)  # >>> [True, True, True, True, True]
+
+pipe = r.pipeline()
+
+# "Chain" pipeline commands together.
+get_3_result = pipe.get("seat:0").get("seat:3").get("seat:4").execute()
+print(get_3_result)  # >>> ['#0', '#3', '#4']

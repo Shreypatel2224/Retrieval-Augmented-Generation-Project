@@ -1,0 +1,250 @@
+Distributed DBs and ACID - Pessimistic Concurrency
+
+ACID Transactions
+- Focuses on “data safety.”
+- Considered a pessimistic concurrency model because it assumes one transaction has to protect itself from other transactions.
+- Assumes that if something can go wrong, it will.
+- Conflicts are prevented by locking resources until a transaction is complete (there are both read and write locks).
+- Write Lock Analogy: Borrowing a book from a library. If you have it, no one else can.
+
+Optimistic Concurrency
+- Transactions do not obtain locks on data when they read or write.
+- Optimistic because it assumes conflicts are unlikely to occur.
+- Even if there is a conflict, everything will still be OK.
+- How? Add last update timestamp and version number columns to every table. Read them when changing, then check at the end of the transaction to see if any other transaction has caused them to be modified.
+
+Optimistic Concurrency Use Cases
+- Low Conflict Systems (e.g., backups, analytical DBs, read-heavy systems):
+  - Conflicts that arise can be handled by rolling back and re-running a transaction that notices a conflict.
+  - Optimistic concurrency works well, allowing for higher concurrency.
+- High Conflict Systems:
+  - Rolling back and rerunning transactions that encounter a conflict is less efficient.
+  - A locking scheme (pessimistic model) might be preferable.
+
+NoSQL
+- “NoSQL” first used in 1998 by Carlo Strozzi to describe his relational database system that did not use SQL.
+- Modern meaning: “Not Only SQL.”
+- Sometimes thought of as non-relational DBs.
+- Originally developed, in part, as a response to processing unstructured web-based data.
+
+CAP Theorem Review
+- You can have 2, but not 3, of the following:
+  - Consistency*: Every user of the DB has an identical view of the data at any given instant.
+  - Availability: In the event of a failure, the database system remains operational.
+  - Partition Tolerance: The database can maintain operations in the event of the network’s failing between two segments of the distributed system.
+  - *Note: The definition of Consistency in CAP is different from that of ACID.
+
+CAP Theorem Review (Continued)
+- Consistency + Availability:
+  - System always responds with the latest data, and every request gets a response, but it may not be able to deal with network partitions.
+- Consistency + Partition Tolerance:
+  - If the system responds with data from the distributed system, it is always the latest; otherwise, the data request is dropped.
+- Availability + Partition Tolerance:
+  - System always sends and responds based on the distributed store, but the data may not be the absolute latest.
+
+ACID Alternative for Distributed Systems - BASE
+- Basically Available:
+  - Guarantees the availability of the data (per CAP), but the response can be “failure”/“unreliable” because the data is in an inconsistent or changing state.
+  - The system appears to work most of the time.
+- Soft State:
+  - The state of the system could change over time, even without input. Changes could be the result of eventual consistency.
+  - Data stores don’t have to be write-consistent.
+  - Replicas don’t have to be mutually consistent.
+- Eventual Consistency:
+  - The system will eventually become consistent.
+  - All writes will eventually stop so all nodes/replicas can be updated.
+
+Categories of NoSQL DBs - Review
+
+Key-Value Databases
+
+Key-Value Stores
+- Key = Value
+- Designed around:
+  - Simplicity: The data model is extremely simple. Comparatively, tables in an RDBMS are very complex. Lends itself to simple CRUD operations and API creation.
+  - Speed: Usually deployed as in-memory DB. Retrieving a value given its key is typically an O(1) operation because hash tables or similar data structures are used under the hood. No concept of complex queries or joins—they slow things down.
+  - Scalability: Horizontal scaling is simple—add more nodes. Typically concerned with eventual consistency, meaning in a distributed environment, the only guarantee is that all nodes will eventually converge on the same value.
+- Value can be any arbitrary data (string, number, JSON object, binary object, etc.).
+
+Key-Value Stores Use Cases
+- EDA/Experimentation Results Store:
+  - Store intermediate results from data preprocessing and EDA.
+  - Store experiment or testing (A/B) results without a production DB.
+- Feature Store:
+  - Store frequently accessed features for low-latency retrieval for model training and prediction.
+- Model Monitoring:
+  - Store key metrics about the performance of a model, for example, in real-time inferencing.
+
+Key-Value Stores Software Engineering Use Cases
+- Storing Session Information:
+  - Everything about the current session can be stored via a single PUT or POST and retrieved with a single GET—very fast.
+- User Profiles & Preferences:
+  - User info could be obtained with a single GET operation—language, timezone, product or UI preferences.
+- Shopping Cart Data:
+  - Cart data is tied to the user. Needs to be available across browsers, machines, and sessions.
+- Caching Layer:
+  - In front of a disk-based database.
+
+Redis DB
+- Redis (Remote Directory Server):
+  - Open-source, in-memory database.
+  - Sometimes called a data structure store.
+  - Primarily a key-value store but can be used with other models: Graph, Spatial, Full Text Search, Vector, Time Series.
+- From db-engines.com Ranking of Key-Value Stores.
+
+Redis Features
+- Considered an in-memory database system, but:
+  - Supports durability of data by:
+    - Saving snapshots to disk at specific intervals.
+    - Using an append-only file, which is a journal of changes that can be used for roll-forward if there is a failure.
+  - Originally developed in 2009 in C++.
+  - Can be very fast—over 100,000 SET operations per second.
+  - Rich collection of commands.
+  - Does NOT handle complex data. No secondary indexes. Only supports lookup by key.
+
+Redis Data Types
+- Keys:
+  - Usually strings but can be any binary sequence.
+- Values:
+  - Strings.
+  - Lists (linked lists).
+  - Sets (unique unsorted string elements).
+  - Sorted Sets.
+  - Hashes (string → string).
+  - Geospatial data.
+
+Setting Up Redis in Docker
+- In Docker Desktop, search for Redis.
+- Pull/Run the latest image.
+- Optional Settings: Add 6379 to Ports to expose that port so we can connect to it.
+  - Normally, you would not expose the Redis port for security reasons.
+  - If you did this in a production environment, it would be a major security hole.
+- Notice: We didn’t set a password.
+
+Connecting from DataGrip
+- File > New > Data Source > Redis.
+- Give the Data Source a name.
+- Make sure the port is 6379.
+- Test the connection.
+
+Redis Database and Interaction
+- Redis provides 16 databases by default, numbered 0 to 15.
+- There is no other name associated.
+- Direct interaction with Redis is through a set of commands related to setting and getting key-value pairs (and variations).
+- Many language libraries are available as well.
+
+Foundation Data Type - String
+- Sequence of bytes: text, serialized objects, binary arrays.
+- Simplest data type.
+- Maps a string to another string.
+- Use Cases:
+  - Caching frequently accessed HTML/CSS/JS fragments.
+  - Config settings, user settings info, token management.
+  - Counting web page/app screen views or rate limiting.
+
+Some Initial Basic Commands
+- SET /path/to/resource 0
+- SET user:1 “John Doe”
+- GET /path/to/resource
+- EXISTS user:1
+- DEL user:1
+- KEYS user*
+- SELECT 5 (select a different database)
+
+Some Basic Commands
+- SET someValue 0
+- INCR someValue      # Increment by 1
+- INCRBY someValue 10 # Increment by 10
+- DECR someValue      # Decrement by 1
+- DECRBY someValue 5  # Decrement by 5
+- INCR parses the value as an integer and increments (or adds to the value).
+- SETNX key value (only sets value to key if the key does not already exist).
+
+Hash Type
+- Value of a key-value entry is a collection of field-value pairs.
+- Use Cases:
+  - Can be used to represent basic objects/structures.
+  - The number of field/value pairs per hash is 2^32-1.
+  - Practical limit: Available system resources (e.g., memory).
+  - Session information management.
+  - User/Event tracking (could include TTL).
+  - Active Session Tracking (all sessions under one hash key).
+
+Hash Commands
+- HSET bike:1 model Demios brand Ergonom price 1971
+- HGET bike:1 model
+- HGET bike:1 price
+- HGETALL bike:1
+- HMGET bike:1 model price weight
+- HINCRBY bike:1 price 100
+
+List Type
+- Value of a key-value pair is a linked list of string values.
+- Use Cases:
+  - Implementation of stacks and queues.
+  - Queue management & message passing queues (producer/consumer model).
+  - Logging systems (easy to keep in chronological order).
+  - Building social media streams/feeds.
+  - Message history in a chat application.
+  - Batch processing by queuing up a set of tasks to be executed sequentially at a later time.
+
+Linked Lists Crash Course
+- Sequential data structure of linked nodes (instead of contiguously allocated memory).
+- Each node points to the next element of the list (except the last one, which points to nil/null).
+- O(1) to insert a new value at the front or insert a new value at the end.
+
+List Commands - Queue
+- Queue-like Operations:
+  - LPUSH bikes:repairs bike:1
+  - LPUSH bikes:repairs bike:2
+  - RPOP bikes:repairs
+  - RPOP bikes:repairs
+
+List Commands - Stack
+- Stack-like Operations:
+  - LPUSH bikes:repairs bike:1
+  - LPUSH bikes:repairs bike:2
+  - LPOP bikes:repairs
+  - LPOP bikes:repairs
+
+List Commands - Others
+- Other List Operations:
+  - LLEN mylist
+  - LRANGE <key> <start> <stop>
+  - LRANGE mylist 0 3
+  - LRANGE mylist 0 0
+  - LRANGE mylist -2 -1
+
+JSON Type
+- Full support of the JSON standard.
+- Uses JSONPath syntax for parsing/navigating a JSON document.
+- Internally stored in binary in a tree structure for fast access to sub-elements.
+
+Set Type
+- Unordered collection of unique strings (members).
+- Use Cases:
+  - Tracking unique items (e.g., IP addresses visiting a site, page, screen).
+  - Primitive relation (e.g., set of all students in DS4300).
+  - Access control lists for users and permission structures.
+  - Social network friends lists and/or group membership.
+- Supports set operations.
+
+Set Commands
+- SADD ds4300 “Mark”
+- SADD ds4300 “Sam”
+- SADD cs3200 “Nick”
+- SADD cs3200 “Sam”
+- SISMEMBER ds4300 “Mark”
+- SISMEMBER ds4300 “Nick”
+- SCARD ds4300
+
+Set Commands (Continued)
+- SADD ds4300 “Mark”
+- SADD ds4300 “Sam”
+- SADD cs3200 “Nick”
+- SADD cs3200 “Sam”
+- SCARD ds4300
+- SINTER ds4300 cs3200
+- SDIFF ds4300 cs3200
+- SREM ds4300 “Mark”
+- SRANDMEMBER ds4300
