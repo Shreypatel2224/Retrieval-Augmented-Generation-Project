@@ -1,0 +1,1 @@
+two trees above that dont meet that definition fail to meet it because they each have at least one node marked in the diagrams by a dashed square that doesnt have the AVL property AVL trees by

@@ -1,0 +1,1 @@
+Some Initial Basic Commands  SET pathtoresource 0  SET user1 “John Doe”  GET pathtoresource  EXISTS user1  DEL user1  KEYS user  SELECT 5 select a different database Some Basic Commands  SET

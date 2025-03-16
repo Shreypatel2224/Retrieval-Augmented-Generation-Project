@@ -1,0 +1,1 @@
+here Others which are outside the scope of this course include redblack trees which meet our definition of good and splay trees which dont always meet our definition of good but do meet it on an

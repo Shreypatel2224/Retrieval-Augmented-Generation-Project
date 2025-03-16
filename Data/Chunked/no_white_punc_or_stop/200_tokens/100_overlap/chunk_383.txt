@@ -1,0 +1,1 @@
+httpswwwjsonorgjsonenhtml Binary JSON BSON BSON Binary JSON binaryencoded serialization JSONlike document structure Supports extended types part basic JSON eg Date BinaryData etc Lightweight Keeps

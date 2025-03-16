@@ -1,0 +1,1 @@
+1267 An example of deletion in a B tree of order four If deleting a record reduces the number of records in the node below the minimum threshold called an underflow then we must do something to keep

@@ -1,0 +1,1 @@
+Services  Amazon Athena Analyze petabytescale data where it lives eg S3  Amazon EMR Elastic MapReduce access Apache Spark Hive Presto etc  AWS Glue Discover prepare and integrate data  Amazon

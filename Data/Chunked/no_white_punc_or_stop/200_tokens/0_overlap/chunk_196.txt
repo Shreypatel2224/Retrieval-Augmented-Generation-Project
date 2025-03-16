@@ -1,0 +1,1 @@
+replicate data different rates global write consistency Consistent Prefix Read Guarantee Ensures sequence writes happens certain order anyone reading writes see appear order

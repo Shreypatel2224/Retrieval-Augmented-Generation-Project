@@ -1,0 +1,1 @@
+analysis Amazon Textract Text extraction Amazon Translate Machine translation Important Services Data AnalyticsEngineering EC2 Lambda Amazon S3 Amazon RDS DynamoDB AWS Glue Amazon Athena Amazon EMR

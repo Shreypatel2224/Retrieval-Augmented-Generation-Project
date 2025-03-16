@@ -1,0 +1,1 @@
+stack — one for every recursive call There are ways to mitigate this — for example some kinds of carefullywritten recursion in some programming languages including C can avoid runtime stack growth as

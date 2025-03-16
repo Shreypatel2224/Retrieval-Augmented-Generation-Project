@@ -1,0 +1,1 @@
+edges Edges connect nodes node edge uniquely identified contain properties eg name occupation etc Supports queries based graphoriented operations Traversals Shortest path Many others Graphs Show

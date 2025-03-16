@@ -1,0 +1,1 @@
+the tree no special techniques for node replacement will be required because the upperlevel nodes will naturally be accessed frequentlyB B∗ BB∗Θlogn n BB B B B B B 1K B17531425 441 PM 126 BTrees —

@@ -1,0 +1,1 @@
+sequentially later time Linked Lists Crash Course Sequential data structure linked nodes instead contiguously allocated memory node points next element list except last one points nilnull O1 insert

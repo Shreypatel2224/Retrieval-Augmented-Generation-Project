@@ -1,0 +1,1 @@
+leader model Leaderless model Distributed databases usually adopt one strategies LeaderBased Replication writes clients go leader Leader sends replication info followers Followers process

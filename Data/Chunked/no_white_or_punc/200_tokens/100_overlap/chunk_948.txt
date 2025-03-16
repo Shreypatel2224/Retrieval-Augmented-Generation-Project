@@ -1,0 +1,1 @@
+Hash Type  Value of a keyvalue entry is a collection of fieldvalue pairs  Use Cases  Can be used to represent basic objectsstructures  The number of fieldvalue pairs per hash is 2321  Practical limit

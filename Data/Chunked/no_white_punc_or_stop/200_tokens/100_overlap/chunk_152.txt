@@ -1,0 +1,1 @@
+partyvendor Shared Responsibility Model AWS AWS Responsibilities Security cloud Security physical infrastructure network Maintain power availability HVAC physical networking equipment Manage

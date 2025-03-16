@@ -1,0 +1,1 @@
+Spring 2022 Notes and Examples AVL Trees Why we must care about binary search tree balancing Weve seen previously that the performance characteristics of binary search trees can vary rather wildly

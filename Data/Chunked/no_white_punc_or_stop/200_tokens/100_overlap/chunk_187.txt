@@ -1,0 +1,1 @@
+2 node n children contains n−1 keys 3 Every node except root least half full 4 elements stored given subtree keys keys parent node either side subtree pointer generalizes BST invariant 5 root least

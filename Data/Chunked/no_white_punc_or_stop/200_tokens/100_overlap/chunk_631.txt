@@ -1,0 +1,1 @@
+2 root node one child Mh 1 Mh 1 Mh 2 repeated substitution technique learned previously isnt good way try solve particular recurrence prove something interesting quite easily know sure AVL trees

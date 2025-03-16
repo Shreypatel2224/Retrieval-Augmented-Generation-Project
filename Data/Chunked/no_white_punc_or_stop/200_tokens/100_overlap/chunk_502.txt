@@ -1,0 +1,1 @@
+order surprisingly common scenario realworld programs example one obvious algorithm generating unique integer keys — care theyre unique — generate sequentially Whats bad degenerate tree anyway

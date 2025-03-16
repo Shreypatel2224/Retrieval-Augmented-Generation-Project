@@ -1,0 +1,1 @@
+tree thats totally empty To maintain a clear pattern relative to other tree heights well say that the height of an empty tree is 1 This means that a node with say a childless left child and no right

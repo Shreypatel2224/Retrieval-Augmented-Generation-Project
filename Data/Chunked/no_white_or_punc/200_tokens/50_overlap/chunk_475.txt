@@ -1,0 +1,1 @@
+considered wellenough balanced for our purposes even if not perfect A good balance condition has two properties The height of a binary search tree meeting the condition is Θlog n It takes Olog n time

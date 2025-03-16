@@ -1,0 +1,1 @@
+INT IN receiverid INT IN amount DECIMAL102 BEGIN DECLARE rollbackmessage VARCHAR255 DEFAULT Transaction rolled back Insufficient funds DECLARE commitmessage VARCHAR255 DEFAULT Transaction committed

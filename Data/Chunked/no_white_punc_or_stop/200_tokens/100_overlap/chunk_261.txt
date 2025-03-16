@@ -1,0 +1,1 @@
+52 values stay original node remaining values moved new node smallest value new leaf node 42 copied parent needs created case internal node B Tree 4 Insert 10 27 96 insert process starts root node

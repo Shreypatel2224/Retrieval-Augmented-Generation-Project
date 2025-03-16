@@ -1,0 +1,1 @@
+Features  Considered an inmemory database system but  Supports durability of data by  Saving snapshots to disk at specific intervals  Using an appendonly file which is a journal of changes that can

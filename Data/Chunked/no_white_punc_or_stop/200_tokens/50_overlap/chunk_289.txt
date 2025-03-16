@@ -1,0 +1,1 @@
+Amazon EC2 AWS Lambda Guide Amazon EC2 Elastic Cloud Compute EC2 provides scalable virtual computing cloud Features Many instance types available Payasyougo pricing model Supports multiple operating

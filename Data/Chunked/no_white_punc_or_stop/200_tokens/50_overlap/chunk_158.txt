@@ -1,0 +1,1 @@
+transactions accountid amount transactiontype VALUES senderid amount WITHDRAWAL INSERT transactions accountid amount transactiontype VALUES receiverid amount DEPOSIT Commit transaction COMMIT SELECT

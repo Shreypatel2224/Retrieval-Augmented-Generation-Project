@@ -1,0 +1,1 @@
+Search Tree BST Search Olog₂n average worst case unbalanced tree Insert Olog₂n average worst case unbalanced tree Observations Arrays Fast random access Slow random insertions Linked Lists Slow

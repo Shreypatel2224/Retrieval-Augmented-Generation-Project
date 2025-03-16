@@ -1,0 +1,1 @@
+forIfthe formeristhecasethenbytheBSTproperty allthekeysinthleftsubtree arestrictly less thanthekeythatissearched forThatmeans thatwedonotneedtosearchintheleft subtree Thus wewillexamine onlytheright

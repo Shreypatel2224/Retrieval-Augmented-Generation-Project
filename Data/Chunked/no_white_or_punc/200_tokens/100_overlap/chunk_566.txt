@@ -1,0 +1,1 @@
+Database Searching Challenges  Data is typically stored on disk by column ids value  Searching for a specific id is fast  Searching for a specific specialVal requires a linear scan of the column

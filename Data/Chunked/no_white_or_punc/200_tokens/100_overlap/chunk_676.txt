@@ -1,0 +1,1 @@
+these are the only possible complete binary trees with these numbers of nodes in them any other arrangement of say 6 keys besides the one shown above would violate the definition Weve seen that the

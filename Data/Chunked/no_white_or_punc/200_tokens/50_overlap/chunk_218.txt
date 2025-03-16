@@ -1,0 +1,1 @@
+one or both models  Network partitioning is inevitable  Network failures system failures  Overall system needs to be Partition Tolerant  The system can keep running even with a network partition The

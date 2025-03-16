@@ -1,0 +1,1 @@
+theyre used specifically to correct imbalances that are detected after insertions or removals An insertion algorithm Inserting a key into an AVL tree starts out the same way as insertion into a

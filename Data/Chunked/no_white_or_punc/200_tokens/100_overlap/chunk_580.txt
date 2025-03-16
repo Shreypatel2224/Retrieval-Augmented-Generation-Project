@@ -1,0 +1,1 @@
+data structure  Composed of nodes and edges  Edges connect nodes  Each node and edge is uniquely identified  Each can contain properties eg name occupation etc  Supports queries based on

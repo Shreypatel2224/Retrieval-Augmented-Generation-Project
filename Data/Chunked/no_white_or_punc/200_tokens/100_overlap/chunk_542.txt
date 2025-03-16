@@ -1,0 +1,1 @@
+using GPU instances  Disaster Recovery Backup critical workloads or infrastructure in the cloud AWS Lambda  Provides serverless computing  Automatically runs code in response to events  Relieves you

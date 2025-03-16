@@ -1,0 +1,1 @@
+keys Copy smallest key 27 case newNode parent Rearrange keys pointers parent node parent newNode also root nothing else needs done B Tree 4 Fast forward state tree… Observation root node full next

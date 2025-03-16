@@ -1,0 +1,1 @@
+structure data  OO Programming → Inheritance and Composition of types Saving a complex object to a relational database requires deconstructing it  The structure of a document is selfdescribing  They

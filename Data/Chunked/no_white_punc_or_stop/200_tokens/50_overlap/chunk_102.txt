@@ -1,0 +1,1 @@
+infrastructure PaaS Platform Service Removes need manage infrastructure allowing direct deployment applications SaaS Software Service Provides full software applications run managed another

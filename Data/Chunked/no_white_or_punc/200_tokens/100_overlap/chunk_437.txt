@@ -1,0 +1,1 @@
+Contention and the overhead of locking limit scalability highwrite volumes but are okay for Data Warehouse applications high read volumes AWS EC2 Pricing  Oct 2024  Over 78000month for

@@ -1,0 +1,1 @@
+The definition of Consistency in CAP is different from that of ACID CAP Theorem Review Continued  Consistency  Availability  System always responds with the latest data and every request gets a

@@ -1,0 +1,1 @@
+A path is an ordered sequence of nodes connected by edges in which no nodes or edges are repeated  Example 1 → 2 → 6 → 5  Not a path 1 → 2 → 6 → 2 → 3 Flavors of Graphs  Connected vs Disconnected

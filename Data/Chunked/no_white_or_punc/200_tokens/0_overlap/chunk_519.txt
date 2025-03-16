@@ -1,0 +1,1 @@
+character T at the beginning of the line in this case    match any single character except newline    match zero or more occurrences of the previous character the  in this case data

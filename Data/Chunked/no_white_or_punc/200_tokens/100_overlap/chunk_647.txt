@@ -1,0 +1,1 @@
+to add n keys would be determined by the sum 1  2  3    n This sum which well see several times throughout this course is equal to nn  1  2 So the total number of steps to build the entire tree would

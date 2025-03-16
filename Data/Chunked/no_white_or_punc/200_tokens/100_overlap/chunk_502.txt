@@ -1,0 +1,1 @@
+in a collection could have different dataschema Relational vs MongoDBDocument DB  RDBMS Database → TableView → Row → Column → Index → Join → Foreign Key  MongoDB Database → Collection → Document →

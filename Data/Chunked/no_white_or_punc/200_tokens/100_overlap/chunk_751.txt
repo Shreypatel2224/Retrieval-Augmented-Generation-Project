@@ -1,0 +1,1 @@
+of pointers no matter how many nodes are in the tree which means that this rotation would run in Θ1 time Bs parent would now point to A where it used to point to B As right child would now be B

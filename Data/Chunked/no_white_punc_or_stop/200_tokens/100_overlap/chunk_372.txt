@@ -1,0 +1,1 @@
+route requests distant leaders reading modifiable data Monotonic Read Consistency Monotonic read anomalies Occur user reads values order multiple followers Monotonic read consistency Ensures user

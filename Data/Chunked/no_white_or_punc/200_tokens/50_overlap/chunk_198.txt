@@ -1,0 +1,1 @@
+and committed successfully its changes are permanent  Even in the event of a system failure committed transactions are preserved Isolation Issues  Dirty Read  A transaction T1 is able to read a row

@@ -1,0 +1,1 @@
+MongoClientmongodbusernamepwlocalhost27017 db clientds4300 collection dbmyCollection Inserting single document db clientds4300 collection dbmyCollection post author Mark text MongoDB Cool tags

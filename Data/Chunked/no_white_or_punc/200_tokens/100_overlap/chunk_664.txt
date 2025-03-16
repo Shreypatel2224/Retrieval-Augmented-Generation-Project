@@ -1,0 +1,1 @@
+impossible for us to guarantee that a binary search tree will always be perfect by our definition because theres simply no way to represent most numbers of keys So first things first Well need to

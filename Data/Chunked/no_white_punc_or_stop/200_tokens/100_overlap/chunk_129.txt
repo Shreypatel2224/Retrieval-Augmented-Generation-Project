@@ -1,0 +1,1 @@
+rather store actual data overhead amount significant use space high fanout rate tree structure means vast majority nodes leaf nodes Kary tree approximately nodes internal nodes means half full binary

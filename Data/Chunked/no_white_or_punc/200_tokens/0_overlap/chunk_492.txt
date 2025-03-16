@@ -1,0 +1,1 @@
+user1 “John Doe”  GET pathtoresource  EXISTS user1  DEL user1  KEYS user  SELECT 5 select a different database Some Basic Commands  SET someValue 0  INCR someValue  Increment by 1  INCRBY someValue

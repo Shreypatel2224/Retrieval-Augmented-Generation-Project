@@ -1,0 +1,1 @@
+The empty left subtree of the node containing 30 is T1 The empty left subtree of the node containing 35 is T2 The empty right subtree of the node containing 35 is T3 The empty right subtree of the

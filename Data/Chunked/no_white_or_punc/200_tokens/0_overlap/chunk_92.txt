@@ -1,0 +1,1 @@
+probably only about of its nodes are internal nodes This means that the overhead associated with internal nodes is very low We can reduce the number of disk fetches required for the Btree even more

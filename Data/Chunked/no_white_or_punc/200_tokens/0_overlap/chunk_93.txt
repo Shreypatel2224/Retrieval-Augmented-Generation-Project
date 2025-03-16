@@ -1,0 +1,1 @@
+by using the following methods First the upper levels of the tree can be stored in main memory at all times Because the tree branches so quickly the top two levels levels 0 and 1 require relatively

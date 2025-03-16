@@ -1,0 +1,1 @@
+on the left and turns it into the tree on the right The circle with A and B written in them are each a single node containing a single key the triangles with T1 T2 and T3 written in them are

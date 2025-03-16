@@ -1,0 +1,1 @@
+Chapter 12BinarySearchTrees Abinarysearchtreeisabinarytreewitha specialpropertycalled theBSTp roperty isgivenasfollows Forallnodesxandyifybelongs tothe leftsubtree ofxthenthekeyatyisless

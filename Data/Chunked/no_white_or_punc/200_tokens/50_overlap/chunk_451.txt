@@ -1,0 +1,1 @@
+of keys So first things first Well need to relax our definition of perfection to accommodate every possible number of keys we might want to store Complete binary trees A somewhat more relaxed notion

@@ -1,0 +1,1 @@
+customers data  demodbcustomersfind name1 rating1 printdumpsdata indent2  Now without the id field  SELECT name rating FROM customers data  demodbcustomersfind name1 rating1 id0 printdumpsdata

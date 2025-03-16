@@ -1,0 +1,1 @@
+programs example one obvious algorithm generating unique integer keys — care theyre unique — generate sequentially Whats bad degenerate tree anyway looking picture degenerate tree intuition already

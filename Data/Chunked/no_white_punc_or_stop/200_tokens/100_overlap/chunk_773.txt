@@ -1,0 +1,1 @@
+except newline match zero occurrences previous character case data demodbcustomersfindname regex id 0 name 1 rating1 printdumpsdata indent2 SELECT name rating customers ORDER rating LIMIT 2 data

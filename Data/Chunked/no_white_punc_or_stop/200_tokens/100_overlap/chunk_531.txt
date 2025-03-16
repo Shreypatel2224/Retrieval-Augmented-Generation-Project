@@ -1,0 +1,1 @@
+complete binary tree height h − 1 left subtree complete binary tree height h − 1 right subtree perfect binary tree height h − 2 bit mindbending definition actually leads conceptually simple result

@@ -1,0 +1,1 @@
+MemoryDB Amazon ElastiCache Document Amazon DocumentDB compatible MongoDB Graph Amazon Neptune Analytics Services Amazon Athena Analyze petabytescale data lives eg S3 Amazon EMR Elastic MapReduce

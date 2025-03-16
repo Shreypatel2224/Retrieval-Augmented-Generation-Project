@@ -1,0 +1,1 @@
+another transaction T2 hasn’t yet executed COMMIT Nonrepeatable Read Two queries single transaction T1 execute SELECT get different values another transaction T2 changed data COMMITTED Phantom Reads

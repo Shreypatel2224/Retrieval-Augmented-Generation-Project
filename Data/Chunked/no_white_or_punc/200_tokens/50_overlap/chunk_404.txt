@@ -1,0 +1,1 @@
+the number of nodes  Trees A type of graph with no cycles and a hierarchical structure Types of Graph Algorithms  Pathfinding  Pathfinding  Finding the shortest path between two nodes if one exists

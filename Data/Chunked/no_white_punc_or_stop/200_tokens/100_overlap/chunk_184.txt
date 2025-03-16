@@ -1,0 +1,1 @@
+main memory Btrees first introduced Btree order search tree nonleaf node children actual elements collection stored leaves tree nonleaf nodes contain keys leaf stores number elements maximum number

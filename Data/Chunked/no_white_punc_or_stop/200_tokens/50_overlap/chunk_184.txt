@@ -1,0 +1,1 @@
+Step 1 Insert 37 appropriate leaf node B Tree 4 Insert 37 Step 2 splitting internal node move middle element parent instead copying particular tree means create new internal node also root

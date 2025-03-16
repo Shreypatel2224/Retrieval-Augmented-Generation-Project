@@ -1,0 +1,1 @@
+complex queries or joins—they slow things down  Scalability Horizontal scaling is simple—add more nodes Typically concerned with eventual consistency meaning in a distributed environment the only

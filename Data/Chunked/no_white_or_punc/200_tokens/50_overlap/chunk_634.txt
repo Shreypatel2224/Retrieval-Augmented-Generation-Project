@@ -1,0 +1,1 @@
+name associated  Direct interaction with Redis is through a set of commands related to setting and getting keyvalue pairs and variations  Many language libraries are available as well Foundation Data

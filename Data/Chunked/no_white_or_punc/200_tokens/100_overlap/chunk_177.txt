@@ -1,0 +1,1 @@
+No because once again the high fanout rate of the tree structure means that the vast majority of nodes are leaf nodes A Kary tree has approximately of its nodes as internal nodes This means that

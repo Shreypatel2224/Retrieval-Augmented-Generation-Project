@@ -1,0 +1,1 @@
+uniformlyat random andisinserted tothetreeThenall theotherkeysareinserted Hereallthekeys greater than xgointotherightsubtree ofx andallthekeyssmaller than xgointothe leftsubtree Thus theheight

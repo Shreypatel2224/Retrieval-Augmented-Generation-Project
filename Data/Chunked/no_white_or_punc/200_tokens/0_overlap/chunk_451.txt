@@ -1,0 +1,1 @@
+linereleaseyear   Type the following into the Cypher Editor in Neo4j Browser Loading CSVs  General Syntax LOAD CSV WITH HEADERS FROM filefileinimportfoldercsv AS line FIELDTERMINATOR   do stuffs with

@@ -1,0 +1,1 @@
+lag causes writes slower system brittle number followers increases Asynchronous replication Maintains availability cost delayed eventual consistency delay called inconsistency window ReadafterWrite

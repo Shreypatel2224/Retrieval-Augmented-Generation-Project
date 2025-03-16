@@ -1,0 +1,1 @@
+DoubleClick was acquired by Google and 3 of its veterans realized the limitations of relational databases for serving  400000 ads per second  MongoDB was short for Humongous Database  MongoDB Atlas

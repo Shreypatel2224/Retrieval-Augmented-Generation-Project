@@ -1,0 +1,1 @@
+operations affect disk blocks path root leaf node containing query record fewer number disk blocks affected operation less disk IO required 3 Btrees keep related records records similar key values

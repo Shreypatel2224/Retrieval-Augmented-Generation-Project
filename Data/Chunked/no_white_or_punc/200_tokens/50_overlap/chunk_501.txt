@@ -1,0 +1,1 @@
+are a few kinds of rotations we should first understand how they work then focus our attention on when to use them The first kind of rotation is called an LL rotation which takes the tree on the left

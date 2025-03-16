@@ -1,0 +1,1 @@
+respectively and keywhich iskeystoredatthenode 1Anexample 4 2 36 512 9 8 11 1519 207 2Traversal oftheNodesinaBST Bytraversal wemean visiting allthenodes inagraph Traversal strategies canbe speci ed

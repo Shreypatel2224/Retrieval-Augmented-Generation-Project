@@ -1,0 +1,1 @@
+search update operation Btree order defined following shape properties root either leaf least two children internal node except root children leaves level tree tree always height balanced Btree

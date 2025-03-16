@@ -1,0 +1,1 @@
+leaf nodes at equal depth Figure illustrates the insertion process through several examples Figure 1266 An example of building a B tree of order four Here is a a Javalike pseudocode sketch of the

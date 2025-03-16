@@ -1,0 +1,1 @@
+before This is no accident a single rotation LL RR LR or RL is all thats necessary to correct an imbalance introduced by the insertion algorithm A removal algorithm Removals are somewhat similar to

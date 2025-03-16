@@ -1,0 +1,1 @@
+too much of a burden to bear if n might get large But if we can find a way to control the trees shape more carefully to force it to remain more balanced well be fine The question of course is how to

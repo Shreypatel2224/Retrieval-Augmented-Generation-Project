@@ -1,0 +1,1 @@
+operations Time Complexity Summary Linear Search  Worst case On Binary Search  Worst case Olog₂n Binary Search Tree BST  Search Olog₂n on average On in the worst case for an unbalanced tree  Insert

@@ -1,0 +1,1 @@
+commitmessage AS Result END IF END  DELIMITER  Limitations of Relational Databases  Schemas may evolve over time  Not all apps need the full strength of ACID compliance  Joins can be expensive  A lot

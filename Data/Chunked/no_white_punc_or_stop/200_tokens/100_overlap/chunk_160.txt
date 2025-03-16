@@ -1,0 +1,1 @@
+services bringing content closer end users Compute Services VMbased EC2 Elastic Compute Cloud EC2 Spot Containerbased ECS Elastic Container Service ECR Elastic Container Registry EKS Elastic

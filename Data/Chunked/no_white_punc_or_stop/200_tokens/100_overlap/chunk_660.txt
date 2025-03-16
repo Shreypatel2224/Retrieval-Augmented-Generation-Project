@@ -1,0 +1,1 @@
+birthPlace London CREATE User name Dave birthPlace London CREATE User name Eve birthPlace Rome Adding Edge Variable Names CREATE User name Alice birthPlace Paris CREATE User name Bob birthPlace

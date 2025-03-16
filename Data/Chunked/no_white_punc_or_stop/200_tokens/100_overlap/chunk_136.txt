@@ -1,0 +1,1 @@
+typically main memory one time straightforward approach use standard method LRU node replacement However sometimes might desirable “lock” certain nodes root buffer pool general buffer pool even

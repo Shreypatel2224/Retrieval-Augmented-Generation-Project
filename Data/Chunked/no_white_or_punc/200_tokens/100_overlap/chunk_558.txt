@@ -1,0 +1,1 @@
+“chunk” of memory  Pros  Fast for random access  Cons  Slow for inserting anywhere but the end Linked List  Description  Each record requires x bytes  additional space for memory addresses  Records

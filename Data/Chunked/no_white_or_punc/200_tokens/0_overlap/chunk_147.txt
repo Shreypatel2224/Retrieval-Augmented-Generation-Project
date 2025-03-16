@@ -1,0 +1,1 @@
+controlling storage  Columnoriented storage vs roworiented storage  Query optimization  Cachingprefetching  Materialized views  Precompiled stored procedures  Data replication and partitioning

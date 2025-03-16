@@ -1,0 +1,1 @@
+statement arguably versatile complex baseline efficiency Linear Search Linear Search Process Start beginning list proceed element element find you’re looking reach last element without finding Time

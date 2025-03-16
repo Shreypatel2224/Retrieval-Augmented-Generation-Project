@@ -1,0 +1,1 @@
+recurrence Mh ≥ 2Mh  2 ≥ 22Mh  4 ≥ 4Mh  4 ≥ 42Mh  6 ≥ 8Mh  6  ≥ 2jMh  2j We could prove this by induction on j but well accept it on faith let j  h2 ≥ 2h2Mh  h ≥ 2h2M0 Mh ≥ 2h2 So weve shown that the

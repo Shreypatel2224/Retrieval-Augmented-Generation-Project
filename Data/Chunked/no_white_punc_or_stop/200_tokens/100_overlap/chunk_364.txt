@@ -1,0 +1,1 @@
+Leader failure detection Optimal timeout tricky Replication Lag Replication Lag refers time takes writes leader reflected followers Synchronous replication Replication lag causes writes slower system

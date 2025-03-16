@@ -1,0 +1,1 @@
+prove something interesting quite easily We know for sure that AVL trees with larger heights have a bigger minimum number of nodes than AVL trees with smaller heights — thats fairly selfexplanatory —

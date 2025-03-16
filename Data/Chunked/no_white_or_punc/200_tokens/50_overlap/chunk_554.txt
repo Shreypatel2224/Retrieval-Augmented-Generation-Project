@@ -1,0 +1,1 @@
+recurrence that describes the number of nodes at minimum in an AVL tree of height h M0  1 When height is 0 minimum number of nodes is 1 a root node with no children M1  2 When height is 1 minimum

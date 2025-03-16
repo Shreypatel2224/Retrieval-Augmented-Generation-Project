@@ -1,0 +1,1 @@
+B Tree Walkthrough B Tree m  4  Insert 42 21 63 89  Initially the first node is a leaf node AND root node  21 42 … represent keys of some set of KV pairs  Leaf nodes store keys and data although data

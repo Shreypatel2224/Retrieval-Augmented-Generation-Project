@@ -1,0 +1,1 @@
+object storage in buckets highly scalable  Amazon EFS Elastic File System serverless elastic file system  Amazon EBS Elastic Block Storage highperformance block storage  Amazon File Cache Highspeed

@@ -1,0 +1,1 @@
+0 1 require relatively little space Btree height four two disk fetches internal nodes level two leaves level three required reach pointer given record buffer pool could used manage nodes Btree

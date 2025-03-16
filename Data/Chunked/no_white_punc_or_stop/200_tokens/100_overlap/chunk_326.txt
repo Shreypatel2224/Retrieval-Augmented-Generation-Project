@@ -1,0 +1,1 @@
+emptytreeAssuming thatthen permutations areequally likelytooccurwhat istheaverage height ofthetree Tostudy thisquestion weconsider processofconstructing atreeTbyinserting inorderrandomly selected

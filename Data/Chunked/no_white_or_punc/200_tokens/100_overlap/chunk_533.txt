@@ -1,0 +1,1 @@
+instances up or down as needed  AMI Amazon Machine Image Use standard AMIs or provide your own for preconfiguration  Integration Easily integrates with other AWS services like S3 RDS etc EC2

@@ -1,0 +1,1 @@
+transaction T2 that hasn’t yet executed a COMMIT  Nonrepeatable Read  Two queries in a single transaction T1 execute a SELECT but get different values because another transaction T2 has changed data

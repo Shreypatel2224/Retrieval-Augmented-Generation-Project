@@ -1,0 +1,1 @@
+then continuing down the linked list of leaf nodes as far as necessary Figure illustrates the tree Figure 1265 An example of search in a B tree of order four Internal nodes must store between two and

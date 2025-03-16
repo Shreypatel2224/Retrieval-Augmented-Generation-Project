@@ -1,0 +1,1 @@
+to the right of curr temporarily called newNode  Insert newNode into the doubly linked list of leaf nodes B Tree m  4  Insert 30 continued  Redistribute the keys  Copy the smallest key 27 in this

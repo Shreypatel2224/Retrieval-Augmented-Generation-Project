@@ -1,0 +1,1 @@
+has to get done So in the worst case maintaining completeness after a single insertion requires Ωn time Unfortunately this is more time than we ought to be spending on maintaining balance This means

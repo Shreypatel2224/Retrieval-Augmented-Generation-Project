@@ -1,0 +1,1 @@
+of its left and right subtrees dif fer by no more than 1 In other words we tolerate a certain amount of imbalance — heights of subtrees can be slightly different but no more than that — in hopes that

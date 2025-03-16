@@ -1,0 +1,1 @@
+single entity instance eg a row in a table  Collection A set of records of the same entity type eg a table  Search Key A value for an attribute from the entity type could be one or more attributes

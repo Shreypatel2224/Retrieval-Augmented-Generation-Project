@@ -1,0 +1,1 @@
+other transactions  Assumes that if something can go wrong it will  Conflicts are prevented by locking resources until a transaction is complete there are both read and write locks  Write Lock

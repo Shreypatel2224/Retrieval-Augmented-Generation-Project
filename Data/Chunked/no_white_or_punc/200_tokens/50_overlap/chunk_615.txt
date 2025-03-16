@@ -1,0 +1,1 @@
+its key is typically an O1 operation because hash tables or similar data structures are used under the hood No concept of complex queries or joins—they slow things down  Scalability Horizontal

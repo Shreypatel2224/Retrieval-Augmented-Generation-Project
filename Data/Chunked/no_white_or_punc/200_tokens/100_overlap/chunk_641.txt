@@ -1,0 +1,1 @@
+— but its still a sign of potential trouble The time it will take you to build the degenerate tree will also be prohibitive If you start with an empty binary search tree and add keys to it in order

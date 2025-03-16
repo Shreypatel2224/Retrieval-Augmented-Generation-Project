@@ -1,0 +1,1 @@
+Private Cloud  Handle compliance and governance policies The AWS Global Infrastructure  Regions Distinct geographical areas eg useast1 uswest1  Availability Zones AZs Isolated data centers within a

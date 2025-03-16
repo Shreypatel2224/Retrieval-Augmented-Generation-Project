@@ -1,0 +1,1 @@
+Benefits of the Relational Model  Mostly Standard Data Model and Query Language  ACID Compliance Atomicity Consistency Isolation Durability  Works well with highly structured data  Can handle large

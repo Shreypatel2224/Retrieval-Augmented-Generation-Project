@@ -1,0 +1,1 @@
+good range queries first record range found rest records keys range accessed sequential processing remaining records first node continuing linked list leaf nodes far necessary Figure illustrates tree

@@ -1,0 +1,1 @@
+pxisresetIfxisntNIL 12 Resetting isunnecessa ryifxisNIL 19Algorithm contd 13ifpynilthen rootT x 14 Ifyistherootthen xbecomes theroot 15 Otherwise dothefollowing 16elseifyleftpy 17 leftpy x 18

@@ -1,0 +1,1 @@
+branching factor much larger 2 ensures disk reads needed navigate place data stored B trees may also useful inmemory data structures days main memory almost slow relative processor disk drives main

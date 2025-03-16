@@ -1,0 +1,1 @@
+where locality is even more crucial than with memory Accessing a disk location takes about 5ms  5000000ns Therefore if you are storing a tree on disk you want to make sure that a given disk read is

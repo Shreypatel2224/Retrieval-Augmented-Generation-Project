@@ -1,0 +1,1 @@
+related to setting and getting keyvalue pairs and variations  Many language libraries are available as well Foundation Data Type  String  Sequence of bytes text serialized objects binary arrays

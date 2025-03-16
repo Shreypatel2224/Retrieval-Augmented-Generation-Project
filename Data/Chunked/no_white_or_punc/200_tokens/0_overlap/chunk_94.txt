@@ -1,0 +1,1 @@
+little space If the Btree is only height four then at most two disk fetches internal nodes at level two and leaves at level three are required to reach the pointer to any given record A buffer pool

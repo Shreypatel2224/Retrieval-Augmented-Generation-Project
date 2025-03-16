@@ -1,0 +1,1 @@
+keys allowed present nodes — smaller keys left subtrees larger keys right subtrees — specify restriction trees shape meaning perfectly legal binary search trees containing keys 1 2 3 4 5 6 7 Yet

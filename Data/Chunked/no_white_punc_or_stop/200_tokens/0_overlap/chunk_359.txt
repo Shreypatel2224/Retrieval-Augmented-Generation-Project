@@ -1,0 +1,1 @@
+unstructured webbased data CAP Theorem Review 2 3 following Consistency Every user DB identical view data given instant Availability event failure database system remains operational Partition

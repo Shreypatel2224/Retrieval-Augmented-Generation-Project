@@ -1,0 +1,1 @@
+COMMIT SELECT commitmessage Result END END DELIMITER Limitations Relational Databases Schemas may evolve time apps need full strength ACID compliance Joins expensive lot data semistructured

@@ -1,0 +1,1 @@
+SQL Modern meaning “Not SQL” Sometimes thought nonrelational DBs Originally developed part response processing unstructured webbased data CAP Theorem Review 2 3 following Consistency Every user DB

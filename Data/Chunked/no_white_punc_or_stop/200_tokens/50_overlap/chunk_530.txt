@@ -1,0 +1,1 @@
+default 6379 db database 015 want connect decoderesponses Data comes back server bytes Setting True converts decodes strings Example import redis redisclient redisRedishostlocalhost port6379 db2

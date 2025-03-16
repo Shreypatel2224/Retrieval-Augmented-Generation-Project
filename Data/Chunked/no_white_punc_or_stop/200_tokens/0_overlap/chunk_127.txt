@@ -1,0 +1,1 @@
+Distributed databases relational nonrelational MySQL PostgreSQL support replication sharding CockroachDB new player scene Many NoSQL systems support one models Network partitioning inevitable Network

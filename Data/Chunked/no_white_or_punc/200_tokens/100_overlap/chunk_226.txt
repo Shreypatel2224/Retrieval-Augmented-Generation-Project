@@ -1,0 +1,1 @@
+Cloudnative BIreporting tool Machine Learning and AI Services  Amazon SageMaker Fully managed ML platform including Jupyter Notebooks  AWS AI Services with Pretrained Models  Amazon Comprehend NLP

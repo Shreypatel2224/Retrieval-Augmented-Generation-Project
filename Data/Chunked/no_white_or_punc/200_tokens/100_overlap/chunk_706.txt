@@ -1,0 +1,1 @@
+would otherwise spend on an insertion or removal when the tree has logarithmic height The cost wont outweigh the benefit Coming up with a balance condition like this on our own is a tall task but we

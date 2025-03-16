@@ -1,0 +1,1 @@
+pictured above have 1 3 7 and 15 nodes respectively and are the only possible perfect shapes for binary trees with that number of nodes The problem though lies in the fact that there is no valid

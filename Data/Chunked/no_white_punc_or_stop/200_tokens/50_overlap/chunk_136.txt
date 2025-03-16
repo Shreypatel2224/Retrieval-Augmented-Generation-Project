@@ -1,0 +1,1 @@
+new root created two children increasing height tree one example effect series insertions first insertion 13 merely affects leaf second insertion 14 overflows leaf adds key internal node third

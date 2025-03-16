@@ -1,0 +1,1 @@
+represent basic objectsstructures  The number of fieldvalue pairs per hash is 2321  Practical limit Available system resources eg memory  Session information management  UserEvent tracking could

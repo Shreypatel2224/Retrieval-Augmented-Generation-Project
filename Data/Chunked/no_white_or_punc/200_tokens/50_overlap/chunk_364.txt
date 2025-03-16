@@ -1,0 +1,1 @@
+Can You Store Data  Instance Store Temporary highspeed storage tied to the instance lifecycle  EFS Elastic File System Shared file storage  EBS Elastic Block Storage Persistent blocklevel storage  S3

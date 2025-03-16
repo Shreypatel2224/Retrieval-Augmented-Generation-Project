@@ -1,0 +1,1 @@
+image Optional Settings Add 6379 Ports expose port connect Normally would expose Redis port security reasons production environment would major security hole Notice didn’t set password Connecting

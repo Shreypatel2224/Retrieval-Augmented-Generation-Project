@@ -1,0 +1,1 @@
+Atlas released in 2016 → document DB as a service MongoDB Structure  Database  Collection A  Document 1  Document 2  Document 3  Collection B  Document 1  Document 2  Document 3  Collection C

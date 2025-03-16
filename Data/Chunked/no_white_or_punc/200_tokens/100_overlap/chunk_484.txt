@@ -1,0 +1,1 @@
+BinaryData etc  Lightweight Keeps space overhead to a minimum  Traversable Designed to be easily traversed which is vitally important to a document DB  Efficient Encoding and decoding must be

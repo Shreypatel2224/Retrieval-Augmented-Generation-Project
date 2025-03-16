@@ -1,0 +1,1 @@
+failures system failures Overall system needs Partition Tolerant system keep running even network partition CAP Theorem CAP Theorem states impossible distributed data store simultaneously provide two

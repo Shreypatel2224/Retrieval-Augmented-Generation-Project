@@ -1,0 +1,1 @@
+B tree order four deleting record reduces number records node minimum threshold called underflow must something keep node sufficiently full first choice look node’s adjacent siblings determine spare

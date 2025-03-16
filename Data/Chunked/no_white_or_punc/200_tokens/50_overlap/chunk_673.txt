@@ -1,0 +1,1 @@
+any single character except newline    match zero or more occurrences of the previous character the  in this case data  demodbcustomersfindname regex T id 0 name 1 rating1 printdumpsdata indent2

@@ -1,0 +1,1 @@
+Host localhost or 127001  Port The port mapping given when you created the container probably the default 6379  db The database 015 you want to connect to  decoderesponses Data comes back from the

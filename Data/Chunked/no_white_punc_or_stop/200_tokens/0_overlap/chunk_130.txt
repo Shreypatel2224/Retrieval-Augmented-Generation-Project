@@ -1,0 +1,1 @@
+continue operate despite arbitrary network issues CAP Theorem Database View Consistency Every user DB identical view data given instant Availability event failure database remains operational

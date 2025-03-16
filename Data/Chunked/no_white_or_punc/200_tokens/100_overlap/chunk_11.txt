@@ -1,0 +1,1 @@
+is required 3 Btrees keep related records that is records with similar key values on the same disk block which helps to minimize disk IO on range searches 4 Btrees guarantee that every node in the

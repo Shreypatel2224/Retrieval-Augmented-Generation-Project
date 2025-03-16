@@ -1,0 +1,1 @@
+after deleted rows  Triggerbased Changes are logged to a separate table whenever a trigger fires Synchronous vs Asynchronous Replication  Synchronous Leader waits for a response from the follower

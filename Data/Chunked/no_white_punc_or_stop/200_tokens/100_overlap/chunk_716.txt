@@ -1,0 +1,1 @@
+collection commands handle complex data secondary indexes supports lookup key Redis Data Types Keys Usually strings binary sequence Values Strings Lists linked lists Sets unique unsorted string

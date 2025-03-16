@@ -1,0 +1,1 @@
+Read  A transaction T1 is able to read a row that has been modified by another transaction T2 that hasn’t yet executed a COMMIT  Nonrepeatable Read  Two queries in a single transaction T1 execute a

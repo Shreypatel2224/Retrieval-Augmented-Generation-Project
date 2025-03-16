@@ -1,0 +1,1 @@
+less records requirement simply leaf nodes store enough records remain least half full leaf nodes tree normally linked together form doubly linked list Thus entire collection records traversed sorted

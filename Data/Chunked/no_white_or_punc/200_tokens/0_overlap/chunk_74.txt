@@ -1,0 +1,1 @@
+because the amount of information in each block is greater Because Btrees have become so popular many algorithm designers have tried to improve Btree performance One method for doing so is to use the

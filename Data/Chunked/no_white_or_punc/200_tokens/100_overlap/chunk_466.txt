@@ -1,0 +1,1 @@
+is always read from the leader  Method 2 Dynamically switch to reading from the leader for “recently updated” data For example have a policy that all requests within one minute of the last update

@@ -1,0 +1,1 @@
+and Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 67thats what the height of a tree is — is Θlog n then we know that none of these paths is longer than that so insertions and removals

@@ -1,0 +1,1 @@
+to be writeconsistent  Replicas don’t have to be mutually consistent  Eventual Consistency  The system will eventually become consistent  All writes will eventually stop so all nodesreplicas can be

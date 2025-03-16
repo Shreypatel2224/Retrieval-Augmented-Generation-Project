@@ -1,0 +1,1 @@
+tree will be Θlog n as well and well accept that via our intuition for now and proceed All in all a complete binary tree would be a great goal for us to attain If we could keep the shape of our

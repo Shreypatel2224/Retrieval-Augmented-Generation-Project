@@ -1,0 +1,1 @@
+data problem T1 reading data T2 may writing result Dirty Read Nonrepeatable Read Phantom Reads Durability transaction completed committed successfully changes permanent Even event system failure

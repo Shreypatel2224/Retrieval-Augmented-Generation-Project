@@ -1,0 +1,1 @@
+removals from a binary search tree to require Olog n time in every case rather than letting them degrade to a worstcase behavior of On To do that we need to decide on a balance condition which is to

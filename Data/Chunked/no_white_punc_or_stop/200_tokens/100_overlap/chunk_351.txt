@@ -1,0 +1,1 @@
+node Partitions subset data Replication Common Strategies Replication Single leader model Multiple leader model Leaderless model Distributed databases usually adopt one strategies LeaderBased

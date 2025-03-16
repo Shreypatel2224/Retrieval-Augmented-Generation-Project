@@ -1,0 +1,1 @@
+kind of rotation is an LR rotation which makes an adjustment thats slightly more complicated An LR rotation requires five pointer updates instead of three but this is still a constant number of

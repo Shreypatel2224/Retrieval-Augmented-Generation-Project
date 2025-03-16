@@ -1,0 +1,1 @@
+collection records change linear index provides extremely efficient way search problem handle pesky inserts deletes could try keep core idea storing sorted array based list make flexible breaking

@@ -1,0 +1,1 @@
+examined and the second right branch taken After examining the node at level 1 the third branch is taken to the next level to arrive at the leaf node containing a record with key value 47 Btree

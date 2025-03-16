@@ -1,0 +1,1 @@
+onaBST ndsthekeysin nondecreasing order 6Operations onBST 1Searching forakey Weassume thatakeyandthesubtree in which thekeyissearched foraregivenasan input Welltakethefulladvantage ofthe BSTp roperty

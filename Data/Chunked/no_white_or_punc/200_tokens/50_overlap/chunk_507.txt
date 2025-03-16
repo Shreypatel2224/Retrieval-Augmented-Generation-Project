@@ -1,0 +1,1 @@
+be a simple matter of adjusting a few pointers — notably a constant number of pointers no matter how many nodes are in the tree which means that this rotation would run in Θ1 time Bs parent would now

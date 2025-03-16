@@ -1,0 +1,1 @@
+documents with OR conditions collectionfind or  field1 value1 field2 value2   Projecting specific fields collectionfind field1 1 field2 1 id 0 Updating a document collectionupdateoneconditionfield

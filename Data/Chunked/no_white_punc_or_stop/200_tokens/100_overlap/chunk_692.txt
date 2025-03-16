@@ -1,0 +1,1 @@
+responds based distributed store data may absolute latest ACID Alternative Distributed Systems BASE Basically Available Guarantees availability data per CAP response “failure”“unreliable” data

@@ -1,0 +1,1 @@
+customer return all fields except id and address data  demodbcustomersfind id 0 address 0 printdumpsdata indent2  SELECT name rating FROM customers WHERE name LIKE T  Regular Expression Explanation

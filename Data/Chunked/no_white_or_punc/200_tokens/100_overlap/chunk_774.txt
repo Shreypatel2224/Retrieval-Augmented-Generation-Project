@@ -1,0 +1,1 @@
+and right subtrees of each node When they differ by more than 1 choose a rotation that will fix the imbalance Note that comparing the heights of the left and right subtrees would be quite expensive

@@ -1,0 +1,1 @@
+primary secondary indices document fields Replication Supports replica sets automatic failover Load balancing built MongoDB Versions MongoDB Atlas Fully managed MongoDB service cloud DBaaS MongoDB

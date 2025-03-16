@@ -1,0 +1,1 @@
+stored B trees may also useful inmemory data structures days main memory almost slow relative processor disk drives main memory Btrees first introduced Btree order search tree nonleaf node children

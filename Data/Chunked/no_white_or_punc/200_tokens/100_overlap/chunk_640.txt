@@ -1,0 +1,1 @@
+recursion in some programming languages including C can avoid runtime stack growth as you recurse — but its still a sign of potential trouble The time it will take you to build the degenerate tree

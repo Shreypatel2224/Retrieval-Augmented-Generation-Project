@@ -1,0 +1,1 @@
+at most one million records 100 secondlevel nodes with 100 full children each A tree with height four must have at least 250000 records and at most 100 million records Thus it would require an

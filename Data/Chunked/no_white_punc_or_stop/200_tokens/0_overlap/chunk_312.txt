@@ -1,0 +1,1 @@
+Spring 2022 Notes Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 57But resulting tree AVL tree node containing key 40 AVL property difference heights subtrees 2 left subtree height 1

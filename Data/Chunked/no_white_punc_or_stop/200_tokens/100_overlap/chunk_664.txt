@@ -1,0 +1,1 @@
+usrbirthPlace 13 Basic Data Importing LOAD CSV HEADERS filenetflixtitlescsv line CREATEMovie id lineshowid title linetitle releaseYear linereleaseyear Type following Cypher Editor Neo4j Browser

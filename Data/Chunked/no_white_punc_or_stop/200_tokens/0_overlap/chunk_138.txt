@@ -1,0 +1,1 @@
+pointer left 42 Note None new values cause node split B Tree 4 Insert 30 Starting root descend leftmost child we’ll call curr curr leaf node Thus insert 30 curr curr full split Create new node right

@@ -1,0 +1,1 @@
+2 a root node with one child and not the other Mh  1  Mh  1  Mh  2 While the repeated substitution technique we learned previously isnt a good way to try to solve this particular recurrence we can

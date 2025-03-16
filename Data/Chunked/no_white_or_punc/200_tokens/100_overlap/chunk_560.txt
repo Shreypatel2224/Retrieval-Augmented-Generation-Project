@@ -1,0 +1,1 @@
+linked together in a chain using memory addresses  Pros  Fast for inserting anywhere in the list  Cons  Slow for random access Binary Search Overview  Input An array of values in sorted order and a

@@ -1,0 +1,1 @@
+records 100 million records Thus would require extremely large database generate tree height four tree split insert rules guarantee every node except perhaps root least half full average 34 full

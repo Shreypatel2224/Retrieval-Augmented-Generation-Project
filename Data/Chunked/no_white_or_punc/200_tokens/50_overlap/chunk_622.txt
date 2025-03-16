@@ -1,0 +1,1 @@
+User Profiles  Preferences  User info could be obtained with a single GET operation—language timezone product or UI preferences  Shopping Cart Data  Cart data is tied to the user Needs to be

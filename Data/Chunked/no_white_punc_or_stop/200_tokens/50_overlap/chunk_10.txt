@@ -1,0 +1,1 @@
+children Thus Btree node equivalent disk block “pointer” value stored tree actually number block containing child node usually interpreted offset beginning corresponding disk file typical application

@@ -1,0 +1,1 @@
+list Thus entire collection records traversed sorted order visiting leaf nodes linked list Javalike pseudocode representation tree node interface Leaf node internal node subclasses would implement

@@ -1,0 +1,1 @@
+directorslist UNWIND directorslist directorname CREATE Person name trimdirectorname generates duplicate Person nodes director direct 1 movie Importing Directors Merged MATCH pPerson DELETE p LOAD CSV

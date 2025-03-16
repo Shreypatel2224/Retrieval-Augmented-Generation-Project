@@ -1,0 +1,1 @@
+AVL tree height h least 2h2 reality actually gives us something useful work use result figure really interested opposite height AVL tree n nodes Mh ≥ 2h2 log2Mh ≥ h2 2 log2Mh ≥ h Finally see AVL

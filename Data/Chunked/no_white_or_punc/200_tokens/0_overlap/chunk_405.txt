@@ -1,0 +1,1 @@
+you didnt already know what they were The solution to this problem is for each node to store its height ie the height of the subtree rooted there This can be cheaply updated after every insertion or

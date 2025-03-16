@@ -1,0 +1,1 @@
+method for producing identical environments no more “it works on my machine”  Interaction is mostly via the command line Example dockercomposeyaml yaml services neo4j containername neo4j image

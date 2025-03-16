@@ -1,0 +1,1 @@
+left with that key question What is the height of an AVL tree with n nodes If youre not curious you can feel free to just assume this if you want to know more keep reading What is the height of an

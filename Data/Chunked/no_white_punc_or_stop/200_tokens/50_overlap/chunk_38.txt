@@ -1,0 +1,1 @@
+29leftmost position additional key less equal possible key value node’s leftmost subtree tree implementations typically store additional dummy record leftmost leaf node whose key value less legal key

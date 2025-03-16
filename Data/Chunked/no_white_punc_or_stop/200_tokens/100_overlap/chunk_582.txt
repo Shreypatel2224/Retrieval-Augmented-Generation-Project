@@ -1,0 +1,1 @@
+binary search trees rotation doesnt harm ordering keys nodes subtrees T1 T2 T3 maintain appropriate positions relative keys B keys T1 smaller keys T2 larger smaller B keys T3 larger B Performing

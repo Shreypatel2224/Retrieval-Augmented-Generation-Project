@@ -1,0 +1,1 @@
+lefty 8elsex righty 9xisthenodethats moving toysposition 10ifx6nilthen px py 11 pxisresetIfxisntNIL 12 Resetting isunnecessa ryifxisNIL 19Algorithm contd 13ifpynilthen rootT x 14 Ifyistherootthen

@@ -1,0 +1,1 @@
+Definition language describing allowed structure XML document XSLT eXtensible Stylesheet Language Transformation tool transform XML formats including nonXML formats HTML Document Databases Document

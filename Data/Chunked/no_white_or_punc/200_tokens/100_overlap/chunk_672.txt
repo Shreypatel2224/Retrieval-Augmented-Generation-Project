@@ -1,0 +1,1 @@
+binary tree of height h − 2 That can be a bit of a mindbending definition but it actually leads to a conceptually simple result On every level of a complete binary tree every node that could possibly

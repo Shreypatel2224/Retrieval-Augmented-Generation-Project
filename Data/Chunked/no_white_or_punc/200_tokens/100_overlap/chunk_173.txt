@@ -1,0 +1,1 @@
+large database to generate a tree of more than height four The tree split and insert rules guarantee that every node except perhaps the root is at least half full So they are on average about 34 full

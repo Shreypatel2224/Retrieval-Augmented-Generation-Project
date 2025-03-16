@@ -1,0 +1,1 @@
+Temporarily suspend usage without deleting instance Terminate Permanently delete instance Reboot Restart instance without losing data root volume Store Data Instance Store Temporary highspeed storage

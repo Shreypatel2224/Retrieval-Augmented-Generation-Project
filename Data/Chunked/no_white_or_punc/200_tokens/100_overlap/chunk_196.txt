@@ -1,0 +1,1 @@
+renting rackspaceservers in a traditional data center History of AWS  Originally launched in 2006 with only 2 services S3 Simple Storage Service and EC2 Elastic Compute Cloud  By 2010 services

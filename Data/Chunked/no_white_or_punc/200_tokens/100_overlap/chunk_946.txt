@@ -1,0 +1,1 @@
+Decrement by 1  DECRBY someValue 5  Decrement by 5  INCR parses the value as an integer and increments or adds to the value  SETNX key value only sets value to key if the key does not already exist

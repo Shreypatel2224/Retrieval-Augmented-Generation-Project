@@ -1,0 +1,1 @@
+that the height of a tree is the length of its longest path By definition the height of a tree with just a root node and empty subtrees would then be zero But what about a tree thats totally empty To

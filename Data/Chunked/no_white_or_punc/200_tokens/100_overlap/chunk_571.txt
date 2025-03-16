@@ -1,0 +1,1 @@
+into a sorted array  Use a linked list of tuples specialVal rowNumber sorted by specialVal  Fast for inserts  Slow for searching requires linear scan Binary Search Trees BST Overview  A binary tree

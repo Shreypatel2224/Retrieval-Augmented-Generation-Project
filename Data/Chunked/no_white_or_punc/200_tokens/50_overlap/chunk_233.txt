@@ -1,0 +1,1 @@
+needs to split to accommodate 35  New leaf node allocated to the right of the existing node  52 values stay in the original node remaining values are moved to the new node  The smallest value from

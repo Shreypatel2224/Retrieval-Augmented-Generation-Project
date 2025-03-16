@@ -1,0 +1,1 @@
+nodes share similar property AVL tree height h ≥ 2 minimum number nodes consists root node two subtrees one AVL tree height h − 1 minimum number nodes AVL tree height h − 2 minimum number nodes Given

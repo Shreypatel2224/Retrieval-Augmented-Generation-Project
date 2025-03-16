@@ -1,0 +1,1 @@
+Responsibilities Security cloud Control datacontent classification encryption sharing Configure IAM users roles policies enforce Principle Least Privilege Manage selfhosted apps associated OSs Ensure

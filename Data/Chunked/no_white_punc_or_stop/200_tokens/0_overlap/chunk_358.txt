@@ -1,0 +1,1 @@
+“NoSQL” first used 1998 Carlo Strozzi describe relational database system use SQL Modern meaning “Not SQL” Sometimes thought nonrelational DBs Originally developed part response processing

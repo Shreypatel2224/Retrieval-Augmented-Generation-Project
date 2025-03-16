@@ -1,0 +1,1 @@
+Traversable Designed to be easily traversed which is vitally important to a document DB  Efficient Encoding and decoding must be efficient  Supported by many modern programming languages XML

@@ -1,0 +1,1 @@
+Reads  When a transaction T1 is running and another transaction T2 adds or deletes rows from the set T1 is using Example Transaction  Transfer Money DELIMITER  CREATE PROCEDURE transfer IN senderid

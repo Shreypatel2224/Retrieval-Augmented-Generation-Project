@@ -1,0 +1,1 @@
+T1 T2 executed time cannot affect T1 T2 reading data problem T1 reading data T2 may writing result Dirty Read Nonrepeatable Read Phantom Reads Durability transaction completed committed successfully

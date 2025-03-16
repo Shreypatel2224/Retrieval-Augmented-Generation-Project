@@ -1,0 +1,1 @@
+binary search tree doesnt AVL property height tree Θlog n lookups run Olog n time Insertions removals despite slightly complicated AVL tree work traversing single path tree — potentially way leaf

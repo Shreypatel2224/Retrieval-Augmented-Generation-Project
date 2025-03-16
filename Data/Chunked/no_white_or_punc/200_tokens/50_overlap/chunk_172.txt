@@ -1,0 +1,1 @@
+expect to get cache hits For example if we are accessing a large disk database then our cache lines are memory blocks of the size that is read from disk Lookup in a Btree is straightforward Given a

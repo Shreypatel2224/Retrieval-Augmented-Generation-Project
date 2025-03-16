@@ -1,0 +1,1 @@
+if rtisLeaf   At leaf node insert here return BPLeafKeyErtaddk e   Add to internal node int currec  binarylertkeys rtnumrecs k BPNodeKeyE temp  inserthelp BPInternalKeyErootpointerscurrec k e if temp

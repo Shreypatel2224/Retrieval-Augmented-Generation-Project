@@ -1,0 +1,1 @@
+height three must have at least 5000 records two secondlevel nodes with 50 children containing 50 records each and at most one million records 100 secondlevel nodes with 100 full children each A tree

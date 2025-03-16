@@ -1,0 +1,1 @@
+what were really interested in which is the opposite what is the height of an AVL tree with n nodes Mh ≥ 2h2 log2Mh ≥ h2 2 log2Mh ≥ h Finally we see that for AVL trees of height h with the minimum

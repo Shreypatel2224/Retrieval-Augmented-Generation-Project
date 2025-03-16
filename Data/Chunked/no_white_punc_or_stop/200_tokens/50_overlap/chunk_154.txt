@@ -1,0 +1,1 @@
+VARCHAR255 DEFAULT Transaction rolled back Insufficient funds DECLARE commitmessage VARCHAR255 DEFAULT Transaction committed successfully Start transaction START TRANSACTION Attempt debit money

@@ -1,0 +1,1 @@
+to connect to  decoderesponses Data comes back from the server as bytes Setting this to True converts them decodes to strings Example import redis redisclient  redisRedishostlocalhost port6379 db2

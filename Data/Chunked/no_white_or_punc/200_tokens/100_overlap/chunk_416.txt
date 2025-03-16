@@ -1,0 +1,1 @@
+height ofthetree Tostudy thisquestion weconsider the processofconstructing atreeTbyinserting inorderrandomly selected ndistinct keys toaninitially emptytreeHeretheactually values ofthekeysdonotmatter

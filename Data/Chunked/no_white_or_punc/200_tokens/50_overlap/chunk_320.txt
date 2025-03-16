@@ -1,0 +1,1 @@
+newer data Consistent Prefix Reads  Reading data out of order can occur if different partitions replicate data at different rates There is no global write consistency  Consistent Prefix Read

@@ -1,0 +1,1 @@
+of datacontent classification encryption sharing  Configure IAM users roles and policies enforce the Principle of Least Privilege  Manage selfhosted apps and associated OSs  Ensure network security

@@ -1,0 +1,1 @@
+chunks that exploit locality can also be applied to trees Binary search trees are not good for locality because a given node of the binary tree probably occupies only a fraction of any cache line

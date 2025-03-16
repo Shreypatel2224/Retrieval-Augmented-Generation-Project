@@ -1,0 +1,1 @@
+root is at least half full So they are on average about 34 full But the internal nodes are purely overhead since the keys stored there are used only by the tree to direct search rather than store

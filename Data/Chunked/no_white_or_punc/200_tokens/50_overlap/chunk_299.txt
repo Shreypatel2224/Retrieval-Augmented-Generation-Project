@@ -1,0 +1,1 @@
+Commodity hardware Data  Replication vs Partitioning  Replicates have the same data as the main node  Partitions have a subset of the data Replication Common Strategies for Replication  Single

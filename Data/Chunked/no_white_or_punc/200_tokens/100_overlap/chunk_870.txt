@@ -1,0 +1,1 @@
+can direct more than 1 movie Importing with Directors Merged MATCH pPerson DELETE p LOAD CSV WITH HEADERS FROM filenetflixtitlescsv AS line WITH splitlinedirector  as directorslist UNWIND

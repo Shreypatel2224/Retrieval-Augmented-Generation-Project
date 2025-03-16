@@ -1,0 +1,1 @@
+imbalance and the tree would be rearranged to look like this Compare this to the diagram describing an LR rotation The node containing 40 is C The node containing 30 is A The node containing 35 is B

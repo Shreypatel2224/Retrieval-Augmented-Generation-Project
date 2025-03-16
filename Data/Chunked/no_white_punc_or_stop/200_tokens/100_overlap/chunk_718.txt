@@ -1,0 +1,1 @@
+elements Sorted Sets Hashes string → string Geospatial data Setting Redis Docker Docker Desktop search Redis PullRun latest image Optional Settings Add 6379 Ports expose port connect Normally would

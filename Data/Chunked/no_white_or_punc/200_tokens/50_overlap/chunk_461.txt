@@ -1,0 +1,1 @@
+us to attain If we could keep the shape of our binary search trees complete we would always have binary search trees with height Θlog n The cost of maintaining completeness The trouble of course is

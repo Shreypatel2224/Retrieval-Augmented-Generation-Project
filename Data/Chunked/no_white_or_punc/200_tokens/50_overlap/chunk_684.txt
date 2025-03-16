@@ -1,0 +1,1 @@
+The next slides are not meant to be an exhaustive list of commands only some highlights Check the documentation for a complete list String Commands  r represents the Redis client object

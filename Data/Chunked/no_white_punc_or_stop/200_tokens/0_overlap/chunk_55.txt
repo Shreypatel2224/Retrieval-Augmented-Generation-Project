@@ -1,0 +1,1 @@
+tree tree identical tree except rules used split merge nodes Instead splitting node half overflows tree gives records neighboring sibling possible sibling also full two nodes split three Similarly

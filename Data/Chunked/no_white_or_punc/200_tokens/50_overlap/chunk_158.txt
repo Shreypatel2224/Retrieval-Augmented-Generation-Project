@@ -1,0 +1,1 @@
+to trees Binary search trees are not good for locality because a given node of the binary tree probably occupies only a fraction of any cache line Btrees are a way to get better locality by putting

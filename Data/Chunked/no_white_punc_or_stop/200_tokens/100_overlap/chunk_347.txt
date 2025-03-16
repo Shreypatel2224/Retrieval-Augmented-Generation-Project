@@ -1,0 +1,1 @@
+locking limit scalability highwrite volumes okay Data Warehouse applications high read volumes AWS EC2 Pricing Oct 2024 78000month highperformance instances Horizontal Scaling Shared Nothing

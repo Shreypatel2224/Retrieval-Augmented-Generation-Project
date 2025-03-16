@@ -1,0 +1,1 @@
+reading the same data that T2 may be writing it can result in  Dirty Read  Nonrepeatable Read  Phantom Reads  Durability  Once a transaction is completed and committed successfully its changes are

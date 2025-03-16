@@ -1,0 +1,1 @@
+78000month for highperformance instances Horizontal Scaling  Shared Nothing Architectures  Each node has its own CPU memory and disk  Coordination via application layer using conventional network

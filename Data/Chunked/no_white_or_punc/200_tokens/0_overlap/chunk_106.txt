@@ -1,0 +1,1 @@
+applications  SaaS Software as a Service  Provides full software applications run and managed by another partyvendor The Shared Responsibility Model  AWS  AWS Responsibilities Security OF the cloud

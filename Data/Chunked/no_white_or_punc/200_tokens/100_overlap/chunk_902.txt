@@ -1,0 +1,1 @@
+the data is in an inconsistent or changing state  The system appears to work most of the time  Soft State  The state of the system could change over time even without input Changes could be the

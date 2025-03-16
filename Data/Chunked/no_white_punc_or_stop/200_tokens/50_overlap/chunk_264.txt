@@ -1,0 +1,1 @@
+XML CSS → web pages separated content formatting Structurally similar HTML tag set extensible XMLRelated ToolsTechnologies XPath syntax retrieving specific elements XML document XQuery query language

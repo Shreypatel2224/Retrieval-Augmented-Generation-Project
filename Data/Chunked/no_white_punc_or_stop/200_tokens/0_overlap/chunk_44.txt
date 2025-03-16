@@ -1,0 +1,1 @@
+tree first locate leaf contains half full need remove leaving still least half full demonstrated Figure B B Tree Insertion Instructions exercise job insert values stack B tree Search leaf node

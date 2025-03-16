@@ -1,0 +1,1 @@
+more performant eg realtime lowlatency systems Scalability  Up or Out  Conventional Wisdom Scale vertically up with bigger more powerful systems until the demands of highavailability make it

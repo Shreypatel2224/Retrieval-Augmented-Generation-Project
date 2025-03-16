@@ -1,0 +1,1 @@
+consistent  Eventual Consistency  The system will eventually become consistent  All writes will eventually stop so all nodesreplicas can be updated Categories of NoSQL DBs  Review KeyValue Databases

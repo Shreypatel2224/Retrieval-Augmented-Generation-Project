@@ -1,0 +1,1 @@
+if the old leader recovers how do we avoid having multiple leaders receiving conflicting data Split brain issue  Leader failure detection Optimal timeout is tricky Replication Lag  Replication Lag

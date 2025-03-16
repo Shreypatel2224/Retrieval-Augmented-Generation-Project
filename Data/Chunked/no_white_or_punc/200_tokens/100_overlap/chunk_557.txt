@@ -1,0 +1,1 @@
+of Records Contiguously Allocated List Array  Description  All n  x bytes are allocated as a single “chunk” of memory  Pros  Fast for random access  Cons  Slow for inserting anywhere but the end

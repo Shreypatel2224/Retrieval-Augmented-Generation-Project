@@ -1,0 +1,1 @@
+user Needs available across browsers machines sessions Caching Layer front diskbased database Redis DB Redis Remote Directory Server Opensource inmemory database Sometimes called data structure store

@@ -1,0 +1,1 @@
+binary search trees Its important to remember that both of these trees — before and after — are binary search trees the rotation doesnt harm the ordering of the keys in nodes because the subtrees T1

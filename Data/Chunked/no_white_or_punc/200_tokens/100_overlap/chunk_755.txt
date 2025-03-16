@@ -1,0 +1,1 @@
+is the mirror image of an LL rotation31425 439 PM ICS 46 Spring 2022 Notes and Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 47A third kind of rotation is an LR rotation which makes an

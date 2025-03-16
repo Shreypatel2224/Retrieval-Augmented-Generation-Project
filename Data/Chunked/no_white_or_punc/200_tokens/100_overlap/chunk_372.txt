@@ -1,0 +1,1 @@
+Inorder Walkx 1ifxnilthenreturn 2Inorder Walkleftx 3Print keyx 4Inorder Walkrightx Wecanwriteasimilarpseudo codefor preorderandpostorder 4preorder postorder inorder2 1 31 1 2 2 33 4 2 36 512 9 8 11

@@ -1,0 +1,1 @@
+the AWS Management Console 2 Configure event sources 3 Watch your Lambda run when one of the event sources fires an event

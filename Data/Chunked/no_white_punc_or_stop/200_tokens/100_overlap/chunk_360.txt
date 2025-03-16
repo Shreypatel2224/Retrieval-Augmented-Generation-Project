@@ -1,0 +1,1 @@
+Synchronous Leader waits response follower Asynchronous Leader doesn’t wait confirmation Happens Leader Fails Challenges pick new Leader Node Consensus strategy use controller node configure clients

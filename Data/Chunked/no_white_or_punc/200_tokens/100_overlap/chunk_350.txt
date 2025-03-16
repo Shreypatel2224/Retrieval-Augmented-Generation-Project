@@ -1,0 +1,1 @@
+4  Insert 30  Starting at the root we descend to the leftmost child we’ll call it curr  curr is a leaf node Thus we insert 30 into curr  BUT curr is full So we have to split  Create a new node to

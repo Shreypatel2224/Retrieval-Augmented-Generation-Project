@@ -1,0 +1,1 @@
+CS3 Data Structures Algorithms httpsopendsaservercsvteduODSABooksCS3htmlBTreehtmlid2 69Figure 1267 example deletion B tree order four deleting record reduces number records node minimum threshold

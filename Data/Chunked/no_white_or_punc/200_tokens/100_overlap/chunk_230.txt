@@ -1,0 +1,1 @@
+Amazon S3  Amazon RDS and DynamoDB  AWS Glue  Amazon Athena  Amazon EMR  Amazon Redshift AWS Free Tier  Allows handson experience with a subset of services for 12 months service limitations apply

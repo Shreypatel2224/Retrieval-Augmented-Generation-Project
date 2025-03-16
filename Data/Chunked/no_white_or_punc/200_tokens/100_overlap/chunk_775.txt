@@ -1,0 +1,1 @@
+imbalance Note that comparing the heights of the left and right subtrees would be quite expensive if you didnt already know what they were The solution to this problem is for each node to store its

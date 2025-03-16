@@ -1,0 +1,1 @@
+Relationships directed neo4j Matching users born London MATCH usrUser birthPlace “London” RETURN usrname usrbirthPlace 13 Basic Data Importing LOAD CSV HEADERS filenetflixtitlescsv line CREATEMovie

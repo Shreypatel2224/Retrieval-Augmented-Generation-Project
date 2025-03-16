@@ -1,0 +1,1 @@
+appropriate leaf position lookup ended problem adding new node introduced possibility imbalance example suppose started AVL tree inserted key 35 binary search tree insertion would give us result

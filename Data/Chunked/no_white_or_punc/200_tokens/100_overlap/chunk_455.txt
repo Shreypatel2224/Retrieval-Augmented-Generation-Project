@@ -1,0 +1,1 @@
+clients to start writing to the new leader  If asynchronous replication is used the new leader may not have all the writes  How do we recover the lost writes Or do we simply discard them  After if

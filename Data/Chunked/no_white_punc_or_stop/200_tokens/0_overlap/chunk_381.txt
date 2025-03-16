@@ -1,0 +1,1 @@
+INCR someValue Increment 1 INCRBY someValue 10 Increment 10 DECR someValue Decrement 1 DECRBY someValue 5 Decrement 5 INCR parses value integer increments adds value SETNX key value sets value key

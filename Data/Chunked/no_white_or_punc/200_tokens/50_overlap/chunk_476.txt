@@ -1,0 +1,1 @@
+the condition is Θlog n It takes Olog n time to rebalance the tree on insertions and removals In other words it guarantees that the height of the tree is still logarithmic which will give us

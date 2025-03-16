@@ -1,0 +1,1 @@
+up If the length of the longest path —31425 439 PM ICS 46 Spring 2022 Notes and Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 67thats what the height of a tree is — is Θlog n then we

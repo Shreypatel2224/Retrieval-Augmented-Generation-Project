@@ -1,0 +1,1 @@
+as a data exchange format  XML  CSS → web pages that separated content and formatting  Structurally similar to HTML but the tag set is extensible XMLRelated ToolsTechnologies  XPath A syntax for

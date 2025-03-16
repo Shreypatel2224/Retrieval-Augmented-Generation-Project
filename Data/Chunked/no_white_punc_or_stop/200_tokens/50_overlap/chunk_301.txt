@@ -1,0 +1,1 @@
+Linear Search Linear Search Process Start beginning list proceed element element find you’re looking reach last element without finding Time Complexity Best case O1 target found first element Worst

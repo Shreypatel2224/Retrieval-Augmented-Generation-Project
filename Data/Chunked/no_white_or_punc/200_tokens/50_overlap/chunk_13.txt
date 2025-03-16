@@ -1,0 +1,1 @@
+tree is chosen to fill a disk block A Btree node implementation typically allows 100 or more children Thus a Btree node is equivalent to a disk block and a “pointer” value stored in the tree is

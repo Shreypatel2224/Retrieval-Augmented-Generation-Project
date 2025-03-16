@@ -1,0 +1,1 @@
+COMMIT  OR the entire sequence fails ROLLBACK or ABORT  Helps ensure  Data Integrity  Error Recovery  Concurrency Control  Reliable Data Storage  Simplified Error Handling ACID Properties  Atomicity

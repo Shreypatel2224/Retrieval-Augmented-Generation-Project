@@ -1,0 +1,1 @@
+Adding Edge Variable Names CREATE User name Alice birthPlace Paris CREATE User name Bob birthPlace London MATCH aliceUser name”Alice” MATCH bobUser name “Bob” CREATE aliceKNOWS since “20221201”bob

@@ -1,0 +1,1 @@
+element until  You find what you’re looking for or  You reach the last element without finding it  Time Complexity  Best case O1 target is found at the first element  Worst case On target is not in

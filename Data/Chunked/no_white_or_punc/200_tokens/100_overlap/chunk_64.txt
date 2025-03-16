@@ -1,0 +1,1 @@
+means that internal nodes are significantly different in structure from leaf nodes Internal nodes store keys to guide the search associating each key with a pointer to a child tree node Leaf nodes

@@ -1,0 +1,1 @@
+ensure Data Integrity Error Recovery Concurrency Control Reliable Data Storage Simplified Error Handling ACID Properties Atomicity transaction treated atomic unit fully executed parts executed

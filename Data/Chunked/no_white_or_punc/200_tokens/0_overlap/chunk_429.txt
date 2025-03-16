@@ -1,0 +1,1 @@
+try to solve this particular recurrence we can prove something interesting quite easily We know for sure that AVL trees with larger heights have a bigger minimum number of nodes than AVL trees with

@@ -1,0 +1,1 @@
+target array Database Searching Challenges Data typically stored disk column ids value Searching specific id fast Searching specific specialVal requires linear scan column Problem Data cannot stored

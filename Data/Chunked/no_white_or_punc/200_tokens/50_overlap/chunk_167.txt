@@ -1,0 +1,1 @@
+least half full 4 The elements stored in a given subtree all have keys that are between the keys in the parent node on either side of the subtree pointer This generalizes the BST invariant 5 The root

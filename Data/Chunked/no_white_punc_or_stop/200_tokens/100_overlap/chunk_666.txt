@@ -1,0 +1,1 @@
+Loading CSVs General Syntax LOAD CSV HEADERS filefileinimportfoldercsv line FIELDTERMINATOR stuffs line Importing Directors Time LOAD CSV HEADERS filenetflixtitlescsv line splitlinedirector

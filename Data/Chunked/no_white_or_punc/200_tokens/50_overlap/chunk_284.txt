@@ -1,0 +1,1 @@
+theotherkeysareinserted Hereallthekeys greater than xgointotherightsubtree ofx andallthekeyssmaller than xgointothe leftsubtree Thus theheight ofthetree thusconstructed isoneplusthelargerofthe height

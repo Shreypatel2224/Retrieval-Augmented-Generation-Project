@@ -1,0 +1,1 @@
+results that should give us pause Every time you perform a lookup in a degenerate binary search tree it will take On time because its possible that youll have to reach every node in the tree before

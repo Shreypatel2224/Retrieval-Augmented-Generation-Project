@@ -1,0 +1,1 @@
+users roles policies enforce Principle Least Privilege Manage selfhosted apps associated OSs Ensure network security VPC Virtual Private Cloud Handle compliance governance policies AWS Global

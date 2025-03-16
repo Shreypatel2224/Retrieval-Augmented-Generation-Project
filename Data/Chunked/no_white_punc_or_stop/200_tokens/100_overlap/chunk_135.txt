@@ -1,0 +1,1 @@
+required reach pointer given record buffer pool could used manage nodes Btree Several nodes tree would typically main memory one time straightforward approach use standard method LRU node replacement

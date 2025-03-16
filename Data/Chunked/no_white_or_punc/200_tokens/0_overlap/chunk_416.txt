@@ -1,0 +1,1 @@
+to correct an imbalance introduced by the insertion algorithm A removal algorithm Removals are somewhat similar to insertions in the sense that you would start with the usual binary search tree

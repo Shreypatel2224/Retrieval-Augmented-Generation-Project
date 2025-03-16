@@ -1,0 +1,1 @@
+Service Fargate Serverless container service  Serverless AWS Lambda Storage Services  Amazon S3 Simple Storage Service object storage in buckets highly scalable  Amazon EFS Elastic File System

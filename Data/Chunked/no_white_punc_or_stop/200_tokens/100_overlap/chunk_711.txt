@@ -1,0 +1,1 @@
+Redis DB Redis Remote Directory Server Opensource inmemory database Sometimes called data structure store Primarily keyvalue store used models Graph Spatial Full Text Search Vector Time Series

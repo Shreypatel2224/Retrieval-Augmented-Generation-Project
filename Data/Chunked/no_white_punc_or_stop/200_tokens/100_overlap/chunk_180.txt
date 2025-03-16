@@ -1,0 +1,1 @@
+invented storing data structures disk locality even crucial memory Accessing disk location takes 5ms 5000000ns Therefore storing tree disk want make sure given disk read effective possible Btrees

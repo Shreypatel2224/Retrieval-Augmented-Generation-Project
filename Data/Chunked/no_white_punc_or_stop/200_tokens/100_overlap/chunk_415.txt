@@ -1,0 +1,1 @@
+MongoClientmongodbusernamepwlocalhost27017 Getting database collection pymongo import MongoClient client MongoClientmongodbusernamepwlocalhost27017 db clientds4300 collection dbmyCollection Inserting

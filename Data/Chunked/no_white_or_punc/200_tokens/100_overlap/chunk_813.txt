@@ -1,0 +1,1 @@
+can feel free to just assume this if you want to know more keep reading What is the height of an AVL tree with n nodes Optional The answer revolves around noting how many nodes at minimum could be in

@@ -1,0 +1,1 @@
+value integer increments adds value SETNX key value sets value key key already exist Hash Type Value keyvalue entry collection fieldvalue pairs Use Cases used represent basic objectsstructures number

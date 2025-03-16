@@ -1,0 +1,1 @@
+C avoid runtime stack growth recurse — still sign potential trouble time take build degenerate tree also prohibitive start empty binary search tree add keys order long take first key add go directly

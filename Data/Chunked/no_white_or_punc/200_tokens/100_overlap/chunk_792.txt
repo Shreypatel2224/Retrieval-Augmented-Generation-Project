@@ -1,0 +1,1 @@
+40 is T4 After the rotation we see what wed expect The node B which in our example contained 35 is now the root of the newlyrotated subtree The node A which in our example contained 30 is now the

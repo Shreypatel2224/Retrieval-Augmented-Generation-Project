@@ -1,0 +1,1 @@
+2 if arrmid  target return mid elif arrmid  target left  mid  1 else right  mid  1 return 1 Time Complexity  Best case O1 target is found at the midpoint  Worst case Olog₂n target is not in the

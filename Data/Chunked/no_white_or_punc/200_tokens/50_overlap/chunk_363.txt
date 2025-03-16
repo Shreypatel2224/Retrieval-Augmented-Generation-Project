@@ -1,0 +1,1 @@
+usage without deleting the instance  Terminate Permanently delete the instance  Reboot Restart an instance without losing data on the root volume Where Can You Store Data  Instance Store Temporary

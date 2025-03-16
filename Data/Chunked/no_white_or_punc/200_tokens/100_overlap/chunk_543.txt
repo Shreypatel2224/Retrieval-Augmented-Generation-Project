@@ -1,0 +1,1 @@
+Lambda  Provides serverless computing  Automatically runs code in response to events  Relieves you from managing servers focus only on the code  Pay only for execution time not for idle compute time

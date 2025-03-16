@@ -1,0 +1,1 @@
+a disk location takes about 5ms  5000000ns Therefore if you are storing a tree on disk you want to make sure that a given disk read is as effective as possible Btrees have a high branching factor

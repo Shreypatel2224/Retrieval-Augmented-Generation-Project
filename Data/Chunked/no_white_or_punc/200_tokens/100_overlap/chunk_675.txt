@@ -1,0 +1,1 @@
+that are there will be as far to the left as possible The following are all complete binary trees Furthermore these are the only possible complete binary trees with these numbers of nodes in them any

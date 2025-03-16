@@ -1,0 +1,1 @@
+discard old leader recovers avoid multiple leaders receiving conflicting data Split brain issue Leader failure detection Optimal timeout tricky Replication Lag Replication Lag refers time takes

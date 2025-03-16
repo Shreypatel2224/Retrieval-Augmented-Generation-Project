@@ -1,0 +1,1 @@
+change to the database  Logical rowbased Log For relational DBs logs inserted rows modified rows before and after deleted rows  Triggerbased Changes are logged to a separate table whenever a trigger

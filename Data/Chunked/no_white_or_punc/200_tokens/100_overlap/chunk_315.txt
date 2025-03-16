@@ -1,0 +1,1 @@
+no need to modify your architecture But there are practical and financial limits  However Modern systems make horizontal scaling less problematic Distributed Systems  A distributed system is “a

@@ -1,0 +1,1 @@
+dothefollowing 16elseifyleftpy 17 leftpy x 18 Ifyistheleftchildofitsparentthen 19 Settheparents leftchildtox 20 elserightpy x 21 Ifyistherightchildofitsparentthen 22 Settheparents rightchildtox

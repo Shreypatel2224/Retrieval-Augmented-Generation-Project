@@ -1,0 +1,1 @@
+on maintaining logarithmic height at no more than logarithmic cost So what makes a binary search tree nearly balanced enough to be considered an AVL tree The core concept is embodied by something

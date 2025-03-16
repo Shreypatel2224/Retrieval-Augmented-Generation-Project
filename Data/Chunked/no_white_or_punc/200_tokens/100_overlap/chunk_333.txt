@@ -1,0 +1,1 @@
+that of ACID CAP Theorem  Database View Continued  Consistency  Availability  The system always responds with the latest data and every request gets a response but it may not be able to deal with

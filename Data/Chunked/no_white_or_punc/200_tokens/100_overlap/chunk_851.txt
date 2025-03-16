@@ -1,0 +1,1 @@
+multicontainer management  Setup is declarative using a YAML dockercomposeyaml file  Defines services volumes networks etc  One command can start stop or scale multiple services  Provides a

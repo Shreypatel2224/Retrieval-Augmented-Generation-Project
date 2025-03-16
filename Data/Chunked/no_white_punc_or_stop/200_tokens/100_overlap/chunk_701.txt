@@ -1,0 +1,1 @@
+joins—they slow things Scalability Horizontal scaling simple—add nodes Typically concerned eventual consistency meaning distributed environment guarantee nodes eventually converge value Value

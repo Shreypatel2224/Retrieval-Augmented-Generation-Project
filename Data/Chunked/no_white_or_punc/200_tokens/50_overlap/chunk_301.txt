@@ -1,0 +1,1 @@
+LeaderBased Replication  All writes from clients go to the leader  Leader sends replication info to the followers  Followers process the instructions from the leader  Clients can read from either the

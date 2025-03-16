@@ -1,0 +1,1 @@
+stay in the original node remaining values are moved to the new node  The smallest value from the new leaf node 42 is copied up to the parent which needs to be created in this case It will be an

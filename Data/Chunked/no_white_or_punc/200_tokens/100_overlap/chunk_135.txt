@@ -1,0 +1,1 @@
+the tree loses a level Here is a Javalike pseudocode for the tree delete algorithm  Delete a record with the given key value and return true if the root underflows  private boolean

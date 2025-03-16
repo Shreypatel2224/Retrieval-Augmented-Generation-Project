@@ -1,0 +1,1 @@
+leader reflected followers Synchronous replication Replication lag causes writes slower system brittle number followers increases Asynchronous replication Maintains availability cost delayed eventual

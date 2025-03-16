@@ -1,0 +1,1 @@
+Materialized views  Precompiled stored procedures  Data replication and partitioning Transaction Processing  Transaction A sequence of one or more CRUD operations performed as a single logical unit

@@ -1,0 +1,1 @@
+random access Binary Search Overview  Input An array of values in sorted order and a target value  Output The location index of the target or an indicator that the target was not found Algorithm def

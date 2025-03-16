@@ -1,0 +1,1 @@
+Btree tree stores records leaf nodes Internal nodes store key values used solely placeholders guide search means internal nodes significantly different structure leaf nodes Internal nodes store keys

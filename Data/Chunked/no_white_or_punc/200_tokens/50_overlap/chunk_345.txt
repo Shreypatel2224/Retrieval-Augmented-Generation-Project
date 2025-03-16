@@ -1,0 +1,1 @@
+Shell CLI tool for interacting with a MongoDB instance  MongoDB Compass Free opensource GUI to work with a MongoDB database  DataGrip and other 3rd Party Tools Every major language has a library to

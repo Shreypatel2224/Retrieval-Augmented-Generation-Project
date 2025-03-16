@@ -1,0 +1,1 @@
+were born in London MATCH usrUser birthPlace “London” RETURN usrname usrbirthPlace 13 Basic Data Importing LOAD CSV WITH HEADERS FROM filenetflixtitlescsv AS line CREATEMovie  id lineshowid title

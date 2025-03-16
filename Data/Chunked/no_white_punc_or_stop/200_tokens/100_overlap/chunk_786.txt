@@ -1,0 +1,1 @@
+complete list String Commands r represents Redis client object rsetclickCountabc 0 val rgetclickCountabc rincrclickCountabc retval rgetclickCountabc printfclick count retval String Commands 2 r

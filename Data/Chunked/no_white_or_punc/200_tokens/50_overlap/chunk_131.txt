@@ -1,0 +1,1 @@
+of regions and availability zones supported by extensive data centers AWS operates on a payasyouuse cost model which is theoretically cheaper than renting rackspaceservers in a traditional data

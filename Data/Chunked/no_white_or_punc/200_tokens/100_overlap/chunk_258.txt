@@ -1,0 +1,1 @@
+binary search to find whether the desired element is in the node or if not which child31425 442 PM Btrees httpswwwcscornelleducoursescs31102012sprecitationsrec25Btreesrec25html 13pointer to follow

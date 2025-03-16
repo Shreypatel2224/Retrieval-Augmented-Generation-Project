@@ -1,0 +1,1 @@
+0 val rgetclickCountabc rincrclickCountabc retval rgetclickCountabc printfclick count retval String Commands 2 r represents Redis client object redisclientmsetkey1 val1 key2 val2 key3 val3

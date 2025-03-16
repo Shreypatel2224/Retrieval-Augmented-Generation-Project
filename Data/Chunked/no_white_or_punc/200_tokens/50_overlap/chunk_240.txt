@@ -1,0 +1,1 @@
+in the parent node  The parent of newNode is also the root So nothing else needs to be done B Tree m  4  Fast forward to this state of the tree…  Observation The root node is full  The next insertion

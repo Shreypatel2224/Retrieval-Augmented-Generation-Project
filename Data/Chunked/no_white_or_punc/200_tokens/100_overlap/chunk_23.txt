@@ -1,0 +1,1 @@
+pool and a blockreplacement scheme such as LRU Figure 1261 shows a Btree of order four Each node contains up to three keys and internal nodes have up to four children Figure 1261 A Btree of order

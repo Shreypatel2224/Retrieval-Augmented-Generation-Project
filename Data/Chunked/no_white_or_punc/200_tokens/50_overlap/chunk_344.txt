@@ -1,0 +1,1 @@
+Subscriptionbased selfmanaged version of MongoDB  MongoDB Community Sourceavailable freetouse selfmanaged Interacting with MongoDB  mongosh MongoDB Shell CLI tool for interacting with a MongoDB

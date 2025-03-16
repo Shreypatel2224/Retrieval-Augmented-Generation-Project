@@ -1,0 +1,1 @@
+An LR rotation requires five pointer updates instead of three but this is still a constant number of changes and runs in Θ1 time Finally there is an RL rotation which is the mirror image of an LR

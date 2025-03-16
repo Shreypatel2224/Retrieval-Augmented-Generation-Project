@@ -1,0 +1,1 @@
+a pessimistic concurrency model because it assumes one transaction has to protect itself from other transactions  Assumes that if something can go wrong it will  Conflicts are prevented by locking

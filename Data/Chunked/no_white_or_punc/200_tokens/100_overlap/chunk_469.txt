@@ -1,0 +1,1 @@
+users but now we have to route requests to distant leaders when reading modifiable data Monotonic Read Consistency  Monotonic read anomalies Occur when a user reads values out of order from multiple

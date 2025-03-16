@@ -1,0 +1,1 @@
+collection  dbmyCollection post   author Mark text MongoDB is Cool tags mongodb python  postid  collectioninsertonepostinsertedid printpostid Count Documents in Collection

@@ -1,0 +1,1 @@
+curr curr full split Create new node right curr temporarily called newNode Insert newNode doubly linked list leaf nodes B Tree 4 Insert 30 continued Redistribute keys Copy smallest key 27 case

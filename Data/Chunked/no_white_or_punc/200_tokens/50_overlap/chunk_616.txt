@@ -1,0 +1,1 @@
+slow things down  Scalability Horizontal scaling is simple—add more nodes Typically concerned with eventual consistency meaning in a distributed environment the only guarantee is that all nodes will

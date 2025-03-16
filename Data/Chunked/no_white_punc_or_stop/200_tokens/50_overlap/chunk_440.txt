@@ -1,0 +1,1 @@
+include Microsoft CosmoDB Amazon Neptune Neo4j Query Language Plugins Cypher Neo4j’s graph query language created 2011 Goal SQLequivalent language graph databases Provides visual way matching

@@ -1,0 +1,1 @@
+recursion unwinds key difference removals require one rotation correct imbalances still require rotations path back root removal occurred — generally Olog n rotations Asymptotic analysis key question

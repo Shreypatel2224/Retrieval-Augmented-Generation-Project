@@ -1,0 +1,1 @@
+Importing LOAD CSV WITH HEADERS FROM filenetflixtitlescsv AS line CREATEMovie  id lineshowid title linetitle releaseYear linereleaseyear   Type the following into the Cypher Editor in Neo4j Browser

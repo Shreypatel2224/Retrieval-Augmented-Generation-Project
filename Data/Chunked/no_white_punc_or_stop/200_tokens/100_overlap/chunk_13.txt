@@ -1,0 +1,1 @@
+generalization 23 tree Put another way 23 tree Btree order three Normally size node B tree chosen fill disk block Btree node implementation typically allows 100 children Thus Btree node equivalent

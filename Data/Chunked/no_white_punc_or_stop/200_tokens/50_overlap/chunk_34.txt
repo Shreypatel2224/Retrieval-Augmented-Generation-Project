@@ -1,0 +1,1 @@
+node internal node subclasses would implement interface Interface B Tree nodes public interface BPNodeKeyE public boolean isLeaf public int numrecs public Key keys important implementation detail

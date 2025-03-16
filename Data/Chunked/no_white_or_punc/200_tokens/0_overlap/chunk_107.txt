@@ -1,0 +1,1 @@
+Security of physical infrastructure and network  Maintain power availability HVAC and physical networking equipment  Manage the virtualization layer and host OSs  Maintain managed services eg

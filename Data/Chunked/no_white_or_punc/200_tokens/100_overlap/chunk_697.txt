@@ -1,0 +1,1 @@
+to an algorithm that is much faster than one that achieves a perfect result So what would a good enough result be What is a good balance condition Our overall goal is for lookups insertions and

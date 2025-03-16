@@ -1,0 +1,1 @@
+Getting a database and collection from pymongo import MongoClient client  MongoClientmongodbusernamepwlocalhost27017 db  clientds4300 collection  dbmyCollection Inserting a single document db

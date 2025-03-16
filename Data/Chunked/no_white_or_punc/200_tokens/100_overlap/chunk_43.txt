@@ -1,0 +1,1 @@
+in the previous section is almost never implemented What is most commonly implemented is a variant of the Btree called the tree When greater efficiency is required a more complicated variant known as

@@ -1,0 +1,1 @@
+fact valid perfect binary tree 2 nodes 4 5 6 8 9 10 11 12 13 14 nodes generally impossible us guarantee binary search tree always perfect definition theres simply way represent numbers keys first

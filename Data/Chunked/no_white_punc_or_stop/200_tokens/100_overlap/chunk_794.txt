@@ -1,0 +1,1 @@
+30 prints name Sam surname Uelle company Redis age 30 printredisclienthgetallusersession123 Hash Commands 2 hset hget hgetall hkeys hdel hexists hlen hstrlen Redis Pipelines Helps avoid multiple

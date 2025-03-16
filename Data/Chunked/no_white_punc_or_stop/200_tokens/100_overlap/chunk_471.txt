@@ -1,0 +1,1 @@
+Properties attributes think keyvalue pairs exist nodes relationships Nodes associated relationships OK Edges connected nodes permitted Example 2 Labels person car 4 relationship types Drives Owns

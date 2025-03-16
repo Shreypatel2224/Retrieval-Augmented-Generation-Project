@@ -1,0 +1,1 @@
+as taking a single step creating the node The second key you add will require you to look at the root node then take one step to the right You could think of this as taking two steps Each subsequent

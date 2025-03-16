@@ -1,0 +1,1 @@
+JavaScriptnode MongoDB Community Edition Docker Create container Map hostcontainer port 27017 Give initial username password superuser MongoDB Compass GUI Tool interacting MongoDB instance Download

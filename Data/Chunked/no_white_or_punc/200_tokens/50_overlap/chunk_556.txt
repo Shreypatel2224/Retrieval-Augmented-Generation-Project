@@ -1,0 +1,1 @@
+substitution technique we learned previously isnt a good way to try to solve this particular recurrence we can prove something interesting quite easily We know for sure that AVL trees with larger

@@ -1,0 +1,1 @@
+havent figured out an algorithm yet One example demonstrates a very big problem Suppose we had the binary search tree on the left — which is complete by our definition — and we wanted to insert the

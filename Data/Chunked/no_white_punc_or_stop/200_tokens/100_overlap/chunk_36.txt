@@ -1,0 +1,1 @@
+seems reasonable store chunk size disk block small multiple disk block size next record inserted belongs chunk hasn’t filled block insert fact might cause records chunk move little bit array

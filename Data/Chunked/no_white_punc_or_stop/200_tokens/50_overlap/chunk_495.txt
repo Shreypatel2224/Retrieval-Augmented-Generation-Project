@@ -1,0 +1,1 @@
+Decrement 1 DECRBY someValue 5 Decrement 5 INCR parses value integer increments adds value SETNX key value sets value key key already exist Hash Type Value keyvalue entry collection fieldvalue pairs

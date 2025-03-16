@@ -1,0 +1,1 @@
+stuffs line Importing Directors Time LOAD CSV HEADERS filenetflixtitlescsv line splitlinedirector directorslist UNWIND directorslist directorname CREATE Person name trimdirectorname generates

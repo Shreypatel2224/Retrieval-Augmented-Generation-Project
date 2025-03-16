@@ -1,0 +1,1 @@
+see wed expect node B example contained 35 root newlyrotated subtree node example contained 30 left child root newlyrotated subtree node C example contained 40 right child root newlyrotated subtree

@@ -1,0 +1,1 @@
+work one step closer understanding AVL trees rotations arent arbitrary theyre used specifically correct imbalances detected insertions removals insertion algorithm Inserting key AVL tree starts way

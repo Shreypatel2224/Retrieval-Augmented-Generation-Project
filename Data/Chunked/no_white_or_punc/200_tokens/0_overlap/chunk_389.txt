@@ -1,0 +1,1 @@
+T3 written in them are arbitrary subtrees which may be empty or may contain any number of nodes but which are themselves binary search trees Its important to remember that both of these trees —

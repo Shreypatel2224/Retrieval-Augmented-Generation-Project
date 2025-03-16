@@ -1,0 +1,1 @@
+prepare and integrate data  Amazon Redshift Data warehousing service  Amazon Kinesis Realtime data streaming  Amazon QuickSight Cloudnative BIreporting tool Machine Learning and AI Services  Amazon

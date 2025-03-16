@@ -1,0 +1,1 @@
+fields like psychology and sociology  The Web  A big graph of “pages” nodes connected by hyperlinks edges  Chemical and biological data  Systems biology genetics etc  Interaction relationships in

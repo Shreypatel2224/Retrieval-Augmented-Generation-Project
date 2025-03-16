@@ -1,0 +1,1 @@
+network Geographically distributed Commodity hardware Data Replication vs Partitioning Replicates data main node Partitions subset data Replication Common Strategies Replication Single leader model

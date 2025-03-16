@@ -1,0 +1,1 @@
+takesastheinputa pointer toatreeandexecuted inorder traversal onthetreeWhile doing traversal it printsoutthekeyofeachnodethatisvisited Inorder Walkx 1ifxnilthenreturn 2Inorder Walkleftx 3Print keyx

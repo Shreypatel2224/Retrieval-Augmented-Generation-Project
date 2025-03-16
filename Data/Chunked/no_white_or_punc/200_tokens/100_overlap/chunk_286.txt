@@ -1,0 +1,1 @@
+Data Integrity  Error Recovery  Concurrency Control  Reliable Data Storage  Simplified Error Handling ACID Properties  Atomicity  A transaction is treated as an atomic unit  it is fully executed or

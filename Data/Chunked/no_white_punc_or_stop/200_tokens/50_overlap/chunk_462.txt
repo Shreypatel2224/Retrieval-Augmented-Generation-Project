@@ -1,0 +1,1 @@
+Concurrency Use Cases Low Conflict Systems eg backups analytical DBs readheavy systems Conflicts arise handled rolling back rerunning transaction notices conflict Optimistic concurrency works well

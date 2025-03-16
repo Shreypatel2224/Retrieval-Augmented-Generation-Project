@@ -1,0 +1,1 @@
+queues  Queue management  message passing queues producerconsumer model  Logging systems easy to keep in chronological order  Building social media streamsfeeds  Message history in a chat application

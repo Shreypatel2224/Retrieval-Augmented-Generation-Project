@@ -1,0 +1,1 @@
+sketch of the tree insert algorithm private BPNodeKeyE inserthelpBPNodeKeyE rt Key k E e  BPNodeKeyE retval if rtisLeaf   At leaf node insert here return BPLeafKeyErtaddk e   Add to internal node int

@@ -1,0 +1,1 @@
+sorted array based list make flexible breaking list manageable chunks easily updated might First need decide big chunks Since data disk seems reasonable store chunk size disk block small multiple

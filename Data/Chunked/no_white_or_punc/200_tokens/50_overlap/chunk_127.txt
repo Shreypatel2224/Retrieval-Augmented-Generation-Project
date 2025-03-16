@@ -1,0 +1,1 @@
+size say at least twice the depth of the tree no special techniques for node replacement will be required because the upperlevel nodes will naturally be accessed frequentlyB B∗ BB∗Θlogn n BB B B B B

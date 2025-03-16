@@ -1,0 +1,1 @@
+input Welltakethefulladvantage ofthe BSTp roperty SupposeweareatanodeIfthenodehas thekeythatisbeingsearched forthenthe searchisoverOtherwise thekeyatthe current nodeiseither strictly smaller thanthe

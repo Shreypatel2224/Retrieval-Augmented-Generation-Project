@@ -1,0 +1,1 @@
+the current node Insertion and deletion from a Btree are more complicated in fact they are notoriously difficult to implement correctly For insertion we first find the appropriate leaf node into

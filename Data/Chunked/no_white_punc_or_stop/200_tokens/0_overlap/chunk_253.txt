@@ -1,0 +1,1 @@
+level DepthFirst Search DFS Explores far possible along branch backtracking Shortest Path Algorithms like Dijkstra’s used find shortest path nodes Types Graph Algorithms Centrality Community

@@ -1,0 +1,1 @@
+level memory hierarchy expect get cache hits example accessing large disk database cache lines memory blocks size read disk Lookup Btree straightforward Given node start use simple linear binary

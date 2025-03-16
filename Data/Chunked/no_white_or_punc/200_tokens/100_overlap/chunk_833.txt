@@ -1,0 +1,1 @@
+Mh ≥ 2h2 log2Mh ≥ h2 2 log2Mh ≥ h Finally we see that for AVL trees of height h with the minimum number of nodes the height is no more than 2 log2n where n is the number of nodes in the tree For AVL

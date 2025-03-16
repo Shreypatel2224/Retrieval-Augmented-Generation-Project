@@ -1,0 +1,1 @@
+the tree is still logarithmic which will give us logarithmictime lookups and the time spent re balancing wont exceed the logarithmic time we would otherwise spend on an insertion or removal when the

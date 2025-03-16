@@ -1,0 +1,1 @@
+Analyze petabytescale data lives eg S3 Amazon EMR Elastic MapReduce access Apache Spark Hive Presto etc AWS Glue Discover prepare integrate data Amazon Redshift Data warehousing service Amazon

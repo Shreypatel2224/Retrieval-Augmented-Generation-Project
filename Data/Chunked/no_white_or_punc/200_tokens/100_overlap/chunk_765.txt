@@ -1,0 +1,1 @@
+The problem is that adding the new node introduced the possibility of an imbalance For example suppose we started with this AVL tree and then we inserted the key 35 into it A binary search tree

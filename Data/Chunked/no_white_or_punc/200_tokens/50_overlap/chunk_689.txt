@@ -1,0 +1,1 @@
+2  lpush lpop lset lrem  rpush rpop  lrange llen lpos  Other commands include moving elements between lists popping from multiple lists at the same time etc Hash Commands  1

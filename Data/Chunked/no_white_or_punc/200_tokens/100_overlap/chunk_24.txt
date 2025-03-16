@@ -1,0 +1,1 @@
+contains up to three keys and internal nodes have up to four children Figure 1261 A Btree of order four Search in a Btree is a generalization of search in a 23 tree It is an alternating twostep

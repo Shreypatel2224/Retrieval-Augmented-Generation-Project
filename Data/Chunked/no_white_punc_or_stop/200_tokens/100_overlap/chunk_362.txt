@@ -1,0 +1,1 @@
+writing new leader asynchronous replication used new leader may writes recover lost writes simply discard old leader recovers avoid multiple leaders receiving conflicting data Split brain issue

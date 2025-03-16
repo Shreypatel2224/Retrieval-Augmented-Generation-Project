@@ -1,0 +1,1 @@
+but it may not be able to deal with network issues  Consistency  Partition Tolerance  If the system responds with data from a distributed store it is always the latest otherwise the data request is

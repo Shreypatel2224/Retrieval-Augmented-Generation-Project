@@ -1,0 +1,1 @@
+for AVL trees with the minimum number of nodes though the proof of that is more involved and doesnt change the asymptotic result31425 439 PM ICS 46 Spring 2022 Notes and Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 77

@@ -1,0 +1,1 @@
+leaf second insertion 14 overflows leaf adds key internal node third insertion propagates way root Deletion works opposite way element removed leaf leaf becomes empty key removed parent node breaks

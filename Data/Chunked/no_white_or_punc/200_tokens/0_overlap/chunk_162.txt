@@ -1,0 +1,1 @@
+of data is semistructured or unstructured eg JSON XML  Horizontal scaling presents challenges  Some apps need something more performant eg realtime lowlatency systems Scalability  Up or Out

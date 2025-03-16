@@ -1,0 +1,1 @@
+extensive data centers AWS operates on a payasyouuse cost model which is theoretically cheaper than renting rackspaceservers in a traditional data center History of AWS  Originally launched in 2006

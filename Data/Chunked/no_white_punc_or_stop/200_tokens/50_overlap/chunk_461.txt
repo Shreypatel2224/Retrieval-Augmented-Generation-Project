@@ -1,0 +1,1 @@
+still OK Add last update timestamp version number columns every table Read changing check end transaction see transaction caused modified Optimistic Concurrency Use Cases Low Conflict Systems eg

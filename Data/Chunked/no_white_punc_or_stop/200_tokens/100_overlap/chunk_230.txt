@@ -1,0 +1,1 @@
+Check sufficient funds account 1 SELECT balance accounts accountid senderid 0 Roll back transaction insufficient funds ROLLBACK SIGNAL SQLSTATE 45000 SET MESSAGETEXT rollbackmessage ELSE Log

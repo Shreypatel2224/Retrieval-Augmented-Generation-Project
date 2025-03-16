@@ -1,0 +1,1 @@
+and write  It is easy for machines to parse and generate  JSON is built on two structures  A collection of namevalue pairs object record struct dictionary hash table keyed list or associative array

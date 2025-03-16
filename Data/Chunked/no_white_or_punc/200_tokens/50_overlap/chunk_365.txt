@@ -1,0 +1,1 @@
+Block Storage Persistent blocklevel storage  S3 Large dataset storage or EC2 backups Common EC2 Use Cases  Web Hosting Run a websiteweb server and associated apps  Data Processing Perform any

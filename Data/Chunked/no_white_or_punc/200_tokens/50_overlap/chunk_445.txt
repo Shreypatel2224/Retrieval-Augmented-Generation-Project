@@ -1,0 +1,1 @@
+the benefit Aiming for perfection The best goal for us to shoot for would be to maintain perfection In other words every time we insert a key into our binary search tree it would ideally still be a

@@ -1,0 +1,1 @@
+Presto etc AWS Glue Discover prepare integrate data Amazon Redshift Data warehousing service Amazon Kinesis Realtime data streaming Amazon QuickSight Cloudnative BIreporting tool Machine Learning AI

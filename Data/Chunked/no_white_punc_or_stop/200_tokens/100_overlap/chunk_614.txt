@@ -1,0 +1,1 @@
+four subtrees T1 T2 T3 T4 empty still empty Note tree balanced rotation accident single rotation RR LR RL thats necessary correct imbalance introduced insertion algorithm removal algorithm Removals

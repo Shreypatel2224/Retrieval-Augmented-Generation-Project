@@ -1,0 +1,1 @@
+databases address impedance mismatch problem object persistence OO systems relational DBs structure data OO Programming → Inheritance Composition types Saving complex object relational database

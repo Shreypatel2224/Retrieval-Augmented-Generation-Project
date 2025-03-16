@@ -1,0 +1,1 @@
+are memory blocks of the size that is read from disk Lookup in a Btree is straightforward Given a node to start from we use a simple linear or binary search to find whether the desired element is in

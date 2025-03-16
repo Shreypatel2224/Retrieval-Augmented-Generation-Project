@@ -1,0 +1,1 @@
+rollbackmessage ELSE  Log the transactions if there are sufficient funds INSERT INTO transactions accountid amount transactiontype VALUES senderid amount WITHDRAWAL INSERT INTO transactions

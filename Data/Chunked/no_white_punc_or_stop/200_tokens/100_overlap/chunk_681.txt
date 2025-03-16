@@ -1,0 +1,1 @@
+arise handled rolling back rerunning transaction notices conflict Optimistic concurrency works well allowing higher concurrency High Conflict Systems Rolling back rerunning transactions encounter

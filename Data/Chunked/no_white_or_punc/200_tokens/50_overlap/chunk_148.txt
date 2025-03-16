@@ -1,0 +1,1 @@
+managed policybased service for data protection and compliance Database Services  Relational Amazon RDS Amazon Aurora  KeyValue Amazon DynamoDB  InMemory Amazon MemoryDB Amazon ElastiCache  Document

@@ -1,0 +1,1 @@
+Implementing ReadAfterWrite Consistency  Method 1 Modifiable data from the client’s perspective is always read from the leader  Method 2 Dynamically switch to reading from the leader for “recently

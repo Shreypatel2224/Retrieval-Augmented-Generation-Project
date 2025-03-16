@@ -1,0 +1,1 @@
+consider would take Every key tree move matter algorithm used would still move every key n keys tree would take Ωn time — moving n keys takes least linear time even best possible algorithm moving

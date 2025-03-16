@@ -1,0 +1,1 @@
+different structure leaf nodes Internal nodes store keys guide search associating key pointer child tree node Leaf nodes store actual records else keys pointers actual records separate disk file tree

@@ -1,0 +1,1 @@
+sort id 1 average IMDB rating movies year sort data avg rating decreasing order c mflixdbmoviesaggregate group id release year year Avg Rating avg imdbrating sort Avg Rating 1 id 1 Lookup data

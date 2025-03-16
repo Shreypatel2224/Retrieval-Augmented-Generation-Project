@@ -1,0 +1,1 @@
+insert a new value at the front or insert a new value at the end List Commands  Queue  Queuelike Operations  LPUSH bikesrepairs bike1  LPUSH bikesrepairs bike2  RPOP bikesrepairs  RPOP bikesrepairs

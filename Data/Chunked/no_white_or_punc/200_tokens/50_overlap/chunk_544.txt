@@ -1,0 +1,1 @@
+n because theyre the same as they are in a binary search tree that doesnt have the AVL property If the height of the tree is Θlog n lookups will run in Olog n time Insertions and removals despite

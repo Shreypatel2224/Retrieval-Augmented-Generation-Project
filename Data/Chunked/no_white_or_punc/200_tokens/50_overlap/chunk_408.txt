@@ -1,0 +1,1 @@
+DFS Explores as far as possible along each branch before backtracking Shortest Path  Algorithms like Dijkstra’s and A are used to find the shortest path between nodes Types of Graph Algorithms

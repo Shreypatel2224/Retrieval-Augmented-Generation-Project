@@ -1,0 +1,1 @@
+filenetflixtitlescsv line splitlinedirector directorslist UNWIND directorslist directorname CREATE Person name trimdirectorname generates duplicate Person nodes director direct 1 movie Importing

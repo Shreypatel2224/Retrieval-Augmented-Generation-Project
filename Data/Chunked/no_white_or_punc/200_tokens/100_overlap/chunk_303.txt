@@ -1,0 +1,1 @@
+2 UPDATE accounts SET balance  balance  amount WHERE accountid  receiverid  Check if there are sufficient funds in account 1 IF SELECT balance FROM accounts WHERE accountid  senderid  0 THEN  Roll

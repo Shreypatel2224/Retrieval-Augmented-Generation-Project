@@ -1,0 +1,1 @@
+cloud Features Many instance types available Payasyougo pricing model Supports multiple operating systems Features EC2 Elasticity Easily programmatically scale instances needed AMI Amazon Machine

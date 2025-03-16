@@ -1,0 +1,1 @@
+Replicating Data Distributing Data Benefits Scalability High throughput Data volume ReadWrite load grows beyond capacity single machine Fault Tolerance High Availability application needs continue

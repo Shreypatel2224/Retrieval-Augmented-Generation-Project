@@ -1,0 +1,1 @@
+components Vertical Scaling Shared Disk Architectures Machines connected via fast network Contention overhead locking limit scalability highwrite volumes okay Data Warehouse applications high read

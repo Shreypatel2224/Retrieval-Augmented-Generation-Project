@@ -1,0 +1,1 @@
+There is a path between any two nodes in the graph  Weighted vs Unweighted Edges have a weight property important for some algorithms  Directed vs Undirected Relationships edges define a start and

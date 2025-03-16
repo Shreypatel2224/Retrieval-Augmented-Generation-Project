@@ -1,0 +1,1 @@
+average branching factor tree Typical database applications use extremely high branching factors perhaps 100 Thus practice Btree variants extremely shallow illustration consider tree order 100 leaf

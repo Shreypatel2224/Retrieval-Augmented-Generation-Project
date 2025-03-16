@@ -1,0 +1,1 @@
+Replication writes clients go leader Leader sends replication info followers Followers process instructions leader Clients read either leader followers LeaderBased Replication Common Strategy

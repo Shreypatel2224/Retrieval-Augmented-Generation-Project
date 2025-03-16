@@ -1,0 +1,1 @@
+the following three guarantees  Consistency Every read receives the most recent write or an error  Availability Every request receives a nonerror response but no guarantee that the response contains

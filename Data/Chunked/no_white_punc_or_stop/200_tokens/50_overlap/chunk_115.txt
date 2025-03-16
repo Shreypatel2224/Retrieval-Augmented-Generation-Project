@@ -1,0 +1,1 @@
+service Amazon Kinesis Realtime data streaming Amazon QuickSight Cloudnative BIreporting tool Machine Learning AI Services Amazon SageMaker Fully managed ML platform including Jupyter Notebooks AWS

@@ -1,0 +1,1 @@
+Conflicts prevented locking resources transaction complete read write locks Write Lock Analogy Borrowing book library one else Optimistic Concurrency Transactions obtain locks data read write

@@ -1,0 +1,1 @@
+process beginning root node B tree 1 Perform binary search records current node record search key found return record current node leaf node key found report unsuccessful searchm ⌈m2⌉ 24 1520 334548

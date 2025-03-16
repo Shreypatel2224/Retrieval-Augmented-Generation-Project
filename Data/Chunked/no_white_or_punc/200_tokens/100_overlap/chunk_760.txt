@@ -1,0 +1,1 @@
+trees But these rotations arent arbitrary theyre used specifically to correct imbalances that are detected after insertions or removals An insertion algorithm Inserting a key into an AVL tree starts

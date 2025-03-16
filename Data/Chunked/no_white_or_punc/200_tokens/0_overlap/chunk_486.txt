@@ -1,0 +1,1 @@
+Sets  Hashes string → string  Geospatial data Setting Up Redis in Docker  In Docker Desktop search for Redis  PullRun the latest image  Optional Settings Add 6379 to Ports to expose that port so we

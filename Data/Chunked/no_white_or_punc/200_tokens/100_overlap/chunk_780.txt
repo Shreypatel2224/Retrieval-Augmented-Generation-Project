@@ -1,0 +1,1 @@
+wondering where the names LL RR LR and RL come from this is the answer to that mystery If the two links are both to the left perform an LL rotation rooted where the imbalance is If the two links are

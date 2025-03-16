@@ -1,0 +1,1 @@
+producerconsumer model  Logging systems easy to keep in chronological order  Building social media streamsfeeds  Message history in a chat application  Batch processing by queuing up a set of tasks

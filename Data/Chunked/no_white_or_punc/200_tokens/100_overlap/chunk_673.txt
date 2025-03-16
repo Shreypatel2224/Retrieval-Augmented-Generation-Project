@@ -1,0 +1,1 @@
+conceptually simple result On every level of a complete binary tree every node that could possibly be present will be except the last level might be missing nodes but if it is missing nodes the nodes

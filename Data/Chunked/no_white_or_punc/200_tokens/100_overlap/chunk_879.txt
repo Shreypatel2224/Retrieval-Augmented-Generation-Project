@@ -1,0 +1,1 @@
+Borrowing a book from a library If you have it no one else can Optimistic Concurrency  Transactions do not obtain locks on data when they read or write  Optimistic because it assumes conflicts are

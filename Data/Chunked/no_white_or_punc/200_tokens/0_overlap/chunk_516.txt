@@ -1,0 +1,1 @@
+printdumpsagg indent2  The key id attribute is automatically returned unless you explicitly say to remove it  SELECT name rating FROM customers data  demodbcustomersfind name1 rating1 printdumpsdata

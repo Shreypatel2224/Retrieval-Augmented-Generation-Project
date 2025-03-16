@@ -1,0 +1,1 @@
+storage or EC2 backups Common EC2 Use Cases  Web Hosting Run a websiteweb server and associated apps  Data Processing Perform any datarelated tasks using programming languages  Machine Learning Train

@@ -1,0 +1,1 @@
+insertion process several examples Figure 1266 example building B tree order four Javalike pseudocode sketch tree insert algorithm private BPNodeKeyE inserthelpBPNodeKeyE rt Key k E e BPNodeKeyE

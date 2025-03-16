@@ -1,0 +1,1 @@
+system can keep running even with a network partition The CAP Theorem  The CAP Theorem states that it is impossible for a distributed data store to simultaneously provide more than two out of the

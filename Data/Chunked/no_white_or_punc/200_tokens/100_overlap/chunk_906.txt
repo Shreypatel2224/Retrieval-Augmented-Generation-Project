@@ -1,0 +1,1 @@
+All writes will eventually stop so all nodesreplicas can be updated Categories of NoSQL DBs  Review KeyValue Databases KeyValue Stores  Key  Value  Designed around  Simplicity The data model is

@@ -1,0 +1,1 @@
+on average On in the worst case for an unbalanced tree  Insert Olog₂n on average On in the worst case for an unbalanced tree Observations  Arrays  Fast for random access  Slow for random insertions

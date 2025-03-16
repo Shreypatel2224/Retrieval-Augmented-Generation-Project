@@ -1,0 +1,1 @@
+Isolated data centers within region Edge Locations Locations CDN Content Delivery Network caching services bringing content closer end users Compute Services VMbased EC2 Elastic Compute Cloud EC2

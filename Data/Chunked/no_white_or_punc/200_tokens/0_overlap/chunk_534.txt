@@ -1,0 +1,1 @@
+redisRedisdecoderesponsesTrue pipe  rpipeline for i in range5 pipesetfseati fi set5result  pipeexecute printset5result   True True True True True pipe  rpipeline  Chain pipeline commands together

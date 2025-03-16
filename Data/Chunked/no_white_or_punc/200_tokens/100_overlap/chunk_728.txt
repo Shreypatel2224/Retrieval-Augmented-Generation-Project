@@ -1,0 +1,1 @@
+search tree in which all nodes have the AVL property  Below are a few binary trees two of which are AVL and two of which are not31425 439 PM ICS 46 Spring 2022 Notes and Examples AVL Trees

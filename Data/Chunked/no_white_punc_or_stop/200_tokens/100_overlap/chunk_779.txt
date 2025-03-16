@@ -1,0 +1,1 @@
+Conda Environment pip install redis Value arbitrary data string number JSON object binary object etc Connecting Server Docker deployment Host localhost 127001 Port port mapping given created

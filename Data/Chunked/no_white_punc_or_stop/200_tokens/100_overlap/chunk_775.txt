@@ -1,0 +1,1 @@
+demodbcustomersfind id 0 name 1 rating1 sortratinglimit2 printdumpsdata indent2 sorting DESC order SELECT name rating customers ORDER rating DESC LIMIT 2 data demodbcustomersfind id 0 name 1 rating1

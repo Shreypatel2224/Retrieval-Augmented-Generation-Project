@@ -1,0 +1,1 @@
+There are a few wellknown approaches for maintaining binary search trees in a state of nearbalance that meets our notion of a good balance condition One of them is called an AVL tree which well

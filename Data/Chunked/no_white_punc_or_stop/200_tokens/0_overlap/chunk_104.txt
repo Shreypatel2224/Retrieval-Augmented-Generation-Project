@@ -1,0 +1,1 @@
+one example effect series insertions first insertion 13 merely affects leaf second insertion 14 overflows leaf adds key internal node third insertion propagates way root Deletion works opposite way

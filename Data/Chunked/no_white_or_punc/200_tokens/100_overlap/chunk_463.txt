@@ -1,0 +1,1 @@
+Scenario You’re adding a comment to a Reddit post After you click Submit and are back at the main post your comment should show up for you  Less important for other users to see your comment

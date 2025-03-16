@@ -1,0 +1,1 @@
+its something more akin to about 144 log2n even for AVL trees with the minimum number of nodes though the proof of that is more involved and doesnt change the asymptotic result31425 439 PM ICS 46

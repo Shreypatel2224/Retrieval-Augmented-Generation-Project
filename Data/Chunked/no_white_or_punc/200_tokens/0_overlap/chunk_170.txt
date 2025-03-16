@@ -1,0 +1,1 @@
+most recent write or an error  Availability Every request receives a nonerror response but no guarantee that the response contains the most recent write  Partition Tolerance The system can continue

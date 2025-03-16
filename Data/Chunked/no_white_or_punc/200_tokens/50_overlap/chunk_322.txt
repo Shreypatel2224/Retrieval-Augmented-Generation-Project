@@ -1,0 +1,1 @@
+Document Database A Document Database is a nonrelational database that stores data as structured documents usually in JSON They are designed to be simple flexible and scalable What is JSON  JSON

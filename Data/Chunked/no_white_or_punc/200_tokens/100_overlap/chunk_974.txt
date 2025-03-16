@@ -1,0 +1,1 @@
+which node can most easily reach all other nodes in a graph or subgraph betweenness is which node has most control over flow between nodes and groups pagerank is which node is the most important and

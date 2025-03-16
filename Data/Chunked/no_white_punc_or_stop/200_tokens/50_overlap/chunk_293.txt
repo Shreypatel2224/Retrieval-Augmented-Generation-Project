@@ -1,0 +1,1 @@
+without losing data root volume Store Data Instance Store Temporary highspeed storage tied instance lifecycle EFS Elastic File System Shared file storage EBS Elastic Block Storage Persistent

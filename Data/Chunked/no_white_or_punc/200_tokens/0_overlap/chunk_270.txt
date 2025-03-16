@@ -1,0 +1,1 @@
+collections in the mflix database Creating a Database and Collection  To Create a new DB mflix  To Create a new Collection users mongosh  Mongo Shell  find is like SELECT collectionfind      filters

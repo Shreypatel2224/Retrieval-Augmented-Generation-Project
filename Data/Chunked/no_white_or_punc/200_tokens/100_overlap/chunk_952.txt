@@ -1,0 +1,1 @@
+brand Ergonom price 1971  HGET bike1 model  HGET bike1 price  HGETALL bike1  HMGET bike1 model price weight  HINCRBY bike1 price 100 List Type  Value of a keyvalue pair is a linked list of string

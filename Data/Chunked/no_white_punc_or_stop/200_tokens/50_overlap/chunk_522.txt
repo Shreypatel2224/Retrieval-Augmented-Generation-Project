@@ -1,0 +1,1 @@
+name rating customers data demodbcustomersfind name1 rating1 id0 printdumpsdata indent2 every customer return fields except id address data demodbcustomersfind id 0 address 0 printdumpsdata indent2

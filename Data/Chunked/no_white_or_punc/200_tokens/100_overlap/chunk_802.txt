@@ -1,0 +1,1 @@
+to the root from where the removal occurred — so generally Olog n rotations Asymptotic analysis The key question here is What is the height of an AVL tree with n nodes If the answer is Θlog n then we

@@ -1,0 +1,1 @@
+Redis example data source would be stored on aws S3 transformations would run on apache spark interface store on redis and training store on s3 Graph database degree is number of connections closeness

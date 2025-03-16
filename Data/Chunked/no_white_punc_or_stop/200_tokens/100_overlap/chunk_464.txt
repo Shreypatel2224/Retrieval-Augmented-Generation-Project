@@ -1,0 +1,1 @@
+Introduction Graph Data Model Graph Database data model based graph data structure Composed nodes edges Edges connect nodes node edge uniquely identified contain properties eg name occupation etc

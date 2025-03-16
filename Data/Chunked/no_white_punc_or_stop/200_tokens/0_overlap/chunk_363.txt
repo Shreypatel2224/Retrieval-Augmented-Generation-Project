@@ -1,0 +1,1 @@
+availability data per CAP response “failure”“unreliable” data inconsistent changing state system appears work time Soft State state system could change time even without input Changes could result

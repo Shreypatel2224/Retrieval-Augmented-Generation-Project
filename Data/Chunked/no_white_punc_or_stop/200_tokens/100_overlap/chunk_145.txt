@@ -1,0 +1,1 @@
+include SimpleDB Elastic Block Store Relational Database Service RDS DynamoDB CloudWatch Simple Workflow CloudFront Availability Zones others Amazon held competitions big prizes spur adoption AWS

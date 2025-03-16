@@ -1,0 +1,1 @@
+subtrees empty h 0 one two things true left subtree perfect binary tree height h − 1 right subtree complete binary tree height h − 1 left subtree complete binary tree height h − 1 right subtree

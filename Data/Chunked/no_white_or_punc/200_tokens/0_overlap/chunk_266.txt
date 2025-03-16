@@ -1,0 +1,1 @@
+MongoDB Community Sourceavailable freetouse selfmanaged Interacting with MongoDB  mongosh MongoDB Shell CLI tool for interacting with a MongoDB instance  MongoDB Compass Free opensource GUI to work

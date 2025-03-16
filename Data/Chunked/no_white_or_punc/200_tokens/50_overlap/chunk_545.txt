@@ -1,0 +1,1 @@
+in Olog n time Insertions and removals despite being slightly more complicated in an AVL tree do their work by traversing a single path in the tree — potentially all the way down to a leaf position

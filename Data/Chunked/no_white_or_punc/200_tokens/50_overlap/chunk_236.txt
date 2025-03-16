@@ -1,0 +1,1 @@
+node to descend to  Example 10 Since 10  42 we follow the pointer to the left of 42  Note None of these new values cause a node to split B Tree m  4  Insert 30  Starting at the root we descend to the

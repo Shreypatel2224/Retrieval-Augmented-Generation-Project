@@ -1,0 +1,1 @@
+is now the root of the newlyrotated subtree The node A which in our example contained 30 is now the left child of the root of the newlyrotated subtree The node C which in our example contained 40 is

@@ -1,0 +1,1 @@
+the most common operation  “Shortest” means fewest edges or lowest weight  Average Shortest Path can be used to monitor efficiency and resiliency of networks  Minimum spanning tree cycle detection

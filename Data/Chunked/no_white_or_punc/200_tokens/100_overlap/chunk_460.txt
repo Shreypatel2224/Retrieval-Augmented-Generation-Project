@@ -1,0 +1,1 @@
+replication Replication lag causes writes to be slower and the system to be more brittle as the number of followers increases  Asynchronous replication Maintains availability but at the cost of

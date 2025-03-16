@@ -1,0 +1,1 @@
+Shared Disk Architectures  Machines are connected via a fast network  Contention and the overhead of locking limit scalability highwrite volumes but are okay for Data Warehouse applications high read

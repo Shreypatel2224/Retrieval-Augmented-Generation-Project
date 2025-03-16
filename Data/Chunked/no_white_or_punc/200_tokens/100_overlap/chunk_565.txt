@@ -1,0 +1,1 @@
+Complexity  Best case O1 target is found at the midpoint  Worst case Olog₂n target is not in the array Database Searching Challenges  Data is typically stored on disk by column ids value  Searching

@@ -1,0 +1,1 @@
+Stores Software Engineering Use Cases Storing Session Information Everything current session stored via single PUT POST retrieved single GET—very fast User Profiles Preferences User info could

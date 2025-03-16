@@ -1,0 +1,1 @@
+were going to be comparing heights of subtrees theres one piece of background we need to consider Recall that the height of a tree is the length of its longest path By definition the height of a tree

@@ -1,0 +1,1 @@
+services expanded to include SimpleDB Elastic Block Store Relational Database Service RDS DynamoDB CloudWatch Simple Workflow CloudFront Availability Zones and others  Amazon held competitions with

@@ -1,0 +1,1 @@
+Interface B Tree nodes public interface BPNodeKeyE public boolean isLeaf public int numrecs public Key keys important implementation detail note Figure 1261 shows internal nodes containing three keys

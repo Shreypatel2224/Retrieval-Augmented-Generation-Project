@@ -1,0 +1,1 @@
+node containing the key 40 does not have the AVL property because the difference in the heights of its subtrees is 2 Its left subtree has height 1 its right subtree — which is empty — has height 1

@@ -1,0 +1,1 @@
+eg patching server software  Client Responsibilities Security IN the cloud  Control of datacontent classification encryption sharing  Configure IAM users roles and policies enforce the Principle of

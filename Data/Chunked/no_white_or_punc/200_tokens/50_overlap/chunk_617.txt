@@ -1,0 +1,1 @@
+the only guarantee is that all nodes will eventually converge on the same value  Value can be any arbitrary data string number JSON object binary object etc KeyValue Stores Use Cases

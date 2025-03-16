@@ -1,0 +1,1 @@
+Phantom Reads Durability transaction completed committed successfully changes permanent Even event system failure committed transactions preserved Isolation Issues Dirty Read transaction T1 able read

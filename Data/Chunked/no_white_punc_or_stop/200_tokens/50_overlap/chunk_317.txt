@@ -1,0 +1,1 @@
+contain properties eg name occupation etc Supports queries based graphoriented operations Traversals Shortest path Many others Graphs Show Social Networks Platforms like Instagram Modeling social

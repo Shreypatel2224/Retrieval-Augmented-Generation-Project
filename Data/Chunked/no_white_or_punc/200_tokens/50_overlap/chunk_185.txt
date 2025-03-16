@@ -1,0 +1,1 @@
+are combined then the root is deleted and the new combined node becomes the root of the tree reducing the height of the tree by one31425 442 PM Btrees

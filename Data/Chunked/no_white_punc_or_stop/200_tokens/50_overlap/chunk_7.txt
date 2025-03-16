@@ -1,0 +1,1 @@
+minimum percentage improves space efficiency reducing typical number disk fetches necessary search update operation Btree order defined following shape properties root either leaf least two children

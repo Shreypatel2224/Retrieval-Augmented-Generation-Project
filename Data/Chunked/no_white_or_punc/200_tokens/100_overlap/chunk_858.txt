@@ -1,0 +1,1 @@
+Inserting Data by Creating Nodes CREATE User name Alice birthPlace Paris CREATE User name Bob birthPlace London CREATE User name Carol birthPlace London CREATE User name Dave birthPlace London CREATE

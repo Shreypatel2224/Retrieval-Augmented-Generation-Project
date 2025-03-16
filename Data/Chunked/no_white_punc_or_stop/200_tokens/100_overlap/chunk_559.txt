@@ -1,0 +1,1 @@
+course include redblack trees meet definition good splay trees dont always meet definition good meet amortized basis well stick one solution problem AVL trees AVL trees might called nearly balanced

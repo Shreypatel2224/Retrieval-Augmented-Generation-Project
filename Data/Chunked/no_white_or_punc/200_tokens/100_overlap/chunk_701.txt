@@ -1,0 +1,1 @@
+we need to understand what shape is considered wellenough balanced for our purposes even if not perfect A good balance condition has two properties The height of a binary search tree meeting the

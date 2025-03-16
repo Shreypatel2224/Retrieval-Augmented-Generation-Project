@@ -1,0 +1,1 @@
+takes at least linear time even if you have the best possible algorithm for moving them the work still has to get done So in the worst case maintaining completeness after a single insertion requires

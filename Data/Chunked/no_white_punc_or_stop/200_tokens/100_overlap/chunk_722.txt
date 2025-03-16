@@ -1,0 +1,1 @@
+Redis Database Interaction Redis provides 16 databases default numbered 0 15 name associated Direct interaction Redis set commands related setting getting keyvalue pairs variations Many language

@@ -1,0 +1,1 @@
+example search B tree order four Internal nodes must store two four children Search tree nearly identical search regular Btree except search must always continue proper leaf node Even searchkey value

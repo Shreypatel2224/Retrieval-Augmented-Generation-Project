@@ -1,0 +1,1 @@
+considered balanced This leads us finally to the definition of an AVL tree An AVL tree is a binary search tree in which all nodes have the AVL property  Below are a few binary trees two of which are

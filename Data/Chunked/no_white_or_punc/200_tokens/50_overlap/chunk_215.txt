@@ -1,0 +1,1 @@
+Characteristics of Distributed Systems  Computers operate concurrently  Computers fail independently  No shared global clock Distributed Storage  Distributed Data Stores  Data is stored on more than

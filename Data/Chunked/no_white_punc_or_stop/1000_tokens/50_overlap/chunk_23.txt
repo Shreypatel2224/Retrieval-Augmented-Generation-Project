@@ -1,0 +1,1 @@
+root deleted new combined node becomes root tree reducing height tree one31425 442 PM Btrees httpswwwcscornelleducoursescs31102012sprecitationsrec25Btreesrec25html 23Further reading Aho Hopcroft Ullman Data Structures Algorithms Chapter 1131425 442 PM Btrees httpswwwcscornelleducoursescs31102012sprecitationsrec25Btreesrec25html 33

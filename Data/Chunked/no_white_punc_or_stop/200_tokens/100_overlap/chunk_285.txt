@@ -1,0 +1,1 @@
+4preorder postorder inorder2 1 31 1 2 2 33 4 2 36 512 9 8 11 1519 207 istheoutcome inordertraversal onthisBST Howaboutpostordertraversal andpreordertraversal 5Inordertraversal gives 23 456789111215

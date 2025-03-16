@@ -1,0 +1,1 @@
+logical unit work Either entire sequence succeeds COMMIT entire sequence fails ROLLBACK ABORT Helps ensure Data Integrity Error Recovery Concurrency Control Reliable Data Storage Simplified Error

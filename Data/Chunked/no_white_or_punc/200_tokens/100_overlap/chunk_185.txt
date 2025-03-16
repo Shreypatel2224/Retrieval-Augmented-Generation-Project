@@ -1,0 +1,1 @@
+at level three are required to reach the pointer to any given record A buffer pool could be used to manage nodes of the Btree Several nodes of the tree would typically be in main memory at one time

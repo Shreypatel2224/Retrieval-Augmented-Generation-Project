@@ -1,0 +1,1 @@
+call curr curr leaf node Thus insert 30 curr curr full split Create new node right curr temporarily called newNode Insert newNode doubly linked list leaf nodes B Tree 4 Insert 30 continued

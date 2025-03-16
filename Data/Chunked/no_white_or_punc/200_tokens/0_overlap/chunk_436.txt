@@ -1,0 +1,1 @@
+height of a binary tree can never be better than logarithmic So ultimately we see that the height of an AVL tree with n nodes is Θlog n In reality it turns out that the bound is lower than 2 log2n

@@ -1,0 +1,1 @@
+number of nodes that can be present in an AVL tree of height h is at least 2h2 In reality its actually more than that but this gives us something useful to work with we can use this result to figure

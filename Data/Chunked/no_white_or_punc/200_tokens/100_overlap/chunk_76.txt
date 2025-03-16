@@ -1,0 +1,1 @@
+in that it stores keypointer pairs Figure 1261 shows the tree as it is traditionally drawn To simplify implementation in practice nodes really do associate a key with each pointer Each internal node

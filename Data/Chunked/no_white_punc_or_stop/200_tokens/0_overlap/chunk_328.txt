@@ -1,0 +1,1 @@
+subtrees one AVL tree height h − 1 minimum number nodes AVL tree height h − 2 minimum number nodes Given observation write recurrence describes number nodes minimum AVL tree height h M0 1 height 0

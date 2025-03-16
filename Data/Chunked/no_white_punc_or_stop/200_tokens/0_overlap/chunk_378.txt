@@ -1,0 +1,1 @@
+interaction Redis set commands related setting getting keyvalue pairs variations Many language libraries available well Foundation Data Type String Sequence bytes text serialized objects binary

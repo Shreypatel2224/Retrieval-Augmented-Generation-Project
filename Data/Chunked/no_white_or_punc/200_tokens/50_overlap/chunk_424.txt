@@ -1,0 +1,1 @@
+for a binary search tree containing seven keys Of course when all you have is a very small number of keys like this any shape will do But as the number of keys grows the distinction between these two

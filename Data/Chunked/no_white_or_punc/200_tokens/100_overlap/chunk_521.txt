@@ -1,0 +1,1 @@
+db  clientds4300 collection  dbmyCollection Inserting a single document db  clientds4300 collection  dbmyCollection post   author Mark text MongoDB is Cool tags mongodb python  postid

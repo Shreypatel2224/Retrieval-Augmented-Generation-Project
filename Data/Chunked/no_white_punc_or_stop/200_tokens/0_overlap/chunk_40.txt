@@ -1,0 +1,1 @@
+gain new level tree insertion keeps leaf nodes equal depth Figure illustrates insertion process several examples Figure 1266 example building B tree order four Javalike pseudocode sketch tree insert

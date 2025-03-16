@@ -1,0 +1,1 @@
+conflicts are unlikely to occur  Even if there is a conflict everything will still be OK  How Add last update timestamp and version number columns to every table Read them when changing then check at

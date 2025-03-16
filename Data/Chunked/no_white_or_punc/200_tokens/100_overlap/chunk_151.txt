@@ -1,0 +1,1 @@
+1 Finally here is an example of building a B Tree of order five You can compare this to the example above of building a tree of order four with the same records5 F10 S44 Q48 E67 A88 B58 A60 F12 V27 T

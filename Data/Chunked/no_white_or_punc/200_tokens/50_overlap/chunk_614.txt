@@ -1,0 +1,1 @@
+in an RDBMS are very complex Lends itself to simple CRUD operations and API creation  Speed Usually deployed as inmemory DB Retrieving a value given its key is typically an O1 operation because hash

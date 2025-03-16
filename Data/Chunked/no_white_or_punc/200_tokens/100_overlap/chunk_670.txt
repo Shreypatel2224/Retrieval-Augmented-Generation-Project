@@ -1,0 +1,1 @@
+perfect binary tree of height h − 1 and the right subtree is a complete binary tree of height h − 1 The left subtree is a complete binary tree of height h − 1 and the right subtree is a perfect

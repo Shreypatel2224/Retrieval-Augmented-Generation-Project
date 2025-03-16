@@ -1,0 +1,1 @@
+even without input Changes could result eventual consistency Data stores don’t writeconsistent Replicas don’t mutually consistent Eventual Consistency system eventually become consistent writes

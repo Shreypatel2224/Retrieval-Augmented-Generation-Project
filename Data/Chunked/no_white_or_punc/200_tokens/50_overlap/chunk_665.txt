@@ -1,0 +1,1 @@
+release year year Avg Rating avg imdbrating sort  id 1   What is the average IMDB rating of all movies by year sort the data by avg rating in decreasing order c  mflixdbmoviesaggregate group id

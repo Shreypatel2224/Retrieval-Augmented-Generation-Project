@@ -1,0 +1,1 @@
+a perfect binary tree is smaller than the height of the second called a degenerate tree These two shapes represent the two extremes — the best and worst possible shapes for a binary search tree

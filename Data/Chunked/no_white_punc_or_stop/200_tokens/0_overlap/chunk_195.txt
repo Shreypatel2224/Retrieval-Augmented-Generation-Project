@@ -1,0 +1,1 @@
+multiple followers Monotonic read consistency Ensures user makes multiple reads read older data previously reading newer data Consistent Prefix Reads Reading data order occur different partitions

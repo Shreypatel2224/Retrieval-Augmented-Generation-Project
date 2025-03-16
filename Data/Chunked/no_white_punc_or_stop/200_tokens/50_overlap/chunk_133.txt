@@ -1,0 +1,1 @@
+node Insertion deletion Btree complicated fact notoriously difficult implement correctly insertion first find appropriate leaf node inserted element falls assuming already tree already room node new

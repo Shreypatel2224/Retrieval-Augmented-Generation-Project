@@ -1,0 +1,1 @@
+systems Features EC2 Elasticity Easily programmatically scale instances needed AMI Amazon Machine Image Use standard AMIs provide preconfiguration Integration Easily integrates AWS services like S3

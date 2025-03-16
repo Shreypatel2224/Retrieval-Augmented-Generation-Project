@@ -1,0 +1,1 @@
+line Importing with Directors this Time LOAD CSV WITH HEADERS FROM filenetflixtitlescsv AS line WITH splitlinedirector  as directorslist UNWIND directorslist AS directorname CREATE Person name

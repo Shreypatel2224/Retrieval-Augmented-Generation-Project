@@ -1,0 +1,1 @@
+n This sum which well see several times throughout this course is equal to nn  1  2 So the total number of steps to build the entire tree would be Θn2 Overall when n gets large the tree would be

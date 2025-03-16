@@ -1,0 +1,1 @@
+heights bigger minimum number nodes AVL trees smaller heights — thats fairly selfexplanatory — means sure 1 Mh − 1 ≥ Mh − 2 Given conclude following Mh ≥ 2Mh 2 use repeated substitution technique

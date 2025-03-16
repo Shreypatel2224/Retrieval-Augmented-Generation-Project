@@ -1,0 +1,1 @@
+both of these are perfectly legal binary search trees containing the keys 1 2 3 4 5 6 and 7 Yet while both of these are legal one is better than the other because the height of the first tree called

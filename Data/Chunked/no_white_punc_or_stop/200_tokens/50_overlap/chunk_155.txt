@@ -1,0 +1,1 @@
+transaction START TRANSACTION Attempt debit money account 1 UPDATE accounts SET balance balance amount accountid senderid Attempt credit money account 2 UPDATE accounts SET balance balance amount

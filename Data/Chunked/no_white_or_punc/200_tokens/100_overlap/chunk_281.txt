@@ -1,0 +1,1 @@
+ways that an RDBMS increases efficiency  Indexing the topic we focused on  Directly controlling storage  Columnoriented storage vs roworiented storage  Query optimization  Cachingprefetching

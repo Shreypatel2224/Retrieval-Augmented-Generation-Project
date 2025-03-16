@@ -1,0 +1,1 @@
+okay for Data Warehouse applications high read volumes AWS EC2 Pricing  Oct 2024  Over 78000month for highperformance instances Horizontal Scaling  Shared Nothing Architectures  Each node has its own

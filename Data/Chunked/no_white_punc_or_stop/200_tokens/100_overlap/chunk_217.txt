@@ -1,0 +1,1 @@
+transaction takes database one consistent state another consistent state Consistent state data meets integrity constraints Isolation Two transactions T1 T2 executed time cannot affect T1 T2 reading

@@ -1,0 +1,1 @@
+returns list val1 val2 val3 String Commands 3 set mset setex msetnx setnx get mget getex getdel incr decr incrby decrby strlen append List Commands 1 create list key names values mark sam nick

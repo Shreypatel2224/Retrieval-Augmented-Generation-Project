@@ -1,0 +1,1 @@
+beforetheright subtree Thentherearethreestrategies 1InorderTheordering istheleftsubtree thecurrent nodetherightsubtree 2PreorderTheordering isthecurrent nodetheleftsubtree therightsubtree

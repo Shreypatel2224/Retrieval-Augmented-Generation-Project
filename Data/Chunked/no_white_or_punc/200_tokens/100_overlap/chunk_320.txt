@@ -1,0 +1,1 @@
+node typically replicated  Each block of data is available on N nodes  Distributed databases can be relational or nonrelational  MySQL and PostgreSQL support replication and sharding  CockroachDB is

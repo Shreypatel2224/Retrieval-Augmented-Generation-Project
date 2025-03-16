@@ -1,0 +1,1 @@
+cost search insertion deletion records Btrees trees trees total number records tree However base log average branching factor tree Typical database applications use extremely high branching factors

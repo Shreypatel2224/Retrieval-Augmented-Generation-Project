@@ -1,0 +1,1 @@
+Compare heights left right subtrees node differ 1 choose rotation fix imbalance Note comparing heights left right subtrees would quite expensive didnt already know solution problem node store height

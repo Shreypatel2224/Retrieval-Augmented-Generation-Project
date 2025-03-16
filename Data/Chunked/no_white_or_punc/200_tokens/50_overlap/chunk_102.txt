@@ -1,0 +1,1 @@
+this to the example above of building a tree of order four with the same records5 F10 S44 Q48 E67 A88 B58 A60 F12 V27 T N N N B B BB∗B∗B B∗ 1  33     Example B Tree V isualization Insert into a tree

@@ -1,0 +1,1 @@
+The second insertion 14 overflows the leaf and adds a key to an internal node The third insertion propagates all the way to the root Deletion works in the opposite way the element is removed from the

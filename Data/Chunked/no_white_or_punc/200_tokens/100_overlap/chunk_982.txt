@@ -1,0 +1,1 @@
+match year lte 1920 sort imdbrating 1 limit 5 unwind cast project id0 title 1 cast 1 rating imdbrating  Grouping  What is the average IMDB rating of all movies by year sort the data by year c

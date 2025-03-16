@@ -1,0 +1,1 @@
+inserts  Slow for searching requires linear scan Binary Search Trees BST Overview  A binary tree where  Every node in the left subtree is less than its parent  Every node in the right subtree is

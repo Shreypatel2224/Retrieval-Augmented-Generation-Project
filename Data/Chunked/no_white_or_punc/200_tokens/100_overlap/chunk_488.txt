@@ -1,0 +1,1 @@
+similar to HTML but the tag set is extensible XMLRelated ToolsTechnologies  XPath A syntax for retrieving specific elements from an XML document  XQuery A query language for interrogating XML

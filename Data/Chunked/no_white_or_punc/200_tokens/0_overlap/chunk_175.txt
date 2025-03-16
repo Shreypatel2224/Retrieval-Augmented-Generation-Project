@@ -1,0 +1,1 @@
+dropped  Availability  Partition Tolerance  The system always sends and responds based on the distributed store but the data may not be the absolute latest CAP in Reality  What it is really saying

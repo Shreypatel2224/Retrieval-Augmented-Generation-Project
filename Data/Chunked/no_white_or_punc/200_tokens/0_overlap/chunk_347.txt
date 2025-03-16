@@ -1,0 +1,1 @@
+15 nodes respectively and are the only possible perfect shapes for binary trees with that number of nodes The problem though lies in the fact that there is no valid perfect binary tree with 2 nodes

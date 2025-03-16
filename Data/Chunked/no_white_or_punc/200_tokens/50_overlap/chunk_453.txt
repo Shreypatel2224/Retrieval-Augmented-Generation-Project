@@ -1,0 +1,1 @@
+of height h is a binary tree where If h  0 its left and right subtrees are empty  If h  0 one of two things is true The left subtree is a perfect binary tree of height h − 1 and the right subtree is

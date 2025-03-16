@@ -1,0 +1,1 @@
+takes least linear time even best possible algorithm moving work still get done worst case maintaining completeness single insertion requires Ωn time Unfortunately time ought spending maintaining

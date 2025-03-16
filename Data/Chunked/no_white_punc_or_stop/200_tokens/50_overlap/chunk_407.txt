@@ -1,0 +1,1 @@
+1 answer lies following algorithm perform normal insertion process Work way back tree position added node could quite simple insertion done recursively Compare heights left right subtrees node differ

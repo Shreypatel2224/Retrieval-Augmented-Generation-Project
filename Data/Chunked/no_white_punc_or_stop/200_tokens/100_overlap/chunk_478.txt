@@ -1,0 +1,1 @@
+structure Types Graph Algorithms Pathfinding Pathfinding Finding shortest path two nodes one exists probably common operation “Shortest” means fewest edges lowest weight Average Shortest Path used

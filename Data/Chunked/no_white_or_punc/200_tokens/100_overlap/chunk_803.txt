@@ -1,0 +1,1 @@
+key question here is What is the height of an AVL tree with n nodes If the answer is Θlog n then we can be certain that lookups insertions and removals will take Olog n time How can we be so sure

@@ -1,0 +1,1 @@
+5ms 5000000ns Therefore storing tree disk want make sure given disk read effective possible Btrees high branching factor much larger 2 ensures disk reads needed navigate place data stored B trees may

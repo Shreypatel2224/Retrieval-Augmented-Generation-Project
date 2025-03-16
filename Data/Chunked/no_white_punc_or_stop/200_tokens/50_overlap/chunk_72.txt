@@ -1,0 +1,1 @@
+designers tried improve Btree performance One method use tree variant known tree tree identical tree except rules used split merge nodes Instead splitting node half overflows tree gives records

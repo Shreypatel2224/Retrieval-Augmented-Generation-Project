@@ -1,0 +1,1 @@
+well say height empty tree 1 means node say childless left child right child would still considered balanced leads us finally definition AVL tree AVL tree binary search tree nodes AVL property binary

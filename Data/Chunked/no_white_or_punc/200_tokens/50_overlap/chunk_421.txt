@@ -1,0 +1,1 @@
+keys in right subtrees — but they specify no restriction on the trees shape meaning that both of these are perfectly legal binary search trees containing the keys 1 2 3 4 5 6 and 7 Yet while both of

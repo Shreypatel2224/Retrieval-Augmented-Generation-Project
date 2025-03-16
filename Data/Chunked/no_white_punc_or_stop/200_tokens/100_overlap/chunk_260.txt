@@ -1,0 +1,1 @@
+B Tree 4 Insert 35 Leaf node needs split accommodate 35 New leaf node allocated right existing node 52 values stay original node remaining values moved new node smallest value new leaf node 42 copied

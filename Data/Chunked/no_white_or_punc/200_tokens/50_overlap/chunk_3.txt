@@ -1,0 +1,1 @@
+organization for applications requiring insertion deletion and key range searches They are used to implement most modern file systems Btrees address effectively all of the major problems encountered

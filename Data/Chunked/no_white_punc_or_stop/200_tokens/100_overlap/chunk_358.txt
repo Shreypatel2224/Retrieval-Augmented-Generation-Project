@@ -1,0 +1,1 @@
+change database Logical rowbased Log relational DBs logs inserted rows modified rows deleted rows Triggerbased Changes logged separate table whenever trigger fires Synchronous vs Asynchronous

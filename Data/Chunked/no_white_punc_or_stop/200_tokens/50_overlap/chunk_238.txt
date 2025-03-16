@@ -1,0 +1,1 @@
+node CPU memory disk Coordination via application layer using conventional network Geographically distributed Commodity hardware Data Replication vs Partitioning Replicates data main node Partitions

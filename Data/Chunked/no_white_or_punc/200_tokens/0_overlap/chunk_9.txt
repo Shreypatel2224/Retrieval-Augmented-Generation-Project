@@ -1,0 +1,1 @@
+same level in the tree so the tree is always height balanced The Btree is a generalization of the 23 tree Put another way a 23 tree is a Btree of order three Normally the size of a node in the B tree

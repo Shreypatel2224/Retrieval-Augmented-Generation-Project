@@ -1,0 +1,1 @@
+database DataGrip 3rd Party Tools Every major language library interface MongoDB eg PyMongo Python Mongoose JavaScriptnode MongoDB Community Edition Docker Create container Map hostcontainer port

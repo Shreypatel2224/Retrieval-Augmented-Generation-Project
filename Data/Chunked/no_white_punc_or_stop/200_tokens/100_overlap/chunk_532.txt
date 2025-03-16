@@ -1,0 +1,1 @@
+binary tree height h − 2 bit mindbending definition actually leads conceptually simple result every level complete binary tree every node could possibly present except last level might missing nodes

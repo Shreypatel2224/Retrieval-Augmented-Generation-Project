@@ -1,0 +1,1 @@
+schema optional a schema can be imposed if needed Neo4j supports various types of indexing is ACID compliant and supports distributed computing Similar systems include Microsoft CosmoDB and Amazon

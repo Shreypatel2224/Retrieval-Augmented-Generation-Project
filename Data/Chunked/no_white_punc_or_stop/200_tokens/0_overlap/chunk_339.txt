@@ -1,0 +1,1 @@
+query language created 2011 Goal SQLequivalent language graph databases Provides visual way matching patterns relationships Example nodesCONNECTTOotherNodes APOC Plugin Awesome Procedures Cypher

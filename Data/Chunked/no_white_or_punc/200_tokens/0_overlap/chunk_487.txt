@@ -1,0 +1,1 @@
+can connect to it  Normally you would not expose the Redis port for security reasons  If you did this in a production environment it would be a major security hole  Notice We didn’t set a password

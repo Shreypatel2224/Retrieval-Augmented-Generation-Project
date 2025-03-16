@@ -1,0 +1,1 @@
+additional space memory addresses Records linked together chain using memory addresses Pros Fast inserting anywhere list Cons Slow random access Binary Search Overview Input array values sorted order

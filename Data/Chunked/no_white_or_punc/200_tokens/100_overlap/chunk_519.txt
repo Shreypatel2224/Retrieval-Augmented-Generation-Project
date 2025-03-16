@@ -1,0 +1,1 @@
+MongoDB python from pymongo import MongoClient client  MongoClientmongodbusernamepwlocalhost27017 Getting a database and collection from pymongo import MongoClient client

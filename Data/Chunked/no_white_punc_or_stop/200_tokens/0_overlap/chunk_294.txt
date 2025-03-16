@@ -1,0 +1,1 @@
+balanced binary search trees certainly arent perfectlybalanced possible nonetheless achieve goals weve decided maintaining logarithmic height logarithmic cost makes binary search tree nearly balanced

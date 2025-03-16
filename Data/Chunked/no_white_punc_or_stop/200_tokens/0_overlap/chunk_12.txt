@@ -1,0 +1,1 @@
+branch repeat process example consider search record key value 47 tree Figure 1261 root node examined second right branch taken examining node level 1 third branch taken next level arrive leaf node

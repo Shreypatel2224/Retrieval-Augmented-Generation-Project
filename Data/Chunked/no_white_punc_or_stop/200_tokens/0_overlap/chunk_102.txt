@@ -1,0 +1,1 @@
+first find appropriate leaf node inserted element falls assuming already tree already room node new element inserted simply Otherwise current leaf already full must split two leaves one acquires new

@@ -1,0 +1,1 @@
+Algorithm def binarysearcharr target left right  0 lenarr  1 while left  right mid  left  right  2 if arrmid  target return mid elif arrmid  target left  mid  1 else right  mid  1 return 1 Time

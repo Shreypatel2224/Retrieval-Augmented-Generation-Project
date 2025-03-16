@@ -1,0 +1,1 @@
+in the sense that you would start with the usual binary search tree removal algorithm then find and correct imbalances while the recursion unwinds The key difference is that removals can require more

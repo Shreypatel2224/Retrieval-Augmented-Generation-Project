@@ -1,0 +1,1 @@
+that must be dealt with The node is split into two nodes containing two keys each thus retaining the Btree property The middle of the five children is promoted to its parent 12611 B Trees The

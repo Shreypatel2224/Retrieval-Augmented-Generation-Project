@@ -1,0 +1,1 @@
+target value  Output The location index of the target or an indicator that the target was not found Algorithm def binarysearcharr target left right  0 lenarr  1 while left  right mid  left  right  2

@@ -1,0 +1,1 @@
+deduce cost maintaining completeness even havent figured algorithm yet One example demonstrates big problem Suppose binary search tree left — complete definition — wanted insert key 1 would need

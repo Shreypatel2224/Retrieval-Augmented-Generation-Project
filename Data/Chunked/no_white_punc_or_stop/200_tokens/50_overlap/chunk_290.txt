@@ -1,0 +1,1 @@
+pricing model Supports multiple operating systems Features EC2 Elasticity Easily programmatically scale instances needed AMI Amazon Machine Image Use standard AMIs provide preconfiguration

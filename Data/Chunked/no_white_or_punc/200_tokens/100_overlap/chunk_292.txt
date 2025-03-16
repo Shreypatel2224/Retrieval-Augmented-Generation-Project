@@ -1,0 +1,1 @@
+Read  Nonrepeatable Read  Phantom Reads  Durability  Once a transaction is completed and committed successfully its changes are permanent  Even in the event of a system failure committed transactions

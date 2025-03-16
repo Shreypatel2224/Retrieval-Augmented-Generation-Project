@@ -1,0 +1,1 @@
+Computers operate concurrently Computers fail independently shared global clock Distributed Storage Distributed Data Stores Data stored one node typically replicated block data available N nodes

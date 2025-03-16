@@ -1,0 +1,1 @@
+is more balanced after the rotation than it was before This is no accident a single rotation LL RR LR or RL is all thats necessary to correct an imbalance introduced by the insertion algorithm A

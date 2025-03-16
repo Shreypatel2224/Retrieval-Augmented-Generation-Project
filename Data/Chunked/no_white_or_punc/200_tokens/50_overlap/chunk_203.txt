@@ -1,0 +1,1 @@
+rolled back Insufficient funds DECLARE commitmessage VARCHAR255 DEFAULT Transaction committed successfully  Start the transaction START TRANSACTION  Attempt to debit money from account 1 UPDATE

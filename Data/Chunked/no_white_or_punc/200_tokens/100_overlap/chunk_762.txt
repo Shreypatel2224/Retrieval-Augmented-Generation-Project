@@ -1,0 +1,1 @@
+same way as insertion into a binary search tree Perform a lookup If you find the key already in the tree youre done because keys in a binary search tree must be unique When the lookup terminates

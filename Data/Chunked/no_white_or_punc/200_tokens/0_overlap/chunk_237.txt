@@ -1,0 +1,1 @@
+Synchronous Leader waits for a response from the follower  Asynchronous Leader doesn’t wait for confirmation What Happens When the Leader Fails  Challenges  How do we pick a new Leader Node Consensus

@@ -1,0 +1,1 @@
+enough result be What is a good balance condition Our overall goal is for lookups insertions and removals from a binary search tree to require Olog n time in every case rather than letting them

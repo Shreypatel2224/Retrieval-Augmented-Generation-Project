@@ -1,0 +1,1 @@
+Lifecycle  Launch Starting an instance for the first time with a chosen configuration  StartStop Temporarily suspend usage without deleting the instance  Terminate Permanently delete the instance

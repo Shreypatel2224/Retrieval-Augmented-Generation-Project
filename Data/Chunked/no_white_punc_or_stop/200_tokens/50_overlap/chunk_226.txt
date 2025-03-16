@@ -1,0 +1,1 @@
+thusconstructed isoneplusthelargerofthe height oftheleftsubtree andtheheight therightsubtree 23Random Variables nnumberofkeys Xnheight ofthetreeofnkeys Yn2Xn WewantanupperboundonEYn Forn2wehave EYn1

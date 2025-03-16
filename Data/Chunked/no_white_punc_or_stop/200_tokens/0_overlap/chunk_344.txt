@@ -1,0 +1,1 @@
+neo4jdbdatadata neo4jdblogslogs neo4jdbimportvarlibneo4jimport neo4jdbpluginsplugins Inserting Data Creating Nodes CREATE User name Alice birthPlace Paris CREATE User name Bob birthPlace London

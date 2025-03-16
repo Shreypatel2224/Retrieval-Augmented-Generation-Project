@@ -1,0 +1,1 @@
+number faults requests directed server insist serving every request cannot possibly consistent interpreted must always give something consistency availability tolerance failure

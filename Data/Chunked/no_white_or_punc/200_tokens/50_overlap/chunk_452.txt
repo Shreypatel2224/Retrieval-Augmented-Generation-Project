@@ -1,0 +1,1 @@
+binary trees A somewhat more relaxed notion of perfection is something called a complete binary tree which is defined as follows A complete binary tree of height h is a binary tree where If h  0 its

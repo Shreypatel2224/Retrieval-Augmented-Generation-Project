@@ -1,0 +1,1 @@
+Directed vs Undirected Relationships edges define start end node Acyclic vs Cyclic Graph contains cycles Sparse vs Dense vs many edges relative number nodes Trees type graph cycles hierarchical

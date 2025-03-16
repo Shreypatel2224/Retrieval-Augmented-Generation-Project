@@ -1,0 +1,1 @@
+or with 4 5 6 8 9 10 11 12 13 or 14 nodes So generally its impossible for us to guarantee that a binary search tree will always be perfect by our definition because theres simply no way to represent

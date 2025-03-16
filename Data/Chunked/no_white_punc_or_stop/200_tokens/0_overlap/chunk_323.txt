@@ -1,0 +1,1 @@
+occurred — generally Olog n rotations Asymptotic analysis key question height AVL tree n nodes answer Θlog n certain lookups insertions removals take Olog n time sure Lookups would Olog n theyre

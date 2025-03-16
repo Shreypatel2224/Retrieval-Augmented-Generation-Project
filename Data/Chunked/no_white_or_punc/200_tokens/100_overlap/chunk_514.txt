@@ -1,0 +1,1 @@
+from MongoDB Compass Load MFlix Sample Data Set  In Compass create a new Database named mflix  Download mflix sample dataset and unzip it  Import JSON files for users theaters movies and comments

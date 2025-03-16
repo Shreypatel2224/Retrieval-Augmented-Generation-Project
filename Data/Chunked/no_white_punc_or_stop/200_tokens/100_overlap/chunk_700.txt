@@ -1,0 +1,1 @@
+key typically O1 operation hash tables similar data structures used hood concept complex queries joins—they slow things Scalability Horizontal scaling simple—add nodes Typically concerned eventual

@@ -1,0 +1,1 @@
+can be traversed in sorted order by visiting all the leaf nodes on the linked list Here is a Javalike pseudocode representation for the tree node interface Leaf node and internal node subclasses

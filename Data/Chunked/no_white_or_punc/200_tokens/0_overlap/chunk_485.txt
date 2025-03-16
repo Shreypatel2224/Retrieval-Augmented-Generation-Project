@@ -1,0 +1,1 @@
+secondary indexes Only supports lookup by key Redis Data Types  Keys  Usually strings but can be any binary sequence  Values  Strings  Lists linked lists  Sets unique unsorted string elements  Sorted

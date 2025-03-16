@@ -1,0 +1,1 @@
+data structures are used under the hood No concept of complex queries or joins—they slow things down  Scalability Horizontal scaling is simple—add more nodes Typically concerned with eventual

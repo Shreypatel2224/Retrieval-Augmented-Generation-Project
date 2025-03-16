@@ -1,0 +1,1 @@
+key Hash Commands HSET bike1 model Demios brand Ergonom price 1971 HGET bike1 model HGET bike1 price HGETALL bike1 HMGET bike1 model price weight HINCRBY bike1 price 100 List Type Value keyvalue pair

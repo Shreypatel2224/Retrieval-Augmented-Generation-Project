@@ -1,0 +1,1 @@
+lower than 2 log2n its something more akin to about 144 log2n even for AVL trees with the minimum number of nodes though the proof of that is more involved and doesnt change the asymptotic

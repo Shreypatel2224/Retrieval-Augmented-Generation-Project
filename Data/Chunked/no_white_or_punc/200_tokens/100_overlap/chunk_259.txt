@@ -1,0 +1,1 @@
+Btrees httpswwwcscornelleducoursescs31102012sprecitationsrec25Btreesrec25html 13pointer to follow from the current node Insertion and deletion from a Btree are more complicated in fact they are

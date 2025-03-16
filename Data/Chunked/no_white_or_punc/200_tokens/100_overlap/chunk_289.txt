@@ -1,0 +1,1 @@
+to another consistent state  Consistent state All data meets integrity constraints  Isolation  Two transactions T1 and T2 are executed at the same time but cannot affect each other  If both T1 and T2

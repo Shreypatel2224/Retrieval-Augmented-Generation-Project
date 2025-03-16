@@ -1,0 +1,1 @@
+Undirected Relationships edges define a start and end node  Acyclic vs Cyclic Graph contains no cycles  Sparse vs Dense Few vs many edges relative to the number of nodes  Trees A type of graph with

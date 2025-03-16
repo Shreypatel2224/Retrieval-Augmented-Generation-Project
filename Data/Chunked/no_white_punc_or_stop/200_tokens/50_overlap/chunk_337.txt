@@ -1,0 +1,1 @@
+Examples AVL Trees must care binary search tree balancing Weve seen previously performance characteristics binary search trees vary rather wildly theyre mainly dependent shape tree height tree key

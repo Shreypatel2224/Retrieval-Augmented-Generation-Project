@@ -1,0 +1,1 @@
+Searching in Databases Overview Searching is the most common operation performed by a database system In SQL the SELECT statement is arguably the most versatile and complex The baseline for efficiency

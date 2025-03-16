@@ -1,0 +1,1 @@
+multiple followers  Monotonic read consistency Ensures that when a user makes multiple reads they will not read older data after previously reading newer data Consistent Prefix Reads  Reading data

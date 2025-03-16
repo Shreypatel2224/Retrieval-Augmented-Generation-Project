@@ -1,0 +1,1 @@
+of the previous character the  in this case data  demodbcustomersfindname regex T id 0 name 1 rating1 printdumpsdata indent2  SELECT name rating FROM customers ORDER BY rating LIMIT 2 data

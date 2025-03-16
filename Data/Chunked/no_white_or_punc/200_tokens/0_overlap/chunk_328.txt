@@ -1,0 +1,1 @@
+These two shapes represent the two extremes — the best and worst possible shapes for a binary search tree containing seven keys Of course when all you have is a very small number of keys like this

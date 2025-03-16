@@ -1,0 +1,1 @@
+always give up something consistency availability or tolerance to failure

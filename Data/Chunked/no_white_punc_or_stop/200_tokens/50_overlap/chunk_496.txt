@@ -1,0 +1,1 @@
+Value keyvalue entry collection fieldvalue pairs Use Cases used represent basic objectsstructures number fieldvalue pairs per hash 2321 Practical limit Available system resources eg memory Session

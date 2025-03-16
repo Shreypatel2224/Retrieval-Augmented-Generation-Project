@@ -1,0 +1,1 @@
+triangles T1 T2 T3 written arbitrary subtrees may empty may contain number nodes binary search trees important remember trees — — binary search trees rotation doesnt harm ordering keys nodes subtrees

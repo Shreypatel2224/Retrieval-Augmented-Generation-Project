@@ -1,0 +1,1 @@
+tree on disk you want to make sure that a given disk read is as effective as possible Btrees have a high branching factor much larger than 2 which ensures that few disk reads are needed to navigate

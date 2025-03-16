@@ -1,0 +1,1 @@
+services for 12 months service limitations apply  Examples  Amazon EC2 750 hoursmonth specific OSs and instance sizes  Amazon S3 5GB 20K GETs 2K PUTs  Amazon RDS 750 hoursmonth of DB use within certain limits

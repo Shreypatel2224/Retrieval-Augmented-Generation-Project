@@ -1,0 +1,1 @@
+4 12 44 675831425 441 PM 126 BTrees — CS3 Data Structures Algorithms httpsopendsaservercsvteduODSABooksCS3htmlBTreehtmlid2 69Figure 1267 example deletion B tree order four deleting record reduces

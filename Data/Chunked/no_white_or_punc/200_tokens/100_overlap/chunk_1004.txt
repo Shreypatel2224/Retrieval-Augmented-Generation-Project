@@ -1,0 +1,1 @@
+data string number JSON object binary object etc Connecting to the Server  For your Docker deployment  Host localhost or 127001  Port The port mapping given when you created the container probably

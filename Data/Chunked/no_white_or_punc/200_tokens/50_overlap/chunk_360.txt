@@ -1,0 +1,1 @@
+available  Payasyougo pricing model  Supports multiple operating systems Features of EC2  Elasticity Easily and programmatically scale instances up or down as needed  AMI Amazon Machine Image Use

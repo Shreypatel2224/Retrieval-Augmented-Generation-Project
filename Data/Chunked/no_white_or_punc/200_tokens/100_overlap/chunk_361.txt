@@ -1,0 +1,1 @@
+roperty which isgivenasfollows Forallnodesxandyifybelongs tothe leftsubtree ofxthenthekeyatyisless thanthekeyatxandifybelongs tothe rightsubtree ofxthenthekeyatyis greater thanthekeyatx Wewillassume

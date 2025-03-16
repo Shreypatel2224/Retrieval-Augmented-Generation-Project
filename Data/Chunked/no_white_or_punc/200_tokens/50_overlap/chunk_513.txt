@@ -1,0 +1,1 @@
+rotation Once we understand the mechanics of how rotations work were one step closer to understanding AVL trees But these rotations arent arbitrary theyre used specifically to correct imbalances that

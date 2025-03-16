@@ -1,0 +1,1 @@
+consider tree order 100 leaf nodes contain 100 records B tree height one single leaf node 100 records tree height two root internal node whose children leaves must least 100 records 2 leaves 50

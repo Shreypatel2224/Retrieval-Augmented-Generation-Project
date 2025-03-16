@@ -1,0 +1,1 @@
+containing 30 T1 empty left subtree node containing 35 T2 empty right subtree node containing 35 T3 empty right subtree node containing 40 T4 rotation see wed expect node B example contained 35 root

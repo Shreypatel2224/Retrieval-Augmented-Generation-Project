@@ -1,0 +1,1 @@
+its subtrees is 2 Its left subtree has height 1 its right subtree — which is empty — has height 1 What can we do about it The answer lies in the following algorithm which we perform after the normal

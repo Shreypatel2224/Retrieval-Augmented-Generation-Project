@@ -1,0 +1,1 @@
+Marriedto Properties Attributes like name age etc Paths path ordered sequence nodes connected edges nodes edges repeated Example 1 → 2 → 6 → 5 path 1 → 2 → 6 → 2 → 3 Flavors Graphs Connected vs

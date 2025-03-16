@@ -1,0 +1,1 @@
+to replica Simple but errorprone  Writeahead Log WAL A bytelevel specific log of every change to the database  Logical rowbased Log For relational DBs logs inserted rows modified rows before and

@@ -1,0 +1,1 @@
+accounts SET balance  balance  amount WHERE accountid  senderid  Attempt to credit money to account 2 UPDATE accounts SET balance  balance  amount WHERE accountid  receiverid  Check if there are

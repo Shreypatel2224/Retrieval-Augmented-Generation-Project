@@ -1,0 +1,1 @@
+realworld programs For example one very obvious algorithm for generating unique integer keys — when all you care about is that theyre unique — is to generate them sequentially Whats so bad about a

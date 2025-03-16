@@ -1,0 +1,1 @@
+Amazon Textract Text extraction  Amazon Translate Machine translation Important Services for Data AnalyticsEngineering  EC2 and Lambda  Amazon S3  Amazon RDS and DynamoDB  AWS Glue  Amazon Athena

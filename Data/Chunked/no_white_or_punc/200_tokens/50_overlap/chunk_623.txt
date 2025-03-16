@@ -1,0 +1,1 @@
+Data  Cart data is tied to the user Needs to be available across browsers machines and sessions  Caching Layer  In front of a diskbased database Redis DB  Redis Remote Directory Server  Opensource

@@ -1,0 +1,1 @@
+when implementing diskbased search trees 1 The Btree is shallow in part because the tree is always height balanced all leaf nodes are at the same level and in part because the branching factor is

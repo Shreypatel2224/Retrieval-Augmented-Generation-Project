@@ -1,0 +1,1 @@
+AVL tree n nodes answer Θlog n certain lookups insertions removals take Olog n time sure Lookups would Olog n theyre binary search tree doesnt AVL property height tree Θlog n lookups run Olog n time

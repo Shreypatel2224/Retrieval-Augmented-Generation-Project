@@ -1,0 +1,1 @@
+inserted the key 35 into it A binary search tree insertion would give us this as a result 31425 439 PM ICS 46 Spring 2022 Notes and Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 57But

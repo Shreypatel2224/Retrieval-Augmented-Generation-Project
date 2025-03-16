@@ -1,0 +1,1 @@
+every operation every time insert remove key every node tree AVL property meet requirement need restructure tree periodically essentially detecting correcting imbalance whenever wherever happens need

@@ -1,0 +1,1 @@
+conflicts unlikely occur Even conflict everything still OK Add last update timestamp version number columns every table Read changing check end transaction see transaction caused modified Optimistic

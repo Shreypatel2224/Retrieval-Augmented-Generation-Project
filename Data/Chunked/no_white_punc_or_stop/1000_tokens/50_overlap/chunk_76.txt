@@ -1,0 +1,1 @@
+MATCH pPerson name directorname CREATE pDIRECTEDm Gut Check Let’s check movie titled Ray MATCH mMovie title RayDIRECTEDpPerson RETURN p

@@ -1,0 +1,1 @@
+KeyValue Stores Redis Features Considered inmemory database system Supports durability data Saving snapshots disk specific intervals Using appendonly file journal changes used rollforward failure

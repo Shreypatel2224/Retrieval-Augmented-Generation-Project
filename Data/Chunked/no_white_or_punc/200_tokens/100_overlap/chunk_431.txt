@@ -1,0 +1,1 @@
+needs to continue working even if one or more machines go down  Latency When you have users in different parts of the world you want to give them fast performance too Distributed Data  Challenges

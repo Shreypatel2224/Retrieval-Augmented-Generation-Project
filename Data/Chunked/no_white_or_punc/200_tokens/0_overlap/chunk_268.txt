@@ -1,0 +1,1 @@
+Docker  Create a container  Map hostcontainer port 27017  Give initial username and password for superuser MongoDB Compass  GUI Tool for interacting with MongoDB instance  Download and install from

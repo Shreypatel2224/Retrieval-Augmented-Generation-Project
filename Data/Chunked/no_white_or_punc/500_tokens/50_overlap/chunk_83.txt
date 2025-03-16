@@ -1,0 +1,1 @@
+to the parent instead of copying it  In this particular tree that means we have to create a new internal node which is also now the root

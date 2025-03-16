@@ -1,0 +1,1 @@
+representation for the tree node interface Leaf node and internal node subclasses would implement this interface  Interface for B Tree nodes  public interface BPNodeKeyE  public boolean isLeaf public

@@ -1,0 +1,1 @@
+necessary to scale out with some type of distributed computing model  Why Scaling up is easier  no need to modify your architecture But there are practical and financial limits  However Modern

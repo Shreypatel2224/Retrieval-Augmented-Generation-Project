@@ -1,0 +1,1 @@
+data type  Maps a string to another string  Use Cases  Caching frequently accessed HTMLCSSJS fragments  Config settings user settings info token management  Counting web pageapp screen views or rate

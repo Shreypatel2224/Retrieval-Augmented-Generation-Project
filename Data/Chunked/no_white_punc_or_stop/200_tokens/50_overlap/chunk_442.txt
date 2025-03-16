@@ -1,0 +1,1 @@
+provides hundreds procedures functions Graph Data Science Plugin Provides efficient implementations common graph algorithms eg Dijkstra’s PageRank etc Neo4j Docker Compose Docker Compose Supports

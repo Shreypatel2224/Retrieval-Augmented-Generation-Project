@@ -1,0 +1,1 @@
+disk reads are needed to navigate to the place where data is stored B trees may also useful for inmemory data structures because these days main memory is almost as slow relative to the processor as

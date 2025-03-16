@@ -1,0 +1,1 @@
+AVL tree starts way insertion binary search tree Perform lookup find key already tree youre done keys binary search tree must unique lookup terminates without key found add new node appropriate leaf

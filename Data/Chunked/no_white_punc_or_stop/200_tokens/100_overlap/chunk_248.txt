@@ -1,0 +1,1 @@
+Every read receives recent write error Availability Every request receives nonerror response guarantee response contains recent write Partition Tolerance system continue operate despite arbitrary

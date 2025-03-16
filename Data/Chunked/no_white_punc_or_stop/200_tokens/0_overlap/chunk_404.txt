@@ -1,0 +1,1 @@
+beginning line case match single character except newline match zero occurrences previous character case data demodbcustomersfindname regex id 0 name 1 rating1 printdumpsdata indent2 SELECT name

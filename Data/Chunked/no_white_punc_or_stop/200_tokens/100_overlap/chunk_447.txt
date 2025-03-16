@@ -1,0 +1,1 @@
+Fast random access Cons Slow inserting anywhere end Linked List Description record requires x bytes additional space memory addresses Records linked together chain using memory addresses Pros Fast

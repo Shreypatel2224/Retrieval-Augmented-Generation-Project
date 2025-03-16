@@ -1,0 +1,1 @@
+hgetall hkeys hdel hexists hlen hstrlen Redis Pipelines Helps avoid multiple related calls server → less network overhead r redisRedisdecoderesponsesTrue pipe rpipeline range5 pipesetfseati fi

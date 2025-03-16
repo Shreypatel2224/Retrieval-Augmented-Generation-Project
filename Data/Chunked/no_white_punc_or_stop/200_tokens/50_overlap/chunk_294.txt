@@ -1,0 +1,1 @@
+file storage EBS Elastic Block Storage Persistent blocklevel storage S3 Large dataset storage EC2 backups Common EC2 Use Cases Web Hosting Run websiteweb server associated apps Data Processing

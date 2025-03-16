@@ -1,0 +1,1 @@
+and rerunning transactions that encounter a conflict is less efficient  A locking scheme pessimistic model might be preferable NoSQL  “NoSQL” first used in 1998 by Carlo Strozzi to describe his

@@ -1,0 +1,1 @@
+Create new DB mflix Create new Collection users mongosh Mongo Shell find like SELECT collectionfind filters projections PyMongo PyMongo Python library interfacing MongoDB instances Connecting MongoDB

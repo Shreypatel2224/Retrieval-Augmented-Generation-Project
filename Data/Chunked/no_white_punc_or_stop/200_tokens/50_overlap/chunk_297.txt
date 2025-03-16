@@ -1,0 +1,1 @@
+managing servers focus code Pay execution time idle compute time unlike EC2 Lambda Features Eventdriven execution triggered many different events AWS Supports multiple runtimes Python Java Nodejs etc

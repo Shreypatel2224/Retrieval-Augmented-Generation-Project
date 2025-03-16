@@ -1,0 +1,1 @@
+Finally let’s see an example of deleting from the treeB B2−3B 1  28     Example 23 Tree V isualization Insert 2−3 1  10     Example 23 Tree V isualization Search 15 J22 X52 B33 65 S71 W89 M7146 65 33

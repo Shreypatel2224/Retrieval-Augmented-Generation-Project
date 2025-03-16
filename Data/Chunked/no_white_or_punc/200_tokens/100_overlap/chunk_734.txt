@@ -1,0 +1,1 @@
+are required to meet the balance condition after every operation every time you insert or remove a key every node in the tree should have the AVL property To meet that requirement we need to

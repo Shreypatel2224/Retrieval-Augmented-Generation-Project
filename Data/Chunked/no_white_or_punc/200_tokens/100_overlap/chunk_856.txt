@@ -1,0 +1,1 @@
+NEO4Japocimportfileenabledtrue  NEO4Japocimportfileuseneo4jconfigtrue  NEO4JPLUGINSapoc graphdatascience volumes  neo4jdbdatadata  neo4jdblogslogs  neo4jdbimportvarlibneo4jimport

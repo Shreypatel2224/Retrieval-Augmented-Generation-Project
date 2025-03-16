@@ -1,0 +1,1 @@
+one node marked in the diagrams by a dashed square that doesnt have the AVL property AVL trees by definition are required to meet the balance condition after every operation every time you insert or

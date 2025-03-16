@@ -1,0 +1,1 @@
+the beginning of the corresponding disk file In a typical application the Btree’s access to the disk file will be managed using a buffer pool and a blockreplacement scheme such as LRU Figure 1261

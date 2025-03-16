@@ -1,0 +1,1 @@
+2  Document 3 MongoDB Documents  No predefined schema for documents is needed  Every document in a collection could have different dataschema Relational vs MongoDBDocument DB  RDBMS Database →

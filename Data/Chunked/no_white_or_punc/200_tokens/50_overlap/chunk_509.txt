@@ -1,0 +1,1 @@
+child would now be the root of T2 instead of A A second kind of rotation is an RR rotation which makes a similar adjustment Note that an RR rotation is the mirror image of an LL rotation31425 439 PM

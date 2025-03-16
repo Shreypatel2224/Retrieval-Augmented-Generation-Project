@@ -1,0 +1,1 @@
+keep related records records similar key values disk block helps minimize disk IO range searches 4 Btrees guarantee every node tree full least certain minimum percentage improves space efficiency

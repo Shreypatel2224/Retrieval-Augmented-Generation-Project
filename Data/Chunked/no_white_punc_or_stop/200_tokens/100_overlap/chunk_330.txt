@@ -1,0 +1,1 @@
+Sowewillviewtheprocessasfollows Akeyxfromthekeysisselected uniformlyat random andisinserted tothetreeThenall theotherkeysareinserted Hereallthekeys greater xgointotherightsubtree ofx

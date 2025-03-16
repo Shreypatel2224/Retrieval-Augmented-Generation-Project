@@ -1,0 +1,1 @@
+may evolve time apps need full strength ACID compliance Joins expensive lot data semistructured unstructured eg JSON XML Horizontal scaling presents challenges apps need something performant eg

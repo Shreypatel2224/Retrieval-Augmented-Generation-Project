@@ -1,0 +1,1 @@
+log is the average branching factor of the tree Typical database applications use extremely high branching factors perhaps 100 or more Thus in practice the Btree and its variants are extremely

@@ -1,0 +1,1 @@
+Preordertraversal gives 74 236512981119 1520 Postordertraversal gives 3 256481191520 19127 Soinordertravel onaBST ndsthekeysin nondecreasing order 6Operations onBST 1Searching forakey Weassume

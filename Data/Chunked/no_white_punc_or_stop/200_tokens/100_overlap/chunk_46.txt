@@ -1,0 +1,1 @@
+keys guide search associating key pointer child tree node Leaf nodes store actual records else keys pointers actual records separate disk file tree used purely index Depending size record compared

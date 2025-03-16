@@ -1,0 +1,1 @@
+collection of independent computers that appear to its users as one computer”  Andrew Tannenbaum  Characteristics of Distributed Systems  Computers operate concurrently  Computers fail independently

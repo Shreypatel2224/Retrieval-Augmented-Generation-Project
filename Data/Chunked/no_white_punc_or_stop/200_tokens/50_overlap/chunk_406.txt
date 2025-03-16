@@ -1,0 +1,1 @@
+57But resulting tree AVL tree node containing key 40 AVL property difference heights subtrees 2 left subtree height 1 right subtree — empty — height 1 answer lies following algorithm perform normal

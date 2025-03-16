@@ -1,0 +1,1 @@
+thekeyatthe current nodeiseither strictly smaller thanthe keythatissearched fororstrictly greater thanthekeythatissearched forIfthe formeristhecasethenbytheBSTproperty allthekeysinthleftsubtree

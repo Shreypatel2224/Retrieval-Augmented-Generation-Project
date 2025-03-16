@@ -1,0 +1,1 @@
+Thesuccesso rrespectively thepredecesso r ofakeykinasearchtreeisthesmallest respectively thelargest keythatbelongs to thetreeandthatisstrictly greater than respectively lessthan k Theideafor nding

@@ -1,0 +1,1 @@
+reducing the typical number of disk fetches necessary during a search or update operation A Btree of order is defined to have the following shape properties The root is either a leaf or has at least

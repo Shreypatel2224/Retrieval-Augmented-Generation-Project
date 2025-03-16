@@ -1,0 +1,1 @@
+mainly dependent shape tree height tree key determining factor definition binary search trees restrict keys allowed present nodes — smaller keys left subtrees larger keys right subtrees — specify

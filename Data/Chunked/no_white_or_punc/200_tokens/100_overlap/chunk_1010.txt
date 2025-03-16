@@ -1,0 +1,1 @@
+particular data structure you’re targeting list hash set etc  Redispy Documentation Redispy Docs httpsredispyreadthedocsioenstable  The next slides are not meant to be an exhaustive list of commands

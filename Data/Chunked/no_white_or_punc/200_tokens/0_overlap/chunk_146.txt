@@ -1,0 +1,1 @@
+amounts of data  Well understood with lots of tooling and experience Relational Database Performance Many ways that an RDBMS increases efficiency  Indexing the topic we focused on  Directly

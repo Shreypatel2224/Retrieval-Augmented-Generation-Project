@@ -1,0 +1,1 @@
+points nilnull O1 insert new value front insert new value end List Commands Queue Queuelike Operations LPUSH bikesrepairs bike1 LPUSH bikesrepairs bike2 RPOP bikesrepairs RPOP bikesrepairs List

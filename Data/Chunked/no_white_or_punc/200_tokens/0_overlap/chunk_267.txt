@@ -1,0 +1,1 @@
+with a MongoDB database  DataGrip and other 3rd Party Tools Every major language has a library to interface with MongoDB eg PyMongo for Python Mongoose for JavaScriptnode MongoDB Community Edition in

@@ -1,0 +1,1 @@
+neo4j image neo4jlatest ports  74747474  76877687 environment  NEO4JAUTHneo4jNEO4JPASSWORD  NEO4Japocexportfileenabledtrue  NEO4Japocimportfileenabledtrue  NEO4Japocimportfileuseneo4jconfigtrue

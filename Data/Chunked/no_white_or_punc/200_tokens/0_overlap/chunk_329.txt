@@ -1,0 +1,1 @@
+any shape will do But as the number of keys grows the distinction between these two tree shapes becomes increasingly vital Whats more the degenerate shape isnt even necessarily a rare edge case Its

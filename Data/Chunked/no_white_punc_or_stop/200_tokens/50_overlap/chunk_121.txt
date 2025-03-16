@@ -1,0 +1,1 @@
+good locality given node binary tree probably occupies fraction cache line Btrees way get better locality putting multiple elements tree node Btrees originally invented storing data structures disk

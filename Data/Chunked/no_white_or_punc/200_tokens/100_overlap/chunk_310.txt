@@ -1,0 +1,1 @@
+Not all apps need the full strength of ACID compliance  Joins can be expensive  A lot of data is semistructured or unstructured eg JSON XML  Horizontal scaling presents challenges  Some apps need

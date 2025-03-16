@@ -1,0 +1,1 @@
+LeaderBased Replication  Very Common Strategy  Relational MySQL Oracle SQL Server PostgreSQL  NoSQL MongoDB RethinkDB realtime web apps Espresso LinkedIn  Messaging Brokers Kafka RabbitMQ How Is

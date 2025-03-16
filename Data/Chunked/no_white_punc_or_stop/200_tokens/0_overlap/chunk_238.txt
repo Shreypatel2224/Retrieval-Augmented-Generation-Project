@@ -1,0 +1,1 @@
+Searching specific id fast Searching specific specialVal requires linear scan column Problem Data cannot stored disk sorted id specialVal simultaneously without duplicating data space inefficient

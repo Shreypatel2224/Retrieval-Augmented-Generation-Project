@@ -1,0 +1,1 @@
+List Commands  Stack  Stacklike Operations  LPUSH bikesrepairs bike1  LPUSH bikesrepairs bike2  LPOP bikesrepairs  LPOP bikesrepairs List Commands  Others  Other List Operations  LLEN mylist  LRANGE

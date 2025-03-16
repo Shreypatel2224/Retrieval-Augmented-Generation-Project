@@ -1,0 +1,1 @@
+Categories NoSQL DBs Review KeyValue Databases KeyValue Stores Key Value Designed around Simplicity data model extremely simple Comparatively tables RDBMS complex Lends simple CRUD operations API

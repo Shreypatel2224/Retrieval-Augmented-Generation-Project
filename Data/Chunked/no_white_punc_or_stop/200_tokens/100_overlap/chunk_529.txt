@@ -1,0 +1,1 @@
+called complete binary tree defined follows complete binary tree height h binary tree h 0 left right subtrees empty h 0 one two things true left subtree perfect binary tree height h − 1 right subtree

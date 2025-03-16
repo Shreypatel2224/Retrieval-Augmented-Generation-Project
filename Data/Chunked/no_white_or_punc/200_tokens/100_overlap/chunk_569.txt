@@ -1,0 +1,1 @@
+duplicating data space inefficient Solutions  External Data Structures  Use an array of tuples specialVal rowNumber sorted by specialVal  Enables binary search for faster retrieval  Slow for inserts

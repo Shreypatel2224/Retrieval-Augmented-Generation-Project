@@ -1,0 +1,1 @@
+edge case Its what you get when you start with an empty tree and add keys that are already in order which is a surprisingly common scenario in realworld programs For example one very obvious

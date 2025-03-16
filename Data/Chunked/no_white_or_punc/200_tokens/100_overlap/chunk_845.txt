@@ -1,0 +1,1 @@
+compliant and supports distributed computing Similar systems include Microsoft CosmoDB and Amazon Neptune Neo4j  Query Language and Plugins Cypher  Neo4j’s graph query language created in 2011  Goal

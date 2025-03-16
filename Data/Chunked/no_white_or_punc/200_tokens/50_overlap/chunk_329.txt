@@ -1,0 +1,1 @@
+DB  Efficient Encoding and decoding must be efficient  Supported by many modern programming languages XML eXtensible Markup Language  Precursor to JSON as a data exchange format  XML  CSS → web pages

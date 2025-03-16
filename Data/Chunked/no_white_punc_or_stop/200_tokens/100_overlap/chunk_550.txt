@@ -1,0 +1,1 @@
+removals binary search tree require Olog n time every case rather letting degrade worstcase behavior need decide balance condition say need understand shape considered wellenough balanced purposes

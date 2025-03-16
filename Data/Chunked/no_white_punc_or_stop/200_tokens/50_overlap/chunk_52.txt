@@ -1,0 +1,1 @@
+node 23 tree promotion might cause parent split turn perhaps eventually leading splitting root causing tree gain new level tree insertion keeps leaf nodes equal depth Figure illustrates insertion

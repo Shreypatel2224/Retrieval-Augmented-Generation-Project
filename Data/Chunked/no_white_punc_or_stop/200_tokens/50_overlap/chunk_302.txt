@@ -1,0 +1,1 @@
+Best case O1 target found first element Worst case target array Key Concepts Records Collections Record collection values attributes single entity instance eg row table Collection set records entity

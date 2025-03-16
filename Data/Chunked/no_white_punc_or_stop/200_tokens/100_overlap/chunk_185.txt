@@ -1,0 +1,1 @@
+collection stored leaves tree nonleaf nodes contain keys leaf stores number elements maximum number may greater typically less data structure satisfies several invariants 1 Every path root leaf

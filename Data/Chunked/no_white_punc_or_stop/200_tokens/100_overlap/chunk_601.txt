@@ -1,0 +1,1 @@
+fix imbalance Note comparing heights left right subtrees would quite expensive didnt already know solution problem node store height ie height subtree rooted cheaply updated every insertion removal

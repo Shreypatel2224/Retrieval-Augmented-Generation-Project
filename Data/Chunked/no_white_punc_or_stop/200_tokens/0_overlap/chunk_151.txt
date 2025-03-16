@@ -1,0 +1,1 @@
+thatakeyandthesubtree thekeyissearched foraregivenasan input Welltakethefulladvantage ofthe BSTp roperty SupposeweareatanodeIfthenodehas thekeythatisbeingsearched forthenthe searchisoverOtherwise

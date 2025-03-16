@@ -1,0 +1,1 @@
+record key value 47 Btree insertion generalization 23 tree insertion first step find leaf node contain key inserted space permitting room node insert key split node two promote middle key parent

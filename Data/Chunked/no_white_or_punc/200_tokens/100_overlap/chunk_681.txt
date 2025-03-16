@@ -1,0 +1,1 @@
+binary search trees complete we would always have binary search trees with height Θlog n The cost of maintaining completeness The trouble of course is that we need an algorithm for maintaining

@@ -1,0 +1,1 @@
+Use Cases  Tracking unique items eg IP addresses visiting a site page screen  Primitive relation eg set of all students in DS4300  Access control lists for users and permission structures  Social

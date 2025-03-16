@@ -1,0 +1,1 @@
+unlike EC2 Lambda Features  Eventdriven execution Can be triggered by many different events in AWS  Supports multiple runtimes Python Java Nodejs etc  Highly integrated with other AWS services

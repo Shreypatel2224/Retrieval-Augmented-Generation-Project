@@ -1,0 +1,1 @@
+more than that but this gives us something useful to work with we can use this result to figure out what were really interested in which is the opposite what is the height of an AVL tree with n nodes

@@ -1,0 +1,1 @@
+inserted belongs chunk hasn’t filled block insert fact might cause records chunk move little bit array important since cause extra disk accesses long move data within chunk chunk fills entire block

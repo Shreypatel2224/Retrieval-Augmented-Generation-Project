@@ -1,0 +1,1 @@
+istheleft subtree therightsubtree thecurrent node 3InorderTraversal Pseudo code Thisrecursive algorithm takesastheinputa pointer toatreeandexecuted inorder traversal onthetreeWhile doing traversal it

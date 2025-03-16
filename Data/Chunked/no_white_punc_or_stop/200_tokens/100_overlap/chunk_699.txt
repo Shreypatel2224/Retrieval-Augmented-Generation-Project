@@ -1,0 +1,1 @@
+simple CRUD operations API creation Speed Usually deployed inmemory DB Retrieving value given key typically O1 operation hash tables similar data structures used hood concept complex queries

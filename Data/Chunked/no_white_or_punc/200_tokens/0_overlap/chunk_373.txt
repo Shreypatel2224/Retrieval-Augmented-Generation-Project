@@ -1,0 +1,1 @@
+definition of good and splay trees which dont always meet our definition of good but do meet it on an amortized basis but well stick with the one solution to the problem for now AVL trees AVL trees

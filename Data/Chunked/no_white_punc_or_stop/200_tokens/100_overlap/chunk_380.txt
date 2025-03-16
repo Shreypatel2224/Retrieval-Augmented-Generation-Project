@@ -1,0 +1,1 @@
+pairs object record struct dictionary hash table keyed list associative array ordered list values array vector list sequence universal data structures supported virtually modern programming languages

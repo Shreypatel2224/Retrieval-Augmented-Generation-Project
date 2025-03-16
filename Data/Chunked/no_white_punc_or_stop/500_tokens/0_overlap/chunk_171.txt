@@ -1,0 +1,1 @@
+True True True True True pipe rpipeline Chain pipeline commands together get3result pipegetseat0getseat3getseat4execute printget3result 0 3 4

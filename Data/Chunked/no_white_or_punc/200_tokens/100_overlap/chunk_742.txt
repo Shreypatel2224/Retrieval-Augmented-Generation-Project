@@ -1,0 +1,1 @@
+attention on when to use them The first kind of rotation is called an LL rotation which takes the tree on the left and turns it into the tree on the right The circle with A and B written in them are

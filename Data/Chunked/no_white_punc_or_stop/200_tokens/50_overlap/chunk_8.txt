@@ -1,0 +1,1 @@
+properties root either leaf least two children internal node except root children leaves level tree tree always height balanced Btree generalization 23 tree Put another way 23 tree Btree order three

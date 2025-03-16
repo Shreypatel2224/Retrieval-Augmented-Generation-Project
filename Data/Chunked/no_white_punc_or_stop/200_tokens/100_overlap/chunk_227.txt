@@ -1,0 +1,1 @@
+DECLARE commitmessage VARCHAR255 DEFAULT Transaction committed successfully Start transaction START TRANSACTION Attempt debit money account 1 UPDATE accounts SET balance balance amount accountid

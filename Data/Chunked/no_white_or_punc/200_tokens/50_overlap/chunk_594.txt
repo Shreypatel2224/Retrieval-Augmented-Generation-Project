@@ -1,0 +1,1 @@
+until a transaction is complete there are both read and write locks  Write Lock Analogy Borrowing a book from a library If you have it no one else can Optimistic Concurrency  Transactions do not

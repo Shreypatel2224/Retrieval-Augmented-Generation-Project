@@ -1,0 +1,1 @@
+height balanced all leaf nodes are at the same level and in part because the branching factor is quite high So only a small number of disk blocks are accessed to reach a given record 2 Update and

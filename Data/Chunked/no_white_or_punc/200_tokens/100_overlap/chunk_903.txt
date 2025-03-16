@@ -1,0 +1,1 @@
+Soft State  The state of the system could change over time even without input Changes could be the result of eventual consistency  Data stores don’t have to be writeconsistent  Replicas don’t have

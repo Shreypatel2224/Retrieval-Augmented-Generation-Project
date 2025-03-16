@@ -1,0 +1,1 @@
+handle pesky inserts deletes could try keep core idea storing sorted array based list make flexible breaking list manageable chunks easily updated might First need decide big chunks Since data disk

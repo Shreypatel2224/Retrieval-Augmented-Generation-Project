@@ -1,0 +1,1 @@
+onthisBST Howaboutpostordertraversal andpreordertraversal 5Inordertraversal gives 23 456789111215 1920 Preordertraversal gives 74 236512981119 1520 Postordertraversal gives 3 256481191520 19127

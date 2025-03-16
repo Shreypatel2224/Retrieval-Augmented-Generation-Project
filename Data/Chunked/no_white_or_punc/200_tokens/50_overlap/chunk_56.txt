@@ -1,0 +1,1 @@
+be the “ tree” or a tree of order 3 Figure 1262 An example of building a tree Next let’s see how to search Figure 1263 An example of searching a tree Finally let’s see an example of deleting from the

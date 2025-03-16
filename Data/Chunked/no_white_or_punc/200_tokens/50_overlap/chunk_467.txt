@@ -1,0 +1,1 @@
+complete so this would be the outcome wed want But consider what it would take to do it Every key in the tree had to move So no matter what algorithm we used we would still have to move every key If

@@ -1,0 +1,1 @@
+end of the transaction to see if any other transaction has caused them to be modified Optimistic Concurrency Use Cases  Low Conflict Systems eg backups analytical DBs readheavy systems  Conflicts

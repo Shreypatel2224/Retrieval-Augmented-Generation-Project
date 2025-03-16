@@ -1,0 +1,1 @@
+have 2 but not 3 of the following  Consistency Every user of the DB has an identical view of the data at any given instant  Availability In the event of a failure the database system remains

@@ -1,0 +1,1 @@
+Error Handling ACID Properties  Atomicity  A transaction is treated as an atomic unit  it is fully executed or no parts of it are executed  Consistency  A transaction takes a database from one

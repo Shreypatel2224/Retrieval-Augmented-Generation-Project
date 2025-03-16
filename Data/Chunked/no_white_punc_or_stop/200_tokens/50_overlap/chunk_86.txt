@@ -1,0 +1,1 @@
+perhaps root least half full average 34 full internal nodes purely overhead since keys stored used tree direct search rather store actual data overhead amount significant use space high fanout rate

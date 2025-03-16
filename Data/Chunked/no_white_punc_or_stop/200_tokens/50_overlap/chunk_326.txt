@@ -1,0 +1,1 @@
+probably common operation “Shortest” means fewest edges lowest weight Average Shortest Path used monitor efficiency resiliency networks Minimum spanning tree cycle detection maxmin flow… types

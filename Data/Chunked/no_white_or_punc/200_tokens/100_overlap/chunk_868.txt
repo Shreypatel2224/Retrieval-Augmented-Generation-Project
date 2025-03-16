@@ -1,0 +1,1 @@
+FROM filenetflixtitlescsv AS line WITH splitlinedirector  as directorslist UNWIND directorslist AS directorname CREATE Person name trimdirectorname But this generates duplicate Person nodes a

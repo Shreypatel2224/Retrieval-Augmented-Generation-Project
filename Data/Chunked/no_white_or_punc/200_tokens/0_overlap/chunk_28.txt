@@ -1,0 +1,1 @@
+entire block that contains it We could just split it in half What if we want to delete a record We could just take the deleted record out of the chunk but we might not want a lot of nearempty chunks

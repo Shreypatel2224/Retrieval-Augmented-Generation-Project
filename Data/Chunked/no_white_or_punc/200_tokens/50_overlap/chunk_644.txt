@@ -1,0 +1,1 @@
+HINCRBY bike1 price 100 List Type  Value of a keyvalue pair is a linked list of string values  Use Cases  Implementation of stacks and queues  Queue management  message passing queues

@@ -1,0 +1,1 @@
+load grows beyond the capacity of a single machine  Fault Tolerance  High Availability Your application needs to continue working even if one or more machines go down  Latency When you have users in

@@ -1,0 +1,1 @@
+Money DELIMITER CREATE PROCEDURE transfer senderid INT receiverid INT amount DECIMAL102 BEGIN DECLARE rollbackmessage VARCHAR255 DEFAULT Transaction rolled back Insufficient funds DECLARE

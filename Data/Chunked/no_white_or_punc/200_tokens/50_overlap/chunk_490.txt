@@ -1,0 +1,1 @@
+node and empty subtrees would then be zero But what about a tree thats totally empty To maintain a clear pattern relative to other tree heights well say that the height of an empty tree is 1 This

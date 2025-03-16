@@ -1,0 +1,1 @@
+tree variant known as the tree The tree is identical to the tree except for the rules used to split and merge nodes Instead of splitting a node in half when it overflows the tree gives some records

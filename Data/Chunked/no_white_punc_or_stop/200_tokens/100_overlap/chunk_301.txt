@@ -1,0 +1,1 @@
+kkeyzUsing binarysearchwe nda nilsuchthatreplacing itbyzdoesnotbreak theBSTp roperty 11BSTInsertxzk 1ifxnilthenreturn Error 2y x 3while truedof 4ifkeyyk 5then z lefty 6elsez righty 7ifznilbreak 8g

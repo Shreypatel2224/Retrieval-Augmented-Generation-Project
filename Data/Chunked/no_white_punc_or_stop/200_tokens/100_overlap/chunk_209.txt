@@ -1,0 +1,1 @@
+Consistency Isolation Durability Works well highly structured data handle large amounts data Well understood lots tooling experience Relational Database Performance Many ways RDBMS increases

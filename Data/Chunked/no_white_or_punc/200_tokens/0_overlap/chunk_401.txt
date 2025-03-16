@@ -1,0 +1,1 @@
+httpsicsucieduthorntonics46NotesAVLTrees 57But this resulting tree is not an AVL tree because the node containing the key 40 does not have the AVL property because the difference in the heights of

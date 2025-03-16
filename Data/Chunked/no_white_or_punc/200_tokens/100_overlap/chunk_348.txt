@@ -1,0 +1,1 @@
+the root node are searched to determine which child node to descend to  Example 10 Since 10  42 we follow the pointer to the left of 42  Note None of these new values cause a node to split B Tree m

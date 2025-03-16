@@ -1,0 +1,1 @@
+of the block containing the child node usually interpreted as an offset from the beginning of the corresponding disk file In a typical application the Btree’s access to the disk file will be managed

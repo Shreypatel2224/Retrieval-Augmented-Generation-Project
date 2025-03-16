@@ -1,0 +1,1 @@
+level complete binary tree every node could possibly present except last level might missing nodes missing nodes nodes far left possible following complete binary trees Furthermore possible complete

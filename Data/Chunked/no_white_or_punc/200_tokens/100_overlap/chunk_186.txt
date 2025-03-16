@@ -1,0 +1,1 @@
+manage nodes of the Btree Several nodes of the tree would typically be in main memory at one time The most straightforward approach is to use a standard method such as LRU to do node replacement

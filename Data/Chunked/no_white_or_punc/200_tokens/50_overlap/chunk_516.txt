@@ -1,0 +1,1 @@
+binary search tree must be unique When the lookup terminates without the key being found add a new node in the appropriate leaf position where the lookup ended The problem is that adding the new node

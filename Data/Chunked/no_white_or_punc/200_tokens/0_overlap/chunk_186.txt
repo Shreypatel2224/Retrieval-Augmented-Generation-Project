@@ -1,0 +1,1 @@
+split and thus the tree will get 1 level deeper B Tree m  4  Insert 37 Step 1  Insert 37 into the appropriate leaf node B Tree m  4  Insert 37 Step 2  When splitting an internal node we move the

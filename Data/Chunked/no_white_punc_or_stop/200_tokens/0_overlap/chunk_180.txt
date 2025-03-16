@@ -1,0 +1,1 @@
+Responsibility reading writing data distributed environment often falls application Vertical Scaling Shared Memory Architectures Geographically centralized server fault tolerance via hotswappable

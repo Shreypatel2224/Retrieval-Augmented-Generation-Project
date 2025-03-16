@@ -1,0 +1,1 @@
+start use simple linear binary search find whether desired element node child31425 442 PM Btrees httpswwwcscornelleducoursescs31102012sprecitationsrec25Btreesrec25html 13pointer follow current node

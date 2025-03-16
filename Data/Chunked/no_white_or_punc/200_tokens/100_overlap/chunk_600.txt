@@ -1,0 +1,1 @@
+maxmin flow… are other types of pathfinding BFS vs DFS  BreadthFirst Search BFS Explores all neighbors at the present depth before moving on to nodes at the next depth level  DepthFirst Search DFS

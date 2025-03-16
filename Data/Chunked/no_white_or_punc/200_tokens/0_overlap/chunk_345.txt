@@ -1,0 +1,1 @@
+time we insert a key into our binary search tree it would ideally still be a perfect binary tree in which case wed know that the height of the tree would always be Θlog n with a commensurate effect

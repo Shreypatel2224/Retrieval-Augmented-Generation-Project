@@ -1,0 +1,1 @@
+already room node new element inserted simply Otherwise current leaf already full must split two leaves one acquires new element parent updated contain new key child pointer parent already full

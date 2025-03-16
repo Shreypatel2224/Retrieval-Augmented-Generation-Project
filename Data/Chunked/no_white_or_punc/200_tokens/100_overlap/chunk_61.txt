@@ -1,0 +1,1 @@
+a sorted arraybased list where the list is broken into chunks The most significant difference between the tree and the BST or the standard Btree is that the tree stores records only at the leaf nodes

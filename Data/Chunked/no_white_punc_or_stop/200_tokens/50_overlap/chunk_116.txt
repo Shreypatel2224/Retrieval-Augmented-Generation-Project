@@ -1,0 +1,1 @@
+ML platform including Jupyter Notebooks AWS AI Services Pretrained Models Amazon Comprehend NLP Natural Language Processing Amazon Rekognition ImageVideo analysis Amazon Textract Text extraction

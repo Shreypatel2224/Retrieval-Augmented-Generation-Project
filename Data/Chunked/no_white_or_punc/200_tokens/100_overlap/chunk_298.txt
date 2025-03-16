@@ -1,0 +1,1 @@
+the set T1 is using Example Transaction  Transfer Money DELIMITER  CREATE PROCEDURE transfer IN senderid INT IN receiverid INT IN amount DECIMAL102 BEGIN DECLARE rollbackmessage VARCHAR255 DEFAULT

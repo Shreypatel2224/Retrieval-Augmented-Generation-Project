@@ -1,0 +1,1 @@
+that arise can be handled by rolling back and rerunning a transaction that notices a conflict  Optimistic concurrency works well allowing for higher concurrency  High Conflict Systems  Rolling back

@@ -1,0 +1,1 @@
+Supports multiple runtimes Python Java Nodejs etc Highly integrated AWS services Extremely scalable rapidly adjust demands Lambda Works 1 Addupload code AWS Management Console 2 Configure event sources 3 Watch Lambda run one event sources fires event

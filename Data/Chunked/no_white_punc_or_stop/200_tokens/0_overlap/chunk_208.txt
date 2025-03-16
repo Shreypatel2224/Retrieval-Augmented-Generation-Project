@@ -1,0 +1,1 @@
+Document 3 MongoDB Documents predefined schema documents needed Every document collection could different dataschema Relational vs MongoDBDocument DB RDBMS Database → TableView → Row → Column → Index

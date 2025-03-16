@@ -1,0 +1,1 @@
+insertion similar Btree insertion First leaf contain record found full new record added tree nodes affected already full split two dividing records evenly among two nodes promote copy leastvalued key

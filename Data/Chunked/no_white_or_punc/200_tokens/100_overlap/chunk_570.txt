@@ -1,0 +1,1 @@
+rowNumber sorted by specialVal  Enables binary search for faster retrieval  Slow for inserts like inserting into a sorted array  Use a linked list of tuples specialVal rowNumber sorted by specialVal

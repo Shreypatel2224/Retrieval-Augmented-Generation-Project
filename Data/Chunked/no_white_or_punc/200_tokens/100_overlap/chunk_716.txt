@@ -1,0 +1,1 @@
+as possible they nonetheless achieve the goals weve decided on maintaining logarithmic height at no more than logarithmic cost So what makes a binary search tree nearly balanced enough to be

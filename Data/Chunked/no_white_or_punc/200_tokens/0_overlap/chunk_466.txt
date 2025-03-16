@@ -1,0 +1,1 @@
+failure the database system remains operational  Partition Tolerance The database can maintain operations in the event of the network’s failing between two segments of the distributed system  Note

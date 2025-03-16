@@ -1,0 +1,1 @@
+lookup terminates without key found add new node appropriate leaf position lookup ended problem adding new node introduced possibility imbalance example suppose started AVL tree inserted key 35

@@ -1,0 +1,1 @@
+first time chosen configuration StartStop Temporarily suspend usage without deleting instance Terminate Permanently delete instance Reboot Restart instance without losing data root volume Store Data

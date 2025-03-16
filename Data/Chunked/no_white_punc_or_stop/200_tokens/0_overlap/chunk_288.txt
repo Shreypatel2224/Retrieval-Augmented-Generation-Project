@@ -1,0 +1,1 @@
+result would good enough result good balance condition overall goal lookups insertions removals binary search tree require Olog n time every case rather letting degrade worstcase behavior need decide

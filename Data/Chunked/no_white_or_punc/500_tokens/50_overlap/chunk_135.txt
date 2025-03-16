@@ -1,0 +1,1 @@
+Olog₂n on average On in the worst case for an unbalanced tree  Insert Olog₂n on average On in the worst case for an unbalanced tree Observations  Arrays  Fast for random access  Slow for random insertions  Linked Lists  Slow for random access  Fast for random insertions  Binary Search Trees  Balance is key to maintaining Olog₂n performance for both search and insert operations

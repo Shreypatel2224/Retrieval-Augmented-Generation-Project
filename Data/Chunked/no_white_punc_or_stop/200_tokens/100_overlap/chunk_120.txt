@@ -1,0 +1,1 @@
+trees total number records tree However base log average branching factor tree Typical database applications use extremely high branching factors perhaps 100 Thus practice Btree variants extremely

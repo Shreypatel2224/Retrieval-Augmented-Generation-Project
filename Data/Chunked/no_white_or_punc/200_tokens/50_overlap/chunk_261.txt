@@ -1,0 +1,1 @@
+timeof search 92TheMaximum andtheMinimum To ndtheminimum identify theleftmost nodeiethefarthest nodeyoucanreach by followingonlyleftbranches To ndthemaximum identify therightmost nodeiethefarthest

@@ -1,0 +1,1 @@
+compromise as is often the case when we learn or design algorithms our willingness to tolerate an imperfect result thats still good enough for our uses will often lead to an algorithm that is much

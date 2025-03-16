@@ -1,0 +1,1 @@
+enough records remain least half full leaf nodes tree normally linked together form doubly linked list Thus entire collection records traversed sorted order visiting leaf nodes linked list Javalike

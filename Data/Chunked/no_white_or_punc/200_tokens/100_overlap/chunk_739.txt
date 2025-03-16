@@ -1,0 +1,1 @@
+the right Rotations Rebalancing of AVL trees is achieved using what are called rotations which when used at the proper times efficiently improve the shape of the tree by altering a handful of

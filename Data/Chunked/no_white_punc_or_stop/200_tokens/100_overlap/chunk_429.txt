@@ -1,0 +1,1 @@
+like S3 RDS etc EC2 Lifecycle Launch Starting instance first time chosen configuration StartStop Temporarily suspend usage without deleting instance Terminate Permanently delete instance Reboot

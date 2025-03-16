@@ -1,0 +1,1 @@
+mark sam nick  prints mark sam nick printredisclientlrangenames 0 1 List Commands  2  lpush lpop lset lrem  rpush rpop  lrange llen lpos  Other commands include moving elements between lists popping

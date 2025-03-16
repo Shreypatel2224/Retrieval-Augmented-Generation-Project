@@ -1,0 +1,1 @@
+height ie the height of the subtree rooted there This can be cheaply updated after every insertion or removal as you unwind the recursion The rotation is chosen considering the two links along the

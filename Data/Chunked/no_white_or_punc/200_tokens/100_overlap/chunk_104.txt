@@ -1,0 +1,1 @@
+key in the newly formed right node As with the 23 tree promotion might cause the parent to split in turn perhaps eventually leading to splitting the root and causing the tree to gain a new level tree

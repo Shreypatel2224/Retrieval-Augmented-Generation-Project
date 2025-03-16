@@ -1,0 +1,1 @@
+httpsicsucieduthorntonics46NotesAVLTrees 47A third kind rotation LR rotation makes adjustment thats slightly complicated LR rotation requires five pointer updates instead three still constant number

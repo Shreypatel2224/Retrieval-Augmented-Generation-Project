@@ -1,0 +1,1 @@
+Vertical Scaling  Shared Memory Architectures  Geographically centralized server  Some fault tolerance via hotswappable components Vertical Scaling  Shared Disk Architectures  Machines are connected

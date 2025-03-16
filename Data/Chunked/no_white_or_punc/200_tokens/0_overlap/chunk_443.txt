@@ -1,0 +1,1 @@
+efficient implementations of common graph algorithms eg Dijkstra’s PageRank etc Neo4j in Docker Compose Docker Compose  Supports multicontainer management  Setup is declarative using a YAML

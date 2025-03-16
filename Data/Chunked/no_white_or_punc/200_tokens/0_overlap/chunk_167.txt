@@ -1,0 +1,1 @@
+nodes  Distributed databases can be relational or nonrelational  MySQL and PostgreSQL support replication and sharding  CockroachDB is a new player on the scene  Many NoSQL systems support one or

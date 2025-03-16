@@ -1,0 +1,1 @@
+whenever and wherever it happens To do that we need to rearrange the tree in ways that improve its shape without losing the essential ordering property of a binary search tree smaller keys toward the

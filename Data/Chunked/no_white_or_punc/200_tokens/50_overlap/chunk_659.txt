@@ -1,0 +1,1 @@
+most control over flow between nodes and groups pagerank is which node is the most important and can be based on number and weighting of inlinks Pymongo Aggregation uses pipelines in pymongo A

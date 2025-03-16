@@ -1,0 +1,1 @@
+preconfiguration  Integration Easily integrates with other AWS services like S3 RDS etc EC2 Lifecycle  Launch Starting an instance for the first time with a chosen configuration  StartStop

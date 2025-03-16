@@ -1,0 +1,1 @@
+binary search tree of height n and still have it be an AVL tree It turns out AVL trees of height n ≥ 2 that have the minimum number of nodes in them all share a similar property The AVL tree with

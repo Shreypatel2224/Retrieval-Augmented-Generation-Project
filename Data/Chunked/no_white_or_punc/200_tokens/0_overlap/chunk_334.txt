@@ -1,0 +1,1 @@
+degenerate binary search tree it will take On time because its possible that youll have to reach every node in the tree before youre done As n grows this is a heavy burden to bear If you implement

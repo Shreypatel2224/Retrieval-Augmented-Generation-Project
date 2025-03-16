@@ -1,0 +1,1 @@
+Redis Pipelines Helps avoid multiple related calls to the server → less network overhead r  redisRedisdecoderesponsesTrue pipe  rpipeline for i in range5 pipesetfseati fi set5result  pipeexecute

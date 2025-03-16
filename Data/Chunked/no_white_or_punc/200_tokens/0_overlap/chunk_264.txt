@@ -1,0 +1,1 @@
+Document → Reference MongoDB Features  Rich Query Support Robust support for all CRUD operations  Indexing Supports primary and secondary indices on document fields  Replication Supports replica sets

@@ -1,0 +1,1 @@
+In SQL the SELECT statement is arguably the most versatile and complex The baseline for efficiency is Linear Search Linear Search  Process  Start at the beginning of a list and proceed element by

@@ -1,0 +1,1 @@
+insertion process Work your way back up the tree from the position where you just added a node This could be quite simple if the insertion was done recursively Compare the heights of the left and

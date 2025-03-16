@@ -1,0 +1,1 @@
+rofagiven nodex Ifxhastherightchildthenthesuccesso r istheminimum intherightsubtree ofx Otherwise thesuccesso ristheparentof thefarthest nodethatcanbereached from xbyfollowingonlyrightbranches

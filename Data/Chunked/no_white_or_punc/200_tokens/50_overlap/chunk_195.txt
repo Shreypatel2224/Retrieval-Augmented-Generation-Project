@@ -1,0 +1,1 @@
+A transaction takes a database from one consistent state to another consistent state  Consistent state All data meets integrity constraints  Isolation  Two transactions T1 and T2 are executed at the

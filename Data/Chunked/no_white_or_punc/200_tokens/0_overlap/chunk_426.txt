@@ -1,0 +1,1 @@
+root node with two subtrees one of which is an AVL tree with height h − 1 with the minimum number of nodes the other of which is an AVL tree with height h − 2 with the minimum number of nodes Given

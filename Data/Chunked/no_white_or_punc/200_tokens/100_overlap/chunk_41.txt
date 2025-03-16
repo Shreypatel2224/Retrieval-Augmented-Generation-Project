@@ -1,0 +1,1 @@
+The middle of the five children is promoted to its parent 12611 B Trees The previous section mentioned that Btrees are universally used to implement largescale diskbased systems Actually the Btree as

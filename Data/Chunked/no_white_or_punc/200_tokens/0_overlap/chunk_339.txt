@@ -1,0 +1,1 @@
+of this as taking two steps Each subsequent key you add will require one more step than the one before it The total number of steps it would take to add n keys would be determined by the sum 1  2  3

@@ -1,0 +1,1 @@
+that doesnt have the AVL property AVL trees by definition are required to meet the balance condition after every operation every time you insert or remove a key every node in the tree should have the

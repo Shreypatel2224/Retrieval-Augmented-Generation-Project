@@ -1,0 +1,1 @@
+node  21 42 … represent keys of some set of KV pairs  Leaf nodes store keys and data although data is not shown  Inserting another key will cause the node to split B Tree m  4  Insert 35  Leaf node

@@ -1,0 +1,1 @@
+solution problem node store height ie height subtree rooted cheaply updated every insertion removal unwind recursion rotation chosen considering two links along path node imbalance heading back

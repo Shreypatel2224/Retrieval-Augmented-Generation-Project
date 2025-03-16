@@ -1,0 +1,1 @@
+block which helps to minimize disk IO on range searches 4 Btrees guarantee that every node in the tree will be full at least to a certain minimum percentage This improves space efficiency while

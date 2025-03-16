@@ -1,0 +1,1 @@
+contains could split half want delete record could take deleted record chunk might want lot nearempty chunks could put adjacent chunks together small amount data could shuffle data adjacent chunks

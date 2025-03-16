@@ -1,0 +1,1 @@
+an RL rotation which is the mirror image of an LR rotation Once we understand the mechanics of how rotations work were one step closer to understanding AVL trees But these rotations arent arbitrary

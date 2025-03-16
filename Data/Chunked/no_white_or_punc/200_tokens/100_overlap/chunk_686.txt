@@ -1,0 +1,1 @@
+binary search tree on the left — which is complete by our definition — and we wanted to insert the key 1 into it If so we would need an algorithm that would transform the tree on the left into the

@@ -1,0 +1,1 @@
+Redis example data source would stored aws S3 transformations would run apache spark interface store redis training store s3 Graph database degree number connections closeness node easily reach nodes

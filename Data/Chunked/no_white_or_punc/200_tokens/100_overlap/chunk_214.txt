@@ -1,0 +1,1 @@
+Edge Locations Locations for CDN Content Delivery Network and caching services bringing content closer to end users Compute Services  VMbased EC2 Elastic Compute Cloud and EC2 Spot  Containerbased

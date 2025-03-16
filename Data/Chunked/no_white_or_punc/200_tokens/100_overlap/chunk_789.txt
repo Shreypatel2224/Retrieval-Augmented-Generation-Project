@@ -1,0 +1,1 @@
+The node containing 40 is C The node containing 30 is A The node containing 35 is B The empty left subtree of the node containing 30 is T1 The empty left subtree of the node containing 35 is T2 The

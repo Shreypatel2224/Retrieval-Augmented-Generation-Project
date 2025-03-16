@@ -1,0 +1,1 @@
+Solutions External Data Structures Use array tuples specialVal rowNumber sorted specialVal Enables binary search faster retrieval Slow inserts like inserting sorted array Use linked list tuples

@@ -1,0 +1,1 @@
+BTrees idea saw earlier putting multiple set list hash table elements together large chunks exploit locality also applied trees Binary search trees good locality given node binary tree probably

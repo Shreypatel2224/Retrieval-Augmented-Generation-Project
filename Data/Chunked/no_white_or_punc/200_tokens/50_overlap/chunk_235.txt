@@ -1,0 +1,1 @@
+internal node B Tree m  4  Insert 10 27 96  The insert process starts at the root node  The keys of the root node are searched to determine which child node to descend to  Example 10 Since 10  42 we

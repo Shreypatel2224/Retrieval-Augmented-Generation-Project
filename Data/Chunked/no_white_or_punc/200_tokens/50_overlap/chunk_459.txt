@@ -1,0 +1,1 @@
+would violate the definition Weve seen that the height of a perfect binary tree is Θlog n Its not a stretch to see that the height a complete binary tree will be Θlog n as well and well accept that

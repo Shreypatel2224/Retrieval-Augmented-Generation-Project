@@ -1,0 +1,1 @@
+System always responds latest data every request gets response may able deal network partitions Consistency Partition Tolerance system responds data distributed system always latest otherwise data

@@ -1,0 +1,1 @@
+Ifyistherootthen xbecomes theroot 15 Otherwise dothefollowing 16elseifyleftpy 17 then leftpy x 18 Ifyistheleftchildofitsparentthen 19 Settheparents leftchildtox 20 elserightpy x 21

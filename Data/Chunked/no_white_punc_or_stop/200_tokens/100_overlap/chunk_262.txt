@@ -1,0 +1,1 @@
+parent needs created case internal node B Tree 4 Insert 10 27 96 insert process starts root node keys root node searched determine child node descend Example 10 Since 10 42 follow pointer left 42

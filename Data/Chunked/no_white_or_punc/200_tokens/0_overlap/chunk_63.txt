@@ -1,0 +1,1 @@
+httpsopendsaservercsvteduODSABooksCS3htmlBTreehtmlid2 69Figure 1267 An example of deletion in a B tree of order four If deleting a record reduces the number of records in the node below the minimum

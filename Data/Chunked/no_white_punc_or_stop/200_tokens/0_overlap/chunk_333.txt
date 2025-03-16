@@ -1,0 +1,1 @@
+opposite height AVL tree n nodes Mh ≥ 2h2 log2Mh ≥ h2 2 log2Mh ≥ h Finally see AVL trees height h minimum number nodes height 2 log2n n number nodes tree AVL trees minimum number nodes relationship

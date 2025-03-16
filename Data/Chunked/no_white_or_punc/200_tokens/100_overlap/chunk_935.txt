@@ -1,0 +1,1 @@
+environment it would be a major security hole  Notice We didn’t set a password Connecting from DataGrip  File  New  Data Source  Redis  Give the Data Source a name  Make sure the port is 6379  Test

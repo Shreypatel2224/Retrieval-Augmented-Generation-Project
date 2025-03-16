@@ -1,0 +1,1 @@
+called newNode Insert newNode doubly linked list leaf nodes B Tree 4 Insert 30 continued Redistribute keys Copy smallest key 27 case newNode parent Rearrange keys pointers parent node parent newNode

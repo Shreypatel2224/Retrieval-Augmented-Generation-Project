@@ -1,0 +1,1 @@
+next insertion splits leaf cause root split thus tree get 1 level deeper B Tree 4 Insert 37 Step 1 Insert 37 appropriate leaf node B Tree 4 Insert 37 Step 2 splitting internal node move middle

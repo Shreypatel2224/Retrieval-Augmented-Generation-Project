@@ -1,0 +1,1 @@
+can require more than one rotation to correct imbalances but will still only require rotations on the path back up to the root from where the removal occurred — so generally Olog n rotations

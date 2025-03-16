@@ -1,0 +1,1 @@
+PyMongo PyMongo is a Python library for interfacing with MongoDB instances Connecting to MongoDB python from pymongo import MongoClient client  MongoClientmongodbusernamepwlocalhost27017 Getting a

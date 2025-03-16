@@ -1,0 +1,1 @@
+the query record The fewer the number of disk blocks affected during an operation the less disk IO is required 3 Btrees keep related records that is records with similar key values on the same disk

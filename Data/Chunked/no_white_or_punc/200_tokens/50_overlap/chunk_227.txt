@@ -1,0 +1,1 @@
+always the latest otherwise the data request is dropped  Availability  Partition Tolerance  The system always sends and responds based on the distributed store but the data may not be the absolute

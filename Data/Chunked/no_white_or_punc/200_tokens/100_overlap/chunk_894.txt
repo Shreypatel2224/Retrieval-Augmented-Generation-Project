@@ -1,0 +1,1 @@
+failing between two segments of the distributed system  Note The definition of Consistency in CAP is different from that of ACID CAP Theorem Review Continued  Consistency  Availability  System always

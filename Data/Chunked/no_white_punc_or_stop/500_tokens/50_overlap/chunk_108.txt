@@ -1,0 +1,1 @@
+random insertions Linked Lists Slow random access Fast random insertions Binary Search Trees Balance key maintaining Olog₂n performance search insert operations

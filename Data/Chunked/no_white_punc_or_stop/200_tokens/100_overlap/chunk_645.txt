@@ -1,0 +1,1 @@
+graphbased data part relatively new class NoSQL databases considered schema optional schema imposed needed Neo4j supports various types indexing ACID compliant supports distributed computing Similar

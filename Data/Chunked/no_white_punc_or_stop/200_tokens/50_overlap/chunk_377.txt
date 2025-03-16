@@ -1,0 +1,1 @@
+guarantees height tree still logarithmic give us logarithmictime lookups time spent balancing wont exceed logarithmic time would otherwise spend insertion removal tree logarithmic height cost wont

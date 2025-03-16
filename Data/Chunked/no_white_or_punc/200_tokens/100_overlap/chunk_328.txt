@@ -1,0 +1,1 @@
+the most recent write  Partition Tolerance The system can continue to operate despite arbitrary network issues CAP Theorem  Database View  Consistency Every user of the DB has an identical view of

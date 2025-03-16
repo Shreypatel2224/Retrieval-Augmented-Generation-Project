@@ -1,0 +1,1 @@
+versatile and complex The baseline for efficiency is Linear Search Linear Search  Process  Start at the beginning of a list and proceed element by element until  You find what you’re looking for or

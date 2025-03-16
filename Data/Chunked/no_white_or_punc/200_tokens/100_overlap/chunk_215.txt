@@ -1,0 +1,1 @@
+to end users Compute Services  VMbased EC2 Elastic Compute Cloud and EC2 Spot  Containerbased ECS Elastic Container Service ECR Elastic Container Registry EKS Elastic Kubernetes Service Fargate

@@ -1,0 +1,1 @@
+Right — rooted 40 would correct imbalance tree would rearranged look like Compare diagram describing LR rotation node containing 40 C node containing 30 node containing 35 B empty left subtree node

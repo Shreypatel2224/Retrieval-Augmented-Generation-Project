@@ -1,0 +1,1 @@
+retrieving specific elements from an XML document  XQuery A query language for interrogating XML documents the SQL of XML  DTD Document Type Definition A language for describing the allowed structure

@@ -1,0 +1,1 @@
+− 2 Given conclude following Mh ≥ 2Mh 2 use repeated substitution technique determine lower bound recurrence Mh ≥ 2Mh 2 ≥ 22Mh 4 ≥ 4Mh 4 ≥ 42Mh 6 ≥ 8Mh 6 ≥ 2jMh 2j could prove induction j well accept

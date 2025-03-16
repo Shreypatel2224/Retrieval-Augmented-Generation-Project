@@ -1,0 +1,1 @@
+keys root node searched determine child node descend Example 10 Since 10 42 follow pointer left 42 Note None new values cause node split B Tree 4 Insert 30 Starting root descend leftmost child we’ll

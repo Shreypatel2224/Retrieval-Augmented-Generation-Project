@@ -1,0 +1,1 @@
+its even worth our time What can we deduce about the cost of maintaining completeness even if we havent figured out an algorithm yet One example demonstrates a very big problem Suppose we had the

@@ -1,0 +1,1 @@
+can we do about it The answer lies in the following algorithm which we perform after the normal insertion process Work your way back up the tree from the position where you just added a node This

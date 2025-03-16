@@ -1,0 +1,1 @@
+number of nodes is 1 a root node with no children M1  2 When height is 1 minimum number of nodes is 2 a root node with one child and not the other Mh  1  Mh  1  Mh  2 While the repeated substitution

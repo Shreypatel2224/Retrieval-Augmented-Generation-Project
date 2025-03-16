@@ -1,0 +1,1 @@
+Tier Allows handson experience subset services 12 months service limitations apply Examples Amazon EC2 750 hoursmonth specific OSs instance sizes Amazon S3 5GB 20K GETs 2K PUTs Amazon RDS 750

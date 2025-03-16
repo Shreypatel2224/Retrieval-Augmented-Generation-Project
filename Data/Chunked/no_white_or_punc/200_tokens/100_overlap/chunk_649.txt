@@ -1,0 +1,1 @@
+Overall when n gets large the tree would be hideously expensive to build and then every subsequent search would be painful as well So this in general is a situation we need to be sure to avoid or

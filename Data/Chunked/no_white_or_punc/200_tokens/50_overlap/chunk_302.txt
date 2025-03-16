@@ -1,0 +1,1 @@
+from the leader  Clients can read from either the leader or followers LeaderBased Replication  Very Common Strategy  Relational MySQL Oracle SQL Server PostgreSQL  NoSQL MongoDB RethinkDB realtime

@@ -1,0 +1,1 @@
+internal nodes tree order 100 probably nodes internal nodes means overhead associated internal nodes low reduce number disk fetches required Btree even using following methods First upper levels tree

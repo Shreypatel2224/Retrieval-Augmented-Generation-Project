@@ -1,0 +1,1 @@
+changes that can be used for rollforward if there is a failure  Originally developed in 2009 in C  Can be very fast—over 100000 SET operations per second  Rich collection of commands  Does NOT handle

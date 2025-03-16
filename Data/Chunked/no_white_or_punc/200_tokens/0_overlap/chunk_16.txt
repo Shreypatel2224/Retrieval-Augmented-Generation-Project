@@ -1,0 +1,1 @@
+repeat the process For example consider a search for the record with key value 47 in the tree of Figure 1261 The root node is examined and the second right branch taken After examining the node at

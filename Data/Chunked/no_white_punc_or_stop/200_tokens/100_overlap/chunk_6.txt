@@ -1,0 +1,1 @@
+branching factor quite high small number disk blocks accessed reach given record 2 Update search operations affect disk blocks path root leaf node containing query record fewer number disk blocks

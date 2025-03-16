@@ -1,0 +1,1 @@
+Redispy Redispy is the standard client for Python It is maintained by the Redis Company itself  GitHub Repo redisredispy  Install in your 4300 Conda Environment pip install redis  Value can be any

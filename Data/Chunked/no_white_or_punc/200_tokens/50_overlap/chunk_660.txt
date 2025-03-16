@@ -1,0 +1,1 @@
+Pymongo Aggregation uses pipelines in pymongo A pipeline is a sequence of stages through which documents proceed and some of the different stages that can be used are match project sort limit unwind

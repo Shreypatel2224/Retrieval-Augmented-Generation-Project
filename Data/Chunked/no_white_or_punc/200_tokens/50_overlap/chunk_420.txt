@@ -1,0 +1,1 @@
+factor By definition binary search trees restrict what keys are allowed to present in which nodes — smaller keys have to be in left subtrees and larger keys in right subtrees — but they specify no

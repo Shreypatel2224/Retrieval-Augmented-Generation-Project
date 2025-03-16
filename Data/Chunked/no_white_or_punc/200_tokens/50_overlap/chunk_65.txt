@@ -1,0 +1,1 @@
+rt Key k  int currec  binarylertkeys rtnumrecs k if rtisLeaf  if BPLeafKeyErtkeyscurrec  k     Example 23 Tree V isualization Delete 22 7146 65 51 2−3 B B B 1  10     Example B Tree V isualization

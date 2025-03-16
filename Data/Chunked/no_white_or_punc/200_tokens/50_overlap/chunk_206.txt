@@ -1,0 +1,1 @@
+WHERE accountid  senderid  0 THEN  Roll back the transaction if there are insufficient funds ROLLBACK SIGNAL SQLSTATE 45000 SET MESSAGETEXT  rollbackmessage ELSE  Log the transactions if there are

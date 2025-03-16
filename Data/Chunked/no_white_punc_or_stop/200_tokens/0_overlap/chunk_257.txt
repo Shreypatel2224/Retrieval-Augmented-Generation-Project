@@ -1,0 +1,1 @@
+nodes incoming relationships Neo4j Graph Database System supports transactional analytical processing graphbased data Relatively new class NoSQL DBs Considered schema optional one imposed Supports

@@ -1,0 +1,1 @@
+from newNode to the parent  Rearrange keys and pointers in the parent node  The parent of newNode is also the root So nothing else needs to be done B Tree m  4  Fast forward to this state of the

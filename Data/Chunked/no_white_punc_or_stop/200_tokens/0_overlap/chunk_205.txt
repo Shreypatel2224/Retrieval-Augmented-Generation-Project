@@ -1,0 +1,1 @@
+relational DBs structure data OO Programming → Inheritance Composition types Saving complex object relational database requires deconstructing structure document selfdescribing wellaligned apps use

@@ -1,0 +1,1 @@
+identify therightmost nodeiethefarthest nodeyoucanreach followingonlyrightbranches BSTMinim umx 1ifxnilthenreturn Empt yTree 2y x 3while lefty6nildoy lefty 4return keyy BSTMaxim umx 1ifxnilthenreturn

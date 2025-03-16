@@ -1,0 +1,1 @@
+of nodes the height is no more than 2 log2n where n is the number of nodes in the tree For AVL trees with more than the minimum number of nodes the relationship between the number of nodes and the

@@ -1,0 +1,1 @@
+the value  SETNX key value only sets value to key if the key does not already exist Hash Type  Value of a keyvalue entry is a collection of fieldvalue pairs  Use Cases  Can be used to represent basic

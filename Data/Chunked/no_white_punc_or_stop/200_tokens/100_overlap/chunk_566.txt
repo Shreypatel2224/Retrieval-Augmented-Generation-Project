@@ -1,0 +1,1 @@
+piece background need consider Recall height tree length longest path definition height tree root node empty subtrees would zero tree thats totally empty maintain clear pattern relative tree heights

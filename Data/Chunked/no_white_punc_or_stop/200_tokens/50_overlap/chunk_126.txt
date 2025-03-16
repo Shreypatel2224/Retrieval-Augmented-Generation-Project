@@ -1,0 +1,1 @@
+number may greater typically less data structure satisfies several invariants 1 Every path root leaf length 2 node n children contains n−1 keys 3 Every node except root least half full 4 elements

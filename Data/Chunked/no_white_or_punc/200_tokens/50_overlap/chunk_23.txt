@@ -1,0 +1,1 @@
+node containing a record with key value 47 Btree insertion is a generalization of 23 tree insertion The first step is to find the leaf node that should contain the key to be inserted space permitting

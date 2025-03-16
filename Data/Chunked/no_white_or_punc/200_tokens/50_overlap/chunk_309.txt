@@ -1,0 +1,1 @@
+may not have all the writes  How do we recover the lost writes Or do we simply discard them  After if the old leader recovers how do we avoid having multiple leaders receiving conflicting data Split

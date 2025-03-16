@@ -1,0 +1,1 @@
+search trees complete would always binary search trees height Θlog n cost maintaining completeness trouble course need algorithm maintaining completeness go trouble trying figure one consider whether

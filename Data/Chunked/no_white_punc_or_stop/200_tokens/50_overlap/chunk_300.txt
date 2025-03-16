@@ -1,0 +1,1 @@
+Searching Databases Overview Searching common operation performed database system SQL SELECT statement arguably versatile complex baseline efficiency Linear Search Linear Search Process Start

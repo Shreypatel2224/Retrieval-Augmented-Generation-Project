@@ -1,0 +1,1 @@
+field1 1 field2 1 id 0 Updating document collectionupdateoneconditionfield conditionvalue set field value Deleting document collectiondeleteoneconditionfield conditionvalue Aggregation Pipeline

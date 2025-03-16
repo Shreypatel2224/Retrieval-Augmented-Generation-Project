@@ -1,0 +1,1 @@
+a specific id is fast  Searching for a specific specialVal requires a linear scan of the column  Problem  Data cannot be stored on disk sorted by both id and specialVal simultaneously without

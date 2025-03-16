@@ -1,0 +1,1 @@
+and analytical processing of graphbased data  Relatively new class of NoSQL DBs  Considered schema optional one can be imposed  Supports various types of indexing  ACID compliant  Supports

@@ -1,0 +1,1 @@
+Browser Loading CSVs  General Syntax LOAD CSV WITH HEADERS FROM filefileinimportfoldercsv AS line FIELDTERMINATOR   do stuffs with line Importing with Directors this Time LOAD CSV WITH HEADERS FROM

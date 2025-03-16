@@ -1,0 +1,1 @@
+committed transactions preserved Isolation Issues Dirty Read transaction T1 able read row modified another transaction T2 hasn’t yet executed COMMIT Nonrepeatable Read Two queries single transaction

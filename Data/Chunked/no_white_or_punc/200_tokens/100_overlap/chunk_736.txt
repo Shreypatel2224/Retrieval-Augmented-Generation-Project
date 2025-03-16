@@ -1,0 +1,1 @@
+the tree periodically essentially detecting and correcting imbalance whenever and wherever it happens To do that we need to rearrange the tree in ways that improve its shape without losing the

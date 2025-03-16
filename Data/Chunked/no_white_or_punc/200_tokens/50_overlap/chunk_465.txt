@@ -1,0 +1,1 @@
+by our definition — and we wanted to insert the key 1 into it If so we would need an algorithm that would transform the tree on the left into the tree on the right31425 439 PM ICS 46 Spring 2022

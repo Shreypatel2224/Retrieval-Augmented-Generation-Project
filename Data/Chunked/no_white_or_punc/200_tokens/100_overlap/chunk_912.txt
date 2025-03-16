@@ -1,0 +1,1 @@
+nodes Typically concerned with eventual consistency meaning in a distributed environment the only guarantee is that all nodes will eventually converge on the same value  Value can be any arbitrary

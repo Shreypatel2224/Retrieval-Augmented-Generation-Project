@@ -1,0 +1,1 @@
+maintaining logarithmic height logarithmic cost makes binary search tree nearly balanced enough considered AVL tree core concept embodied something called AVL property say node binary search tree AVL

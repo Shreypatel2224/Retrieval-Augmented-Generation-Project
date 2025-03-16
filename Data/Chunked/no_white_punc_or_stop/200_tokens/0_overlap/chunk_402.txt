@@ -1,0 +1,1 @@
+demodbcustomersfind name1 rating1 printdumpsdata indent2 without id field SELECT name rating customers data demodbcustomersfind name1 rating1 id0 printdumpsdata indent2 every customer return fields

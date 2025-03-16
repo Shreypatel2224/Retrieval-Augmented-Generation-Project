@@ -1,0 +1,1 @@
+lists for users and permission structures  Social network friends lists andor group membership  Supports set operations Set Commands  SADD ds4300 “Mark”  SADD ds4300 “Sam”  SADD cs3200 “Nick”  SADD

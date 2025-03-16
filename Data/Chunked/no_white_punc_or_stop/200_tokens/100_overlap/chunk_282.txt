@@ -1,0 +1,1 @@
+Pseudo code Thisrecursive algorithm takesastheinputa pointer toatreeandexecuted inorder traversal onthetreeWhile traversal printsoutthekeyofeachnodethatisvisited Inorder Walkx 1ifxnilthenreturn

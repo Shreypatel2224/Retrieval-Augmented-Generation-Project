@@ -1,0 +1,1 @@
+lookup recursively might also using memory might end many n frames runtime stack — one every recursive call ways mitigate — example kinds carefullywritten recursion programming languages including C

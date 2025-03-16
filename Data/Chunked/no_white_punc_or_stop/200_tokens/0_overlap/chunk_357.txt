@@ -1,0 +1,1 @@
+concurrency works well allowing higher concurrency High Conflict Systems Rolling back rerunning transactions encounter conflict less efficient locking scheme pessimistic model might preferable NoSQL

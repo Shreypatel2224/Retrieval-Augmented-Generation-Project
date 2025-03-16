@@ -1,0 +1,1 @@
+number fieldvalue pairs per hash 2321 Practical limit Available system resources eg memory Session information management UserEvent tracking could include TTL Active Session Tracking sessions one

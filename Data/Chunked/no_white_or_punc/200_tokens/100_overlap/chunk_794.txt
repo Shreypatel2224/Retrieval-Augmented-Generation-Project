@@ -1,0 +1,1 @@
+left child of the root of the newlyrotated subtree The node C which in our example contained 40 is now the right child of the root of the newlyrotated subtree The four subtrees T1 T2 T3 and T4 were

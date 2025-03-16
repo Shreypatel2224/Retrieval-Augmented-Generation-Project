@@ -1,0 +1,1 @@
+node then take one step to the right You could think of this as taking two steps Each subsequent key you add will require one more step than the one before it The total number of steps it would take

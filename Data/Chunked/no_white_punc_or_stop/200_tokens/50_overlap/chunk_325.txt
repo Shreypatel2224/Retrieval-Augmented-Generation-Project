@@ -1,0 +1,1 @@
+number nodes Trees type graph cycles hierarchical structure Types Graph Algorithms Pathfinding Pathfinding Finding shortest path two nodes one exists probably common operation “Shortest” means fewest

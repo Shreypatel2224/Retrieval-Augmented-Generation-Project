@@ -1,0 +1,1 @@
+node empty subtrees would zero tree thats totally empty maintain clear pattern relative tree heights well say height empty tree 1 means node say childless left child right child would still

@@ -1,0 +1,1 @@
+direct search rather than store actual data Does this overhead amount to a significant use of space No because once again the high fanout rate of the tree structure means that the vast majority of

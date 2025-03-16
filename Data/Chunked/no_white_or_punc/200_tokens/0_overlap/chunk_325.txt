@@ -1,0 +1,1 @@
+the tree with the height of the tree being the key determining factor By definition binary search trees restrict what keys are allowed to present in which nodes — smaller keys have to be in left

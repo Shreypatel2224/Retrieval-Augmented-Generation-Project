@@ -1,0 +1,1 @@
+leaves one acquires new element parent updated contain new key child pointer parent already full process ripples upwards eventually possibly reaching root root split two new root created two children

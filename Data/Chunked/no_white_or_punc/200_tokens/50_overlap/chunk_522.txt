@@ -1,0 +1,1 @@
+from the position where you just added a node This could be quite simple if the insertion was done recursively Compare the heights of the left and right subtrees of each node When they differ by more

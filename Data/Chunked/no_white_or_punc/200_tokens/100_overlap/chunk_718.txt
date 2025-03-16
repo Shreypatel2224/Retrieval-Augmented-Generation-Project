@@ -1,0 +1,1 @@
+an AVL tree The core concept is embodied by something called the AVL property We say that a node in a binary search tree has the AVL property if the heights of its left and right subtrees dif fer by

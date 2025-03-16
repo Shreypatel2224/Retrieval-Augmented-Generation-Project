@@ -1,0 +1,1 @@
+all a complete binary tree would be a great goal for us to attain If we could keep the shape of our binary search trees complete we would always have binary search trees with height Θlog n The cost

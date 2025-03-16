@@ -1,0 +1,1 @@
+inconsistent changing state system appears work time Soft State state system could change time even without input Changes could result eventual consistency Data stores don’t writeconsistent Replicas

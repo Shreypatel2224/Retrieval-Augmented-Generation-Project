@@ -1,0 +1,1 @@
+an AVL tree with n nodes is Θlog n In reality it turns out that the bound is lower than 2 log2n its something more akin to about 144 log2n even for AVL trees with the minimum number of nodes though the proof of that is more involved and doesnt change the asymptotic result31425 439 PM ICS 46 Spring 2022 Notes and Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 77

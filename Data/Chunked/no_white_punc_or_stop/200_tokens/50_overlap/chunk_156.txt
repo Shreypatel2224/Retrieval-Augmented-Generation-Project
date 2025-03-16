@@ -1,0 +1,1 @@
+2 UPDATE accounts SET balance balance amount accountid receiverid Check sufficient funds account 1 SELECT balance accounts accountid senderid 0 Roll back transaction insufficient funds ROLLBACK

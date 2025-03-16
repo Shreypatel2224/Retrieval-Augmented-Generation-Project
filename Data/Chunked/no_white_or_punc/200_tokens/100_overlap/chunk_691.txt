@@ -1,0 +1,1 @@
+still have to move every key If there are n keys in the tree that would take Ωn time — moving n keys takes at least linear time even if you have the best possible algorithm for moving them the work

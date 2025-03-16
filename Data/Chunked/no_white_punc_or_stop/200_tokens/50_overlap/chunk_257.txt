@@ -1,0 +1,1 @@
+Document Database Document Database nonrelational database stores data structured documents usually JSON designed simple flexible scalable JSON JSON JavaScript Object Notation lightweight

@@ -1,0 +1,1 @@
+data string number JSON object binary object etc KeyValue Stores Use Cases  EDAExperimentation Results Store  Store intermediate results from data preprocessing and EDA  Store experiment or testing

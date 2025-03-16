@@ -1,0 +1,1 @@
+Party Tools Every major language has a library to interface with MongoDB eg PyMongo for Python Mongoose for JavaScriptnode MongoDB Community Edition in Docker  Create a container  Map hostcontainer

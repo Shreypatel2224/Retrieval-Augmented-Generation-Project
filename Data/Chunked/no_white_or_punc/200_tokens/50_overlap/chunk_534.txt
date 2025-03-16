@@ -1,0 +1,1 @@
+subtree of the node containing 35 is T2 The empty right subtree of the node containing 35 is T3 The empty right subtree of the node containing 40 is T4 After the rotation we see what wed expect The

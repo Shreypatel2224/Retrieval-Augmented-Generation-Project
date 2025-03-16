@@ -1,0 +1,1 @@
+doesnt harm the ordering of the keys in nodes because the subtrees T1 T2 and T3 maintain the appropriate positions relative to the keys A and B All keys in T1 are smaller than A All keys in T2 are

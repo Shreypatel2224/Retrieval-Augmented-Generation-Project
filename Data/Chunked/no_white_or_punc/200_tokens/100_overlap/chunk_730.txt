@@ -1,0 +1,1 @@
+httpsicsucieduthorntonics46NotesAVLTrees 37The thing to keep in mind about AVL is that its not a matter of squinting at a tree and deciding whether it looks balanced Theres a precise definition and

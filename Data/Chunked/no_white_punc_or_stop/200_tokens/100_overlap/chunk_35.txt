@@ -1,0 +1,1 @@
+breaking list manageable chunks easily updated might First need decide big chunks Since data disk seems reasonable store chunk size disk block small multiple disk block size next record inserted

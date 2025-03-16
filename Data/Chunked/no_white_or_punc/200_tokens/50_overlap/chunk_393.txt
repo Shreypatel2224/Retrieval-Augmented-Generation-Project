@@ -1,0 +1,1 @@
+Introduction to the Graph Data Model What is a Graph Database  A data model based on the graph data structure  Composed of nodes and edges  Edges connect nodes  Each node and edge is uniquely

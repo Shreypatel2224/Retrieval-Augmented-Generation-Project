@@ -1,0 +1,1 @@
+identified  Each can contain properties eg name occupation etc  Supports queries based on graphoriented operations  Traversals  Shortest path  Many others Where do Graphs Show Up  Social Networks

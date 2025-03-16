@@ -1,0 +1,1 @@
+formats including nonXML formats such as HTML Why Document Databases  Document databases address the impedance mismatch problem between object persistence in OO systems and how relational DBs

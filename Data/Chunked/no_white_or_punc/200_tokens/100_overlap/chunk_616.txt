@@ -1,0 +1,1 @@
+care about binary search tree balancing Weve seen previously that the performance characteristics of binary search trees can vary rather wildly and that theyre mainly dependent on the shape of the

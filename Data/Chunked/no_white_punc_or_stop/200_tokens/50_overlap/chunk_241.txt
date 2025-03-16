@@ -1,0 +1,1 @@
+process instructions leader Clients read either leader followers LeaderBased Replication Common Strategy Relational MySQL Oracle SQL Server PostgreSQL NoSQL MongoDB RethinkDB realtime web apps

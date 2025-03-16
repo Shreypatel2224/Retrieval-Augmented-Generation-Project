@@ -1,0 +1,1 @@
+EC2 Spot Containerbased ECS Elastic Container Service ECR Elastic Container Registry EKS Elastic Kubernetes Service Fargate Serverless container service Serverless AWS Lambda Storage Services Amazon

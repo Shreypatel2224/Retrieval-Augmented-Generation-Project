@@ -1,0 +1,1 @@
+Least Privilege  Manage selfhosted apps and associated OSs  Ensure network security in VPC Virtual Private Cloud  Handle compliance and governance policies The AWS Global Infrastructure  Regions

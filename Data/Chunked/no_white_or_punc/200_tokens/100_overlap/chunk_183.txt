@@ -1,0 +1,1 @@
+Because the tree branches so quickly the top two levels levels 0 and 1 require relatively little space If the Btree is only height four then at most two disk fetches internal nodes at level two and

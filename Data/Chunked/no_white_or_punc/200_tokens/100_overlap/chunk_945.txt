@@ -1,0 +1,1 @@
+someValue 0  INCR someValue  Increment by 1  INCRBY someValue 10  Increment by 10  DECR someValue  Decrement by 1  DECRBY someValue 5  Decrement by 5  INCR parses the value as an integer and

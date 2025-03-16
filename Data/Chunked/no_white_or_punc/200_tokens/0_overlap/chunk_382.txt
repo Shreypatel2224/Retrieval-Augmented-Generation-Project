@@ -1,0 +1,1 @@
+its not a matter of squinting at a tree and deciding whether it looks balanced Theres a precise definition and the two trees above that dont meet that definition fail to meet it because they each

@@ -1,0 +1,1 @@
+from the server as bytes Setting this to True converts them decodes to strings Example import redis redisclient  redisRedishostlocalhost port6379 db2 decoderesponsesTrue Redis Command List  Full List

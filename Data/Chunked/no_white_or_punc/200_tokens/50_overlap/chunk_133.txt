@@ -1,0 +1,1 @@
+and EC2 Elastic Compute Cloud  By 2010 services expanded to include SimpleDB Elastic Block Store Relational Database Service RDS DynamoDB CloudWatch Simple Workflow CloudFront Availability Zones and

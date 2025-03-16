@@ -1,0 +1,1 @@
+Guarantee Ensures sequence writes happens certain order anyone reading writes see appear order

@@ -1,0 +1,1 @@
+allthekeysinthleftsubtree arestrictly less thanthekeythatissearched forThatmeans thatwedonotneedtosearchintheleft subtree Thus wewillexamine onlytheright subtree Ifthelatter isthecasebysymmetry

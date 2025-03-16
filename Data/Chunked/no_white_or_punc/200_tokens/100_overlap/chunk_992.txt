@@ -1,0 +1,1 @@
+field  SELECT name rating FROM customers data  demodbcustomersfind name1 rating1 id0 printdumpsdata indent2  For every customer return all fields except id and address data  demodbcustomersfind id 0

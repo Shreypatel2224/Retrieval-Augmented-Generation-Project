@@ -1,0 +1,1 @@
+rating imdbrating agg  mflixdbmoviesaggregatematch limit project printdumpsagg indent2  The key id attribute is automatically returned unless you explicitly say to remove it  SELECT name rating FROM

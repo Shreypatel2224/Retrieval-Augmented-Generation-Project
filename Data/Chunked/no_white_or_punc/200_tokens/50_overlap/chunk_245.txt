@@ -1,0 +1,1 @@
+tothe leftsubtree ofxthenthekeyatyisless thanthekeyatxandifybelongs tothe rightsubtree ofxthenthekeyatyis greater thanthekeyatx Wewillassume thatthekeysofaBSTare pairwise distinct

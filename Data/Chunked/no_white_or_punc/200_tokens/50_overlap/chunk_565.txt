@@ -1,0 +1,1 @@
+seen previously we know that the relationship between the number of nodes and the height of a binary tree can never be better than logarithmic So ultimately we see that the height of an AVL tree with

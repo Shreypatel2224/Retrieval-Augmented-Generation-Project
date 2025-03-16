@@ -1,0 +1,1 @@
+xgointotherightsubtree ofx andallthekeyssmaller xgointothe leftsubtree Thus theheight ofthetree thusconstructed isoneplusthelargerofthe height oftheleftsubtree andtheheight therightsubtree 23Random

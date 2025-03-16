@@ -1,0 +1,1 @@
+majority of nodes are leaf nodes A Kary tree has approximately of its nodes as internal nodes This means that while half of a full binary tree’s nodes are internal nodes in a tree of order 100

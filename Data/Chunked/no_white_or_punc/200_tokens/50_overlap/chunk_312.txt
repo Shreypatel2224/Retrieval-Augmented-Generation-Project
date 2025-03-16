@@ -1,0 +1,1 @@
+slower and the system to be more brittle as the number of followers increases  Asynchronous replication Maintains availability but at the cost of delayed or eventual consistency This delay is called

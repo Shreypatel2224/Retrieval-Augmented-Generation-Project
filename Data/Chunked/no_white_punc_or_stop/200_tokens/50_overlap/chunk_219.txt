@@ -1,0 +1,1 @@
+Settheparents leftchildtox 20 elserightpy x 21 Ifyistherightchildofitsparentthen 22 Settheparents rightchildtox 23ify6zthen 24 fkeyz keyy 25 Move otherdatafrom ytozg 27return 20Summa ryofEciency

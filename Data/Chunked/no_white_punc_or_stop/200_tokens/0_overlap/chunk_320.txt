@@ -1,0 +1,1 @@
+newlyrotated subtree node example contained 30 left child root newlyrotated subtree node C example contained 40 right child root newlyrotated subtree four subtrees T1 T2 T3 T4 empty still empty Note

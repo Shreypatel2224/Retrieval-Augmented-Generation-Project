@@ -1,0 +1,1 @@
+Send INSERT UPDATE DELETEs replica Simple errorprone Writeahead Log WAL bytelevel specific log every change database Logical rowbased Log relational DBs logs inserted rows modified rows deleted rows

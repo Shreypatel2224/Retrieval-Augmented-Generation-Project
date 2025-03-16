@@ -1,0 +1,1 @@
+called a data structure store  Primarily a keyvalue store but can be used with other models Graph Spatial Full Text Search Vector Time Series  From dbenginescom Ranking of KeyValue Stores Redis

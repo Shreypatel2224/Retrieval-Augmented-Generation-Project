@@ -1,0 +1,1 @@
+key leaf node tree order might enough room store less records requirement simply leaf nodes store enough records remain least half full leaf nodes tree normally linked together form doubly linked

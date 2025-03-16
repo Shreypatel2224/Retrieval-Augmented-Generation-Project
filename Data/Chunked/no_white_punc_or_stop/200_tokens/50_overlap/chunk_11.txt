@@ -1,0 +1,1 @@
+corresponding disk file typical application Btree’s access disk file managed using buffer pool blockreplacement scheme LRU Figure 1261 shows Btree order four node contains three keys internal nodes

@@ -1,0 +1,1 @@
+slightly different but no more than that — in hopes that we can more efficiently maintain it Since were going to be comparing heights of subtrees theres one piece of background we need to consider

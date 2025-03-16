@@ -1,0 +1,1 @@
+libraries are available as well Foundation Data Type  String  Sequence of bytes text serialized objects binary arrays  Simplest data type  Maps a string to another string  Use Cases  Caching

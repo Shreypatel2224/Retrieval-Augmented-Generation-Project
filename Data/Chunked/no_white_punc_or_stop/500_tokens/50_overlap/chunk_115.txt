@@ -1,0 +1,1 @@
+schema optional one imposed Supports various types indexing ACID compliant Supports distributed computing Similar systems Microsoft CosmoDB Amazon Neptune

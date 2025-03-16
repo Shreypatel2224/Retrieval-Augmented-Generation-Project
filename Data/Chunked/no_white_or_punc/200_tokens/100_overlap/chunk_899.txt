@@ -1,0 +1,1 @@
+Partition Tolerance  System always sends and responds based on the distributed store but the data may not be the absolute latest ACID Alternative for Distributed Systems  BASE  Basically Available

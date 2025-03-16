@@ -1,0 +1,1 @@
+brain issue  Leader failure detection Optimal timeout is tricky Replication Lag  Replication Lag refers to the time it takes for writes on the leader to be reflected on all of the followers

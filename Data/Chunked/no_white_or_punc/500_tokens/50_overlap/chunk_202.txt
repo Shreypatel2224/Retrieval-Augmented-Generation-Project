@@ -1,0 +1,1 @@
+mMovie id lineshowid WITH m splitlinedirector  as directorslist UNWIND directorslist AS directorname MATCH pPerson name directorname CREATE pDIRECTEDm Gut Check Let’s check the movie titled Ray MATCH mMovie title RayDIRECTEDpPerson RETURN m p

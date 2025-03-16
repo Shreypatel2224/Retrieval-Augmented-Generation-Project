@@ -1,0 +1,1 @@
+serialization of a JSONlike document structure  Supports extended types not part of basic JSON eg Date BinaryData etc  Lightweight Keeps space overhead to a minimum  Traversable Designed to be easily

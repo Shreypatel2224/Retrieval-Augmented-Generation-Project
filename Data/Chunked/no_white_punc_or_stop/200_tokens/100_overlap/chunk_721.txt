@@ -1,0 +1,1 @@
+Connecting DataGrip File New Data Source Redis Give Data Source name Make sure port 6379 Test connection Redis Database Interaction Redis provides 16 databases default numbered 0 15 name associated

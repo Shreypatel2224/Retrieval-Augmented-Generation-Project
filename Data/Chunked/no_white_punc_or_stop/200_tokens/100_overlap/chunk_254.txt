@@ -1,0 +1,1 @@
+gets response may able deal network issues Consistency Partition Tolerance system responds data distributed store always latest otherwise data request dropped Availability Partition Tolerance system

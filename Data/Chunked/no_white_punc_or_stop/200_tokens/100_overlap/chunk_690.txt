@@ -1,0 +1,1 @@
+network partitions Consistency Partition Tolerance system responds data distributed system always latest otherwise data request dropped Availability Partition Tolerance System always sends responds

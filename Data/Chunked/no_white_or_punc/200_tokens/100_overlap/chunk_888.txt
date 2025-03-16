@@ -1,0 +1,1 @@
+preferable NoSQL  “NoSQL” first used in 1998 by Carlo Strozzi to describe his relational database system that did not use SQL  Modern meaning “Not Only SQL”  Sometimes thought of as nonrelational DBs

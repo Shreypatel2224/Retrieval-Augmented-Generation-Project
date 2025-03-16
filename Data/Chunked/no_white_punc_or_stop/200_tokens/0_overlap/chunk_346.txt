@@ -1,0 +1,1 @@
+name Bob birthPlace London MATCH aliceUser name”Alice” MATCH bobUser name “Bob” CREATE aliceKNOWS since “20221201”bob Note Relationships directed neo4j Matching users born London MATCH usrUser

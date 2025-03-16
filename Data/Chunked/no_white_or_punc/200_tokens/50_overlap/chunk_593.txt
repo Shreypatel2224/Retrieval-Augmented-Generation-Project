@@ -1,0 +1,1 @@
+one transaction has to protect itself from other transactions  Assumes that if something can go wrong it will  Conflicts are prevented by locking resources until a transaction is complete there are

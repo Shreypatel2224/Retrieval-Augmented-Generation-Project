@@ -1,0 +1,1 @@
+from 40 down toward 35 are a Left and a Right — rooted at 40 which would correct the imbalance and the tree would be rearranged to look like this Compare this to the diagram describing an LR rotation

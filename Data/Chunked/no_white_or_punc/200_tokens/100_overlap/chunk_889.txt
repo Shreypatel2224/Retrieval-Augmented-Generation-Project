@@ -1,0 +1,1 @@
+that did not use SQL  Modern meaning “Not Only SQL”  Sometimes thought of as nonrelational DBs  Originally developed in part as a response to processing unstructured webbased data CAP Theorem Review

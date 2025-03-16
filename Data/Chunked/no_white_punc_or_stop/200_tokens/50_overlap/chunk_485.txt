@@ -1,0 +1,1 @@
+appendonly file journal changes used rollforward failure Originally developed 2009 C fast—over 100000 SET operations per second Rich collection commands handle complex data secondary indexes supports

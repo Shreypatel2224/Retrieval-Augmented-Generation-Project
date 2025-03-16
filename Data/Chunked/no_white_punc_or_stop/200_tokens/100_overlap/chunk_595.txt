@@ -1,0 +1,1 @@
+adding new node introduced possibility imbalance example suppose started AVL tree inserted key 35 binary search tree insertion would give us result 31425 439 PM ICS 46 Spring 2022 Notes Examples AVL

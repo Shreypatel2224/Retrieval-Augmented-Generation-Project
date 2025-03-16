@@ -1,0 +1,1 @@
+relationship types Drives Owns Liveswith Marriedto  Properties Attributes like name age etc Paths  A path is an ordered sequence of nodes connected by edges in which no nodes or edges are repeated

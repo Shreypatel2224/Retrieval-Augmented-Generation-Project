@@ -1,0 +1,1 @@
+a transaction that notices a conflict  Optimistic concurrency works well allowing for higher concurrency  High Conflict Systems  Rolling back and rerunning transactions that encounter a conflict is

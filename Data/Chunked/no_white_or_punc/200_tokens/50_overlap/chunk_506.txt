@@ -1,0 +1,1 @@
+keys in T1 are smaller than A All keys in T2 are larger than A and smaller than B All keys in T3 are larger than B Performing this rotation would be a simple matter of adjusting a few pointers —

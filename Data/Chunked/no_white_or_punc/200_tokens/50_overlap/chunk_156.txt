@@ -1,0 +1,1 @@
+instance sizes  Amazon S3 5GB 20K GETs 2K PUTs  Amazon RDS 750 hoursmonth of DB use within certain limits

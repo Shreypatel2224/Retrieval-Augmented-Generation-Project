@@ -1,0 +1,1 @@
+tree right circle B written single node containing single key triangles T1 T2 T3 written arbitrary subtrees may empty may contain number nodes binary search trees important remember trees — — binary

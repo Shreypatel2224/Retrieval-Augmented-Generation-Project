@@ -1,0 +1,1 @@
+time Unfortunately this is more time than we ought to be spending on maintaining balance This means well need to come up with a compromise as is often the case when we learn or design algorithms our

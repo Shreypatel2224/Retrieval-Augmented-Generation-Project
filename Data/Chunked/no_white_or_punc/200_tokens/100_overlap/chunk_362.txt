@@ -1,0 +1,1 @@
+thanthekeyatxandifybelongs tothe rightsubtree ofxthenthekeyatyis greater thanthekeyatx Wewillassume thatthekeysofaBSTare pairwise distinct Eachnodehasthefollowingattributes pleftandrightwhich

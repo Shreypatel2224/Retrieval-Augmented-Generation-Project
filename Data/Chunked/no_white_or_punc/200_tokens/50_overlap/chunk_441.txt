@@ -1,0 +1,1 @@
+search would be painful as well So this in general is a situation we need to be sure to avoid or else we should probably consider a data structure other than a binary search tree the worst31425 439

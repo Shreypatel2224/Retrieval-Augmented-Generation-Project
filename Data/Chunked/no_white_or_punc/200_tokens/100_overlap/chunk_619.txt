@@ -1,0 +1,1 @@
+restrict what keys are allowed to present in which nodes — smaller keys have to be in left subtrees and larger keys in right subtrees — but they specify no restriction on the trees shape meaning that

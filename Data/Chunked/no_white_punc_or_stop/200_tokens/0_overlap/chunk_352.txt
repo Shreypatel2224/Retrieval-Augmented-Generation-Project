@@ -1,0 +1,1 @@
+check movie titled Ray MATCH mMovie title RayDIRECTEDpPerson RETURN p

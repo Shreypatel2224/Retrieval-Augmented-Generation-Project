@@ -1,0 +1,1 @@
+Messaging Brokers Kafka RabbitMQ Replication Info Transmitted Followers Replication Methods Statementbased Send INSERT UPDATE DELETEs replica Simple errorprone Writeahead Log WAL bytelevel specific

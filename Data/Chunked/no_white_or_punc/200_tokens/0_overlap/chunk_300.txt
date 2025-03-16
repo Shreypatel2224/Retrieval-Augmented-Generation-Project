@@ -1,0 +1,1 @@
+Overview  A binary tree where  Every node in the left subtree is less than its parent  Every node in the right subtree is greater than its parent  Advantages  Fast insert and fast search operations

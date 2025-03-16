@@ -1,0 +1,1 @@
+subtree keys keys parent node either side subtree pointer generalizes BST invariant 5 root least two children leaf example following order5 Btree m5 leaves enough space store 3 data records height

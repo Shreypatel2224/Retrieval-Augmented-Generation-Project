@@ -1,0 +1,1 @@
+until the demands of highavailability make it necessary to scale out with some type of distributed computing model  Why Scaling up is easier  no need to modify your architecture But there are

@@ -1,0 +1,1 @@
+Delete canbemade toruninOhtime 21Randomly builtBST Supposethatweinsert ndistinct keysintoan initially emptytreeAssuming thatthen permutations areequally likelytooccurwhat istheaverage height

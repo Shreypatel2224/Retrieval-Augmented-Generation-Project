@@ -1,0 +1,1 @@
+compared to other nodes  Example Social Network Influencers  Community Detection  Evaluating clustering or partitioning of nodes of a graph and tendency to strengthen or break apart Centrality

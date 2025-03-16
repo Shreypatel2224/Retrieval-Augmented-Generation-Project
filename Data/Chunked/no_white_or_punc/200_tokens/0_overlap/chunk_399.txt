@@ -1,0 +1,1 @@
+new node in the appropriate leaf position where the lookup ended The problem is that adding the new node introduced the possibility of an imbalance For example suppose we started with this AVL tree

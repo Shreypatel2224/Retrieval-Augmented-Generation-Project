@@ -1,0 +1,1 @@
+store always latest otherwise data request dropped Availability Partition Tolerance system always sends responds based distributed store data may absolute latest CAP Reality really saying cannot

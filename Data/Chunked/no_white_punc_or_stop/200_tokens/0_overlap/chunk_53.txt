@@ -1,0 +1,1 @@
+requires nodes least half full except root Thus storage utilization must least 50 satisfactory many implementations note keeping nodes fuller result less space required less empty space disk file

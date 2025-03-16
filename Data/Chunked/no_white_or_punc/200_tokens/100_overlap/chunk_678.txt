@@ -1,0 +1,1 @@
+of a perfect binary tree is Θlog n Its not a stretch to see that the height a complete binary tree will be Θlog n as well and well accept that via our intuition for now and proceed All in all a

@@ -1,0 +1,1 @@
+disk at specific intervals  Using an appendonly file which is a journal of changes that can be used for rollforward if there is a failure  Originally developed in 2009 in C  Can be very fast—over

@@ -1,0 +1,1 @@
+guide us toward an understanding of whether weve found what were looking for A compromise AVL trees There are a few wellknown approaches for maintaining binary search trees in a state of nearbalance

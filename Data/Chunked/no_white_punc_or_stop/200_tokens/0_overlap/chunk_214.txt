@@ -1,0 +1,1 @@
+Data Set Compass create new Database named mflix Download mflix sample dataset unzip Import JSON files users theaters movies comments new collections mflix database Creating Database Collection

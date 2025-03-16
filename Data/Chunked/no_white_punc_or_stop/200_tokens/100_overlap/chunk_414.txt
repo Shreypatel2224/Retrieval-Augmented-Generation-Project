@@ -1,0 +1,1 @@
+library interfacing MongoDB instances Connecting MongoDB python pymongo import MongoClient client MongoClientmongodbusernamepwlocalhost27017 Getting database collection pymongo import MongoClient

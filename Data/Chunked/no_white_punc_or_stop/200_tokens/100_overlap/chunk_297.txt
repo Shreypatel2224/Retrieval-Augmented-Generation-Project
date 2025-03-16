@@ -1,0 +1,1 @@
+ndtheminimum identify theleftmost nodeiethefarthest nodeyoucanreach followingonlyleftbranches ndthemaximum identify therightmost nodeiethefarthest nodeyoucanreach followingonlyrightbranches BSTMinim

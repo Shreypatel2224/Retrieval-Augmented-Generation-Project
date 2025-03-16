@@ -1,0 +1,1 @@
+makes multiple reads read older data previously reading newer data Consistent Prefix Reads Reading data order occur different partitions replicate data different rates global write consistency

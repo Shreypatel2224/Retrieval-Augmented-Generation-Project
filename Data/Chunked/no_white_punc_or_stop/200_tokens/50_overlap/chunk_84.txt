@@ -1,0 +1,1 @@
+two secondlevel nodes 50 children containing 50 records one million records 100 secondlevel nodes 100 full children tree height four must least 250000 records 100 million records Thus would require

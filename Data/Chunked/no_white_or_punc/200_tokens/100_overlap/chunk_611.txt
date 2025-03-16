@@ -1,0 +1,1 @@
+of the nodes from those incoming relationships Neo4j  A Graph Database System that supports both transactional and analytical processing of graphbased data  Relatively new class of NoSQL DBs

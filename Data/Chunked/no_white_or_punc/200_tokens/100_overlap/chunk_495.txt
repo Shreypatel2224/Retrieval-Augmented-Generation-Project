@@ -1,0 +1,1 @@
+relational database requires deconstructing it  The structure of a document is selfdescribing  They are wellaligned with apps that use JSONXML as a transport layer MongoDB  Started in 2007 after

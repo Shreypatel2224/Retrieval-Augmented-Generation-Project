@@ -1,0 +1,1 @@
+are both to the left perform an LL rotation rooted where the imbalance is If the two links are both to the right perform an RR rotation rooted where the imbalance is If the first link is to the left

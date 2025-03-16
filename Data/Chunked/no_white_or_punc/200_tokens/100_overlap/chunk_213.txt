@@ -1,0 +1,1 @@
+geographical areas eg useast1 uswest1  Availability Zones AZs Isolated data centers within a region  Edge Locations Locations for CDN Content Delivery Network and caching services bringing content

@@ -1,0 +1,1 @@
+allthenodes inagraph Traversal strategies canbe speci ed bytheordering ofthethreeobjects tovisitthecurrent nodetheleftsubtree andtherightsubtree Weassume thetheleft subtree alwayscomes beforetheright

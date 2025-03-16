@@ -1,0 +1,1 @@
+Object Notation is a lightweight datainterchange format  It is easy for humans to read and write  It is easy for machines to parse and generate  JSON is built on two structures  A collection of

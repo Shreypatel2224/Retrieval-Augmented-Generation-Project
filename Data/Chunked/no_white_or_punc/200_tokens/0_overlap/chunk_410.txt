@@ -1,0 +1,1 @@
+imbalance brought on by inserting a key In this case wed perform an LR rotation — the first two links leading from 40 down toward 35 are a Left and a Right — rooted at 40 which would correct the

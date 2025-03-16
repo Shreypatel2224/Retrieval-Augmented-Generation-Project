@@ -1,0 +1,1 @@
+Method 1 Modifiable data client’s perspective always read leader Method 2 Dynamically switch reading leader “recently updated” data example policy requests within one minute last update come leader

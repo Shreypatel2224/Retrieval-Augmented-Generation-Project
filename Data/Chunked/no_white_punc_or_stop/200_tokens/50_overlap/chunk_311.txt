@@ -1,0 +1,1 @@
+Enables binary search faster retrieval Slow inserts like inserting sorted array Use linked list tuples specialVal rowNumber sorted specialVal Fast inserts Slow searching requires linear scan Binary

@@ -1,0 +1,1 @@
+have a subset of the data Replication Common Strategies for Replication  Single leader model  Multiple leader model  Leaderless model  Distributed databases usually adopt one of these strategies

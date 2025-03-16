@@ -1,0 +1,1 @@
+four Search in a Btree is a generalization of search in a 23 tree It is an alternating twostep process beginning with the root node of the B tree 1 Perform a binary search on the records in the

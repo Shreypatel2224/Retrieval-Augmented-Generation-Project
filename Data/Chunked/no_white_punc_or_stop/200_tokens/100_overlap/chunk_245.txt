@@ -1,0 +1,1 @@
+systems support one models Network partitioning inevitable Network failures system failures Overall system needs Partition Tolerant system keep running even network partition CAP Theorem CAP Theorem

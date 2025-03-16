@@ -1,0 +1,1 @@
+a record with a given key Perhaps some sort of treelike structure could be used to locate the appropriate chunk These ideas are exactly what motivate the tree The tree is essentially a mechanism for

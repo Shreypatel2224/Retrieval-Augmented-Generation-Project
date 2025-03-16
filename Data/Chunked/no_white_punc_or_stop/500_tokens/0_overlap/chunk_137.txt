@@ -1,0 +1,1 @@
+logarithmic ultimately see height AVL tree n nodes Θlog n reality turns bound lower 2 log2n something akin 144 log2n even AVL trees minimum number nodes though proof involved doesnt change asymptotic result31425 439 PM ICS 46 Spring 2022 Notes Examples AVL Trees httpsicsucieduthorntonics46NotesAVLTrees 77

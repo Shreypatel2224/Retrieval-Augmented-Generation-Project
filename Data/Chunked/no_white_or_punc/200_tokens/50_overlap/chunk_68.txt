@@ -1,0 +1,1 @@
+else  return null   else return findhelpBPInternalKeyErtpointerscurrec k   tree insertion is similar to Btree insertion First the leaf that should contain the record is found If is not full then the

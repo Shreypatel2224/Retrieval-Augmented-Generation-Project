@@ -1,0 +1,1 @@
+global clock Distributed Storage  Distributed Data Stores  Data is stored on more than one node typically replicated  Each block of data is available on N nodes  Distributed databases can be

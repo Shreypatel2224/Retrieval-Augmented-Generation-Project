@@ -1,0 +1,1 @@
+timestamp and version number columns to every table Read them when changing then check at the end of the transaction to see if any other transaction has caused them to be modified Optimistic

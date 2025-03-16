@@ -1,0 +1,1 @@
+perfect binary tree case wed know height tree would always Θlog n commensurate effect performance However consider goal problem emerges almost immediately following perfect binary trees definition

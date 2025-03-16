@@ -1,0 +1,1 @@
+Person nodes director direct 1 movie Importing Directors Merged MATCH pPerson DELETE p LOAD CSV HEADERS filenetflixtitlescsv line splitlinedirector directorslist UNWIND directorslist directorname

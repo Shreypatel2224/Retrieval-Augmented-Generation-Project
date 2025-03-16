@@ -1,0 +1,1 @@
+number followers increases Asynchronous replication Maintains availability cost delayed eventual consistency delay called inconsistency window ReadafterWrite Consistency Scenario You’re adding

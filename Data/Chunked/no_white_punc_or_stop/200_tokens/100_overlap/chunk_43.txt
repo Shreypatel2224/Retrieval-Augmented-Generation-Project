@@ -1,0 +1,1 @@
+mechanism managing sorted arraybased list list broken chunks significant difference tree BST standard Btree tree stores records leaf nodes Internal nodes store key values used solely placeholders

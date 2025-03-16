@@ -1,0 +1,1 @@
+network Maintain power availability HVAC physical networking equipment Manage virtualization layer host OSs Maintain managed services eg patching server software Client Responsibilities Security

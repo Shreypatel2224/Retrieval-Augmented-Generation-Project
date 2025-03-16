@@ -1,0 +1,1 @@
+relationships Neo4j  A Graph Database System that supports both transactional and analytical processing of graphbased data  Relatively new class of NoSQL DBs  Considered schema optional one can be imposed  Supports various types of indexing  ACID compliant  Supports distributed computing  Similar systems Microsoft CosmoDB Amazon Neptune

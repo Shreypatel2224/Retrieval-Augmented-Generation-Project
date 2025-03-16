@@ -1,0 +1,1 @@
+Relieves you from managing servers focus only on the code  Pay only for execution time not for idle compute time unlike EC2 Lambda Features  Eventdriven execution Can be triggered by many different

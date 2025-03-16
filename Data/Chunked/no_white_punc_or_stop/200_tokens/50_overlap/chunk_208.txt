@@ -1,0 +1,1 @@
+greater respectively lessthan k Theideafor nding thesuccesso rofagiven nodex Ifxhastherightchildthenthesuccesso r istheminimum intherightsubtree ofx Otherwise thesuccesso ristheparentof thefarthest

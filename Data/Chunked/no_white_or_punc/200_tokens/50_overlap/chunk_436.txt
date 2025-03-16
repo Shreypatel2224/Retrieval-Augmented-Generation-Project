@@ -1,0 +1,1 @@
+binary search tree and add keys to it in order how long does it take to do it The first key you add will go directly to the root You could think of this as taking a single step creating the node The

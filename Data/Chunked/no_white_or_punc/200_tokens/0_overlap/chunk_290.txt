@@ -1,0 +1,1 @@
+Time Complexity  Best case O1 target is found at the first element  Worst case On target is not in the array Key Concepts Records and Collections  Record A collection of values for attributes of a

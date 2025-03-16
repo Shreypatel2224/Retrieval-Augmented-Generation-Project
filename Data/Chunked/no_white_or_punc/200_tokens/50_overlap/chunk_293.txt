@@ -1,0 +1,1 @@
+users in different parts of the world you want to give them fast performance too Distributed Data  Challenges  Consistency Updates must be propagated across the network  Application Complexity

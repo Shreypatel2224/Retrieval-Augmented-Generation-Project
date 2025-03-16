@@ -1,0 +1,1 @@
+PaaS Platform as a Service  Removes the need to manage infrastructure allowing direct deployment of applications  SaaS Software as a Service  Provides full software applications run and managed by

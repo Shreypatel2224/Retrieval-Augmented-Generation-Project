@@ -1,0 +1,1 @@
+EC2 Lambda Amazon S3 Amazon RDS DynamoDB AWS Glue Amazon Athena Amazon EMR Amazon Redshift AWS Free Tier Allows handson experience subset services 12 months service limitations apply Examples Amazon

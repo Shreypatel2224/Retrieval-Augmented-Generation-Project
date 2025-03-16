@@ -1,0 +1,1 @@
+thecurrent nodetherightsubtree 2PreorderTheordering isthecurrent nodetheleftsubtree therightsubtree 3PostorderTheordering istheleft subtree therightsubtree thecurrent node 3InorderTraversal Pseudo

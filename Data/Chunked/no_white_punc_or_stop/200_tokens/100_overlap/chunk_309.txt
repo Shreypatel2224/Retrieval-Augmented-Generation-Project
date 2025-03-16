@@ -1,0 +1,1 @@
+x 7while rightpxxdoy px 8ifpx6nilthenreturn px 9elsereturn SUCCESSOR g 15Thepredecesso rcanbefound similarlywith therolesofleftandrightexchanged andwith therolesofmaximum andminimum exchanged

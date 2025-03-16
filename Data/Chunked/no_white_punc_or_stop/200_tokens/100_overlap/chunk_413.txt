@@ -1,0 +1,1 @@
+Mongo Shell find like SELECT collectionfind filters projections PyMongo PyMongo Python library interfacing MongoDB instances Connecting MongoDB python pymongo import MongoClient client

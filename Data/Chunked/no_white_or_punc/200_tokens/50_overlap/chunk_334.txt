@@ -1,0 +1,1 @@
+address the impedance mismatch problem between object persistence in OO systems and how relational DBs structure data  OO Programming → Inheritance and Composition of types Saving a complex object to

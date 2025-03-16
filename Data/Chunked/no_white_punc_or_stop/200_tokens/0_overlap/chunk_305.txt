@@ -1,0 +1,1 @@
+maintain appropriate positions relative keys B keys T1 smaller keys T2 larger smaller B keys T3 larger B Performing rotation would simple matter adjusting pointers — notably constant number pointers

@@ -1,0 +1,1 @@
+Graph Theory What is a Graph  Labeled Property Graph  Composed of a set of node vertex objects and relationship edge objects  Labels are used to mark a node as part of a group  Properties are
