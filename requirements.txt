@@ -1,3 +1,27 @@
-PyPDF2==3.0.1
-nltk==3.8.1
+# Core libraries
+numpy
+pandas
+tqdm
+python-dotenv
+
+# Text processing
+nltk
+spacy
+langchain
+unstructured
 python-docx==0.8.11
+
+# Embedding models
+sentence-transformers
+transformers
+
+# Vector databases
+chromadb
+redis
+weaviate-client
+
+# Local LLMs
+ollama
+
+PyPDF2
+pdfplumber
