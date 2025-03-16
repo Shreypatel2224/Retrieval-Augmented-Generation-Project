@@ -1,3 +1,9 @@
+# Ignore all .npy files
+*.npy
+
+# Ignore embeddings output directory to be mindful of space
+Data/Embeddings/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
