@@ -1,0 +1,111 @@
+Redis example: data source would be stored on aws S3, transformations would run on apache spark, interface store on redis and training store on s3
+
+Graph database: degree is number of connections, closeness is which node can most easily reach all other nodes in a graph or subgraph, betweenness is which node has most control over flow between nodes and groups, pagerank is which node is the most important and can be based on number and weighting of in-links
+
+Pymongo:
+
+Aggregation uses pipelines in pymongo. A pipeline is a sequence of stages through which documents proceed, and some of the different stages that can be used are match, project, sort, limit, unwind, group, and lookup. 
+
+Match: c = mflixdb.movies.aggregate([
+    {"$match": {"year": {"$lte": 1920}}},
+])
+
+Match and project: c = mflixdb.movies.aggregate([
+    {"$match": {"year": {"$lte": 1920}}},
+    {"$project": {"_id":0, "title": 1, "cast": 1}},
+])
+
+Match and project and limit and sort: c = mflixdb.movies.aggregate([
+    {"$match": {"year": {"$lte": 1920}}},
+    {"$sort": {"title": 1}},
+    {"$limit": 5},
+    {"$project": {"_id":0, "title": 1, "cast": 1}},
+])
+
+Unwind: c = mflixdb.movies.aggregate([
+    {"$match": {"year": {"$lte": 1920}}},
+    {"$sort": {"imdb.rating": -1}},
+    {"$limit": 5},
+    {"$unwind": "$cast"},
+    {"$project": {"_id":0, "title": 1, "cast": 1, "rating": "$imdb.rating"}},
+])
+
+Grouping: # What is the average IMDB rating of all movies by year? sort the data by year.
+
+c = mflixdb.movies.aggregate([
+    {"$group": {"_id": {"release year": "$year"}, "Avg Rating": {"$avg": "$imdb.rating"}}},
+    {"$sort" : {"_id": 1}}
+    
+])
+
+# What is the average IMDB rating of all movies by year? sort the data by avg rating in decreasing order.
+
+c = mflixdb.movies.aggregate([
+    {"$group": {"_id": {"release year": "$year"}, "Avg Rating": {"$avg": "$imdb.rating"}}},
+    {"$sort" : {"Avg Rating": -1, "_id": 1}}
+    
+])
+
+Lookup: data = demodb.customers.aggregate([
+    {
+        "$lookup": {
+            "from": "orders",
+            "localField": "custid",
+            "foreignField": "custid",
+            "as": "orders"
+        }
+    },
+    {"$project": {"_id": 0, "address": 0}}
+])
+
+Reformatting queries: match = {"$match": {"year": {"$lte": 1920}}}
+limit = {"$limit": 5}
+project = {"$project": {"_id":0, "title": 1, "cast": 1, "rating": "$imdb.rating"}}
+
+agg = mflixdb.movies.aggregate([match, limit, project])
+print(dumps(agg, indent=2))
+
+# The key (_id) attribute is automatically returned unless you explicitly say to remove it. 
+
+# SELECT name, rating FROM customers
+data = demodb.customers.find({}, {"name":1, "rating":1})
+print(dumps(data, indent=2))
+
+# Now without the _id field. 
+
+# SELECT name, rating FROM customers
+data = demodb.customers.find({}, {"name":1, "rating":1, "_id":0})
+print(dumps(data, indent=2))
+
+# For every customer, return all fields except _id and address.
+
+data = demodb.customers.find({}, {"_id": 0, "address": 0})
+print(dumps(data, indent=2))
+
+# SELECT name, rating FROM customers WHERE name LIKE 'T%'
+
+# Regular Expression Explanation:
+  # ^ - match beginning of line
+  # T - match literal character T (at the beginning of the line in this case)
+  # . - match any single character except newline
+  # * - match zero or more occurrences of the previous character (the . in this case)
+
+data = demodb.customers.find({"name": {"$regex": "^T.*"}}, {"_id": 0, "name": 1, "rating":1})
+print(dumps(data, indent=2))
+
+# SELECT name, rating FROM customers ORDER BY rating LIMIT 2
+
+data = demodb.customers.find( { }, {"_id": 0, "name": 1, "rating":1} ).sort("rating").limit(2)
+print(dumps(data, indent=2))
+
+# Same as above, but sorting in DESC order
+
+# SELECT name, rating FROM customers ORDER BY rating DESC LIMIT 2
+
+data = demodb.customers.find( { }, {"_id": 0, "name": 1, "rating":1} ).sort("rating", -1).limit(2)
+print(dumps(data, indent=2))
+
+# Providing 2 sort keys... 
+
+data = demodb.customers.find( { }, {"_id": 0, "name": 1, "rating":1} ).sort({"rating": -1, "name": 1}).limit(2)
+print(dumps(data, indent=2))
