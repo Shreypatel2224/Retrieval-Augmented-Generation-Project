@@ -3,8 +3,10 @@ import numpy as np
 import redis
 from redis.commands.search.query import Query
 from redis.commands.search.field import VectorField, TextField
-from sentence_transformers import SentenceTransformer  # For embedding queries
-import ollama  # Import ollama module
+from sentence_transformers import SentenceTransformer
+import ollama
+import time
+import psutil
 
 # Initialize Redis connection
 redis_client = redis.Redis(host="localhost", port=6379, db=0)
@@ -15,8 +17,47 @@ INDEX_NAME = "embedding_index"
 DOC_PREFIX = "doc:"
 DISTANCE_METRIC = "COSINE"
 
-# Initialize the SentenceTransformer model for query embeddings
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+# Initialize multiple embedding models
+embedding_models = {
+    "all-MiniLM-L6-v2": SentenceTransformer("all-MiniLM-L6-v2"),
+    "all-mpnet-base-v2": SentenceTransformer("all-mpnet-base-v2"),
+    "paraphrase-MiniLM-L6-v2": SentenceTransformer("paraphrase-MiniLM-L6-v2"),
+}
+
+# Function to measure memory usage
+def get_memory_usage():
+    """
+    Get the current memory usage in MB.
+    """
+    process = psutil.Process(os.getpid())
+    return process.memory_info().rss / (1024 * 1024)  # Convert to MB
+
+# Function to measure time and memory for a function
+def measure_performance(func, *args, **kwargs):
+    """
+    Measure the time and memory usage of a function.
+
+    Args:
+        func: The function to measure.
+        *args: Positional arguments for the function.
+        **kwargs: Keyword arguments for the function.
+
+    Returns:
+        dict: A dictionary containing the result, time taken (seconds), and memory usage (MB).
+    """
+    start_time = time.time()
+    start_memory = get_memory_usage()
+
+    result = func(*args, **kwargs)
+
+    end_time = time.time()
+    end_memory = get_memory_usage()
+
+    return {
+        "result": result,
+        "time_seconds": end_time - start_time,
+        "memory_mb": end_memory - start_memory,
+    }
 
 # Clear Redis store
 def clear_redis_store():
@@ -78,21 +119,24 @@ def store_embeddings(embeddings, metadata):
     print(f"Stored {len(embeddings)} embeddings in Redis.")
 
 # Get embedding for a given text using SentenceTransformers
-def get_embedding(text: str) -> list:
+def get_embedding(text: str, model_name: str = "all-MiniLM-L6-v2") -> list:
     """
-    Generate an embedding for the given text using SentenceTransformers.
+    Generate an embedding for the given text using the specified SentenceTransformer model.
 
     Args:
         text (str): The input text to embed.
+        model_name (str): The name of the embedding model to use.
 
     Returns:
         list: The embedding vector.
     """
-    return embedding_model.encode(text).tolist()
+    if model_name not in embedding_models:
+        raise ValueError(f"Model {model_name} not found. Available models: {list(embedding_models.keys())}")
+    return embedding_models[model_name].encode(text).tolist()
 
 # Search embeddings in Redis
-def search_embeddings(query, top_k=3):
-    query_embedding = get_embedding(query)
+def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
+    query_embedding = get_embedding(query, model_name=model_name)
     query_vector = np.array(query_embedding, dtype=np.float32).tobytes()
 
     q = (
@@ -153,7 +197,14 @@ def interactive_search():
         if query.lower() == "exit":
             break
 
-        context_results = search_embeddings(query)
+        # Measure performance of search_embeddings
+        # Change this line according to different models to compare performance
+        metrics = measure_performance(search_embeddings, query, model_name="paraphrase-MiniLM-L6-v2")
+        context_results = metrics["result"]
+
+        print(f"Time taken for search: {metrics['time_seconds']:.2f} seconds")
+        print(f"Memory used for search: {metrics['memory_mb']:.2f} MB")
+
         response = generate_rag_response(query, context_results)
 
         print("\n--- Response ---")
@@ -174,5 +225,5 @@ def main(embedding_folder):
     interactive_search()
 
 if __name__ == "__main__":
-    embedding_folder = "Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-MiniLM-L6-v2"  # Replace with your folder path
+    embedding_folder = "Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-MiniLM-L6-v2"  # Replace with folder path to compare with
     main(embedding_folder)
