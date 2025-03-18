@@ -7,6 +7,7 @@ from sentence_transformers import SentenceTransformer
 import ollama
 import time
 import psutil
+import csv
 
 # Initialize Redis connection
 redis_client = redis.Redis(host="localhost", port=6379, db=0)
@@ -186,8 +187,31 @@ Answer:"""
 
     return response["message"]["content"]
 
+# Log performance metrics to a CSV file
+def log_performance_to_csv(embedding_folder, database, llm, model_name, query, time_seconds, memory_mb):
+    """
+    Log performance metrics to a CSV file.
+
+    Args:
+        embedding_folder (str): The folder containing the embeddings.
+        database (str): The database used (e.g., "Redis").
+        llm (str): The LLM used (e.g., "Mistral").
+        model_name (str): The embedding model used.
+        query (str): The user's query.
+        time_seconds (float): Time taken for the query.
+        memory_mb (float): Memory used for the query.
+    """
+    csv_file = "performance_metrics.csv"
+    file_exists = os.path.isfile(csv_file)
+
+    with open(csv_file, mode="a", newline="") as file:
+        writer = csv.writer(file)
+        if not file_exists:
+            writer.writerow(["Embedding Folder", "Database", "LLM", "Embedding Model", "Query", "Time (seconds)", "Memory (MB)"])
+        writer.writerow([embedding_folder, database, llm, model_name, query, time_seconds, memory_mb])
+
 # Interactive search interface
-def interactive_search():
+def interactive_search(embedding_folder):
     print("🔍 RAG Search Interface")
     print("Type 'exit' to quit")
 
@@ -197,16 +221,25 @@ def interactive_search():
         if query.lower() == "exit":
             break
 
+        # Prompt user to select an embedding model
+        print("Available embedding models:")
+        for i, model_name in enumerate(embedding_models.keys()):
+            print(f"{i + 1}. {model_name}")
+        model_choice = int(input("Select an embedding model (1, 2, or 3): ")) - 1
+        model_name = list(embedding_models.keys())[model_choice]
+
         # Measure performance of search_embeddings
-        # Change this line according to different models to compare performance
-        metrics = measure_performance(search_embeddings, query, model_name="paraphrase-MiniLM-L6-v2")
+        metrics = measure_performance(search_embeddings, query, model_name=model_name)
         context_results = metrics["result"]
 
         print(f"Time taken for search: {metrics['time_seconds']:.2f} seconds")
         print(f"Memory used for search: {metrics['memory_mb']:.2f} MB")
 
-        response = generate_rag_response(query, context_results)
+        # Log performance metrics to CSV
+        log_performance_to_csv(embedding_folder, "Redis", "Mistral", model_name, query, metrics["time_seconds"], metrics["memory_mb"])
 
+        # Generate and display response
+        response = generate_rag_response(query, context_results)
         print("\n--- Response ---")
         print(response)
 
@@ -222,7 +255,7 @@ def main(embedding_folder):
     store_embeddings(embeddings, metadata)
 
     # Start interactive search
-    interactive_search()
+    interactive_search(embedding_folder)
 
 if __name__ == "__main__":
     embedding_folder = "Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-MiniLM-L6-v2"  # Replace with folder path to compare with
