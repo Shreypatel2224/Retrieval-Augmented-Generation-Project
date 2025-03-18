@@ -188,7 +188,7 @@ Answer:"""
     return response["message"]["content"]
 
 # Log performance metrics to a CSV file
-def log_performance_to_csv(embedding_folder, database, llm, model_name, query, time_seconds, memory_mb):
+def log_performance_to_csv(embedding_folder, database, llm, model_name, query, search_time, response_time, memory_mb):
     """
     Log performance metrics to a CSV file.
 
@@ -198,7 +198,8 @@ def log_performance_to_csv(embedding_folder, database, llm, model_name, query, t
         llm (str): The LLM used (e.g., "Mistral").
         model_name (str): The embedding model used.
         query (str): The user's query.
-        time_seconds (float): Time taken for the query.
+        search_time (float): Time taken for the search query.
+        response_time (float): Time taken for the response generation.
         memory_mb (float): Memory used for the query.
     """
     csv_file = "performance_metrics.csv"
@@ -207,8 +208,8 @@ def log_performance_to_csv(embedding_folder, database, llm, model_name, query, t
     with open(csv_file, mode="a", newline="") as file:
         writer = csv.writer(file)
         if not file_exists:
-            writer.writerow(["Embedding Folder", "Database", "LLM", "Embedding Model", "Query", "Time (seconds)", "Memory (MB)"])
-        writer.writerow([embedding_folder, database, llm, model_name, query, time_seconds, memory_mb])
+            writer.writerow(["Embedding Folder", "Database", "LLM", "Embedding Model", "Query", "Search Time (seconds)", "Response Time (seconds)", "Memory (MB)"])
+        writer.writerow([embedding_folder, database, llm, model_name, query, search_time, response_time, memory_mb])
 
 # Interactive search interface
 def interactive_search(embedding_folder):
@@ -229,17 +230,23 @@ def interactive_search(embedding_folder):
         model_name = list(embedding_models.keys())[model_choice]
 
         # Measure performance of search_embeddings
-        metrics = measure_performance(search_embeddings, query, model_name=model_name)
-        context_results = metrics["result"]
+        search_metrics = measure_performance(search_embeddings, query, model_name=model_name)
+        context_results = search_metrics["result"]
 
-        print(f"Time taken for search: {metrics['time_seconds']:.2f} seconds")
-        print(f"Memory used for search: {metrics['memory_mb']:.2f} MB")
+        print(f"Time taken for search: {search_metrics['time_seconds']:.2f} seconds")
+        print(f"Memory used for search: {search_metrics['memory_mb']:.2f} MB")
+
+        # Measure performance of generate_rag_response
+        response_metrics = measure_performance(generate_rag_response, query, context_results)
+        response = response_metrics["result"]
+
+        print(f"Time taken for response generation: {response_metrics['time_seconds']:.2f} seconds")
+        print(f"Memory used for response generation: {response_metrics['memory_mb']:.2f} MB")
 
         # Log performance metrics to CSV
-        log_performance_to_csv(embedding_folder, "Redis", "Mistral", model_name, query, metrics["time_seconds"], metrics["memory_mb"])
+        log_performance_to_csv(embedding_folder, "Redis", "Mistral", model_name, query, search_metrics['time_seconds'], response_metrics['time_seconds'], search_metrics['memory_mb'])
 
         # Generate and display response
-        response = generate_rag_response(query, context_results)
         print("\n--- Response ---")
         print(response)
 
@@ -258,5 +265,5 @@ def main(embedding_folder):
     interactive_search(embedding_folder)
 
 if __name__ == "__main__":
-    embedding_folder = "Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-MiniLM-L6-v2"  # Replace with folder path to compare with
+    embedding_folder = "Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2"  # Replace with folder path to compare with
     main(embedding_folder)
