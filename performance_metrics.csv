@@ -1,0 +1,11 @@
+Embedding Folder,Database,LLM,Embedding Model,Query,Search Time (seconds),Response Time (seconds),Memory (MB),Response
+Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2,Redis,Mistral,all-mpnet-base-v2,what is vector database?,0.9094586372375488,78.79137802124023,329.4609375," I don't have specific information about a ""vector database"" in the provided context. A vector database generally refers to a database management system that stores and manages high-dimensional numerical vectors, often used in machine learning applications such as deep learning models. However, this is a general definition, and the specifics might vary based on the actual context or the particular vector database being discussed."
+Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2,Redis,Llama 2 7B,all-mpnet-base-v2,what is a graph database?,0.6447560787200928,75.78780770301819,329.77734375,"Based on the context provided, I can answer your query as follows:
+
+A graph database is a type of database that stores data in the form of nodes and edges, which are connected to each other in a graph structure. In contrast to traditional relational databases, which store data in tables with fixed schemas, graph databases are designed to handle complex, interconnected data structures.
+
+Graph databases are particularly useful for storing and querying large amounts of data that involve relationships between entities, such as social networks, recommendation systems, and knowledge graphs. They can efficiently handle queries that involve traversing the graph structure, such as finding shortest paths between nodes or identifying clusters of highly connected nodes.
+
+Some popular graph databases include Neo4j, Amazon Neptune, and OrientDB. These databases provide query languages and APIs for interacting with the graph data model, allowing developers to build applications that can take advantage of the unique features of graph databases.
+
+In summary, a graph database is a type of NoSQL database that stores data as a graph structure, enabling efficient querying and manipulation of complex relationships between data entities."

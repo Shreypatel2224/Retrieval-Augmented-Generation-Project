@@ -160,7 +160,7 @@ def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
 
     return top_results
 
-# Generate RAG response using mistral
+# Generate RAG response using Llama 2 7B
 def generate_rag_response(query, context_results):
     context_str = "\n".join(
         [
@@ -181,8 +181,9 @@ Query: {query}
 
 Answer:"""
 
+    # Use Llama 2 7B instead of Mistral
     response = ollama.chat(
-        model="mistral:latest", messages=[{"role": "user", "content": prompt}]
+        model="llama2:7b", messages=[{"role": "user", "content": prompt}]
     )
 
     return response["message"]["content"]
@@ -195,7 +196,7 @@ def log_performance_to_csv(embedding_folder, database, llm, model_name, query, s
     Args:
         embedding_folder (str): The folder containing the embeddings.
         database (str): The database used (e.g., "Redis").
-        llm (str): The LLM used (e.g., "Mistral").
+        llm (str): The LLM used (e.g., "Llama 2 7B").
         model_name (str): The embedding model used.
         query (str): The user's query.
         search_time (float): Time taken for the search query.
@@ -252,7 +253,7 @@ def interactive_search(embedding_folder):
 
         # Log performance metrics to CSV, including the response
         log_performance_to_csv(
-            embedding_folder, "Redis", "Mistral", model_name, query, 
+            embedding_folder, "Redis", "Llama 2 7B", model_name, query, 
             search_metrics['time_seconds'], response_metrics['time_seconds'], 
             search_metrics['memory_mb'], response
         )
