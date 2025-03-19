@@ -9,3 +9,19 @@ Graph databases are particularly useful for storing and querying large amounts o
 Some popular graph databases include Neo4j, Amazon Neptune, and OrientDB. These databases provide query languages and APIs for interacting with the graph data model, allowing developers to build applications that can take advantage of the unique features of graph databases.
 
 In summary, a graph database is a type of NoSQL database that stores data as a graph structure, enabling efficient querying and manipulation of complex relationships between data entities."
+Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2,Redis,Llama 2 7B,all-mpnet-base-v2,what is nosql?,0.9567482471466064,74.51883792877197,329.53125,"I'm glad you asked! Based on the context you provided, I can tell that ""nosql"" refers to a type of database management system (DBMS).
+
+From the page embeddings, we can see that the similarity between chunks 248, 416, and 378 is relatively high, indicating that these chunks contain similar information. Therefore, I can infer that ""nosql"" is a term that is likely used to describe a particular type of database management system that is distinct from traditional relational databases.
+
+Using the similarity between the chunks as a guide, I would venture to say that ""nosql"" probably refers to a non-relational database management system, which is designed to handle large amounts of unstructured or semi-structured data. NoSQL databases are known for their flexibility and scalability, making them well-suited for handling big data workloads.
+
+Please let me know if you have any further questions on this topic!"
+Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2,Chroma,Llama 2 7B,all-mpnet-base-v2,what is nosql?,0.23588299751281738,164.5367350578308,329.58984375,"Based on the context provided, I can answer your query as follows:
+
+Nosql refers to a database management system that does not use traditional structured SQL (Structured Query Language) for storing and retrieving data. Instead, nosql databases typically use a variety of other techniques, such as key-value pairs, document storage, or graph databases, to handle the storage and retrieval of large amounts of unstructured or semi-structured data.
+
+The term ""nosql"" was coined in the early 2000s as a response to the limitations of traditional relational database management systems (RDBMS) in handling the scalability and performance requirements of web applications. Nosql databases are designed to handle large volumes of data, provide high availability and fault tolerance, and support real-time data processing and analysis.
+
+Some popular nosql databases include MongoDB, Cassandra, Redis, and Riak. These databases are often used in big data and real-time web applications, such as social media platforms, e-commerce sites, and IoT (Internet of Things) systems.
+
+In summary, nosql is a type of database management system that does not use traditional SQL for storing and retrieving data, but instead uses alternative techniques to handle large amounts of unstructured or semi-structured data."
