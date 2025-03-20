@@ -12,10 +12,10 @@ import csv
 chroma_client = chromadb.HttpClient(host="localhost", port=8000)
 
 # Constants
-VECTOR_DIM = 768  # Dimension of your embeddings
+VECTOR_DIM = 768  
 COLLECTION_NAME = "embedding_collection"
 
-# Initialize multiple embedding models
+# Initialize embedding models
 embedding_models = {
     "all-MiniLM-L6-v2": SentenceTransformer("all-MiniLM-L6-v2"),
     "all-mpnet-base-v2": SentenceTransformer("all-mpnet-base-v2"),
@@ -78,28 +78,31 @@ def create_chroma_collection():
 # Load precomputed embeddings from a folder
 def load_embeddings_from_folder(embedding_folder):
     embeddings = []
-    metadata = []  # Store metadata (file, page, chunk) for each embedding
+    metadata = []  # Store metadata (model, embedding_id) for each embedding
+
     for file_name in os.listdir(embedding_folder):
-        if file_name.endswith(".npy"):  # Assuming embeddings are stored as .npy files
+        if file_name.endswith(".npy"):
             file_path = os.path.join(embedding_folder, file_name)
             embedding = np.load(file_path)
             embeddings.append(embedding)
 
-            # Extract metadata from the file name (customize this based on your file naming convention)
-            # Example: "file1_page2_chunk3.npy"
+            # Extract metadata from the file name
             parts = file_name.split("_")
-            file = parts[0]
-            page = parts[1].replace("page", "")
-            chunk = parts[2].replace("chunk", "").replace(".npy", "")
-            metadata.append({"file": file, "page": page, "chunk": chunk})
+            model_name = parts[0]  # e.g., "all-MiniLM-L6-v2"
+            embedding_id = parts[2].replace(".npy", "")  # e.g., "1", "2", etc.
+
+            metadata.append({
+                "model": model_name,  # Store the model name
+                "embedding_id": embedding_id,  # Store the embedding ID
+            })
 
     return embeddings, metadata
 
 # Store embeddings in Chroma
 def store_embeddings(embeddings, metadata):
     collection = chroma_client.get_collection(COLLECTION_NAME)
-    ids = [f"{meta['file']}_page_{meta['page']}_chunk_{meta['chunk']}" for meta in metadata]
-    documents = [f"File: {meta['file']}, Page: {meta['page']}, Chunk: {meta['chunk']}" for meta in metadata]
+    ids = [f"{meta['model']}_embedding_{meta['embedding_id']}" for meta in metadata]
+    documents = [f"Model: {meta['model']}, Embedding ID: {meta['embedding_id']}" for meta in metadata]
     collection.add(ids=ids, embeddings=embeddings, metadatas=metadata, documents=documents)
     print(f"Stored {len(embeddings)} embeddings in Chroma.")
 
@@ -121,21 +124,6 @@ def get_embedding(text: str, model_name: str = "all-MiniLM-L6-v2") -> list:
 
 # Search embeddings in Chroma
 def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
-    query_embedding = get_embedding(query, model_name=model_name)
-    collection = chroma_client.get_collection(COLLECTION_NAME)
-    results = collection.query(query_embeddings=[query_embedding], n_results=top_k)
-    top_results = [
-        {
-            "file": result["metadata"]["file"],
-            "page": result["metadata"]["page"],
-            "chunk": result["metadata"]["chunk"],
-            "similarity": result["score"],
-        }
-        for result in results["metadatas"]
-    ]
-    return top_results
-
-def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
     """
     Search for similar embeddings in Chroma.
 
@@ -155,9 +143,8 @@ def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
     top_results = []
     for i in range(len(results["ids"][0])):  # Iterate over the number of results
         top_results.append({
-            "file": results["metadatas"][0][i]["file"],
-            "page": results["metadatas"][0][i]["page"],
-            "chunk": results["metadatas"][0][i]["chunk"],
+            "model": results["metadatas"][0][i]["model"],
+            "embedding_id": results["metadatas"][0][i]["embedding_id"],
             "similarity": 1 - results["distances"][0][i],  # Convert distance to similarity
         })
 
@@ -167,7 +154,7 @@ def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
 def generate_rag_response(query, context_results):
     context_str = "\n".join(
         [
-            f"From {result.get('file', 'Unknown file')} (page {result.get('page', 'Unknown page')}, chunk {result.get('chunk', 'Unknown chunk')}) "
+            f"From model {result.get('model', 'Unknown model')}, embedding ID {result.get('embedding_id', 'Unknown ID')} "
             f"with similarity {float(result.get('similarity', 0)):.2f}"
             for result in context_results
         ]
