@@ -76,9 +76,8 @@ def create_hnsw_index():
     redis_client.execute_command(
         f"""
         FT.CREATE {INDEX_NAME} ON HASH PREFIX 1 {DOC_PREFIX}
-        SCHEMA file TEXT
-        page TEXT
-        chunk TEXT
+        SCHEMA model TEXT
+        embedding_id TEXT
         embedding VECTOR HNSW 6 DIM {VECTOR_DIM} TYPE FLOAT32 DISTANCE_METRIC {DISTANCE_METRIC}
         """
     )
@@ -87,33 +86,35 @@ def create_hnsw_index():
 # Load precomputed embeddings from a folder
 def load_embeddings_from_folder(embedding_folder):
     embeddings = []
-    metadata = []  # Store metadata (file, page, chunk) for each embedding
+    metadata = []  # Store metadata (model, embedding_id) for each embedding
+
     for file_name in os.listdir(embedding_folder):
-        if file_name.endswith(".npy"):  # Assuming embeddings are stored as .npy files
+        if file_name.endswith(".npy"):
             file_path = os.path.join(embedding_folder, file_name)
             embedding = np.load(file_path)
             embeddings.append(embedding)
 
-            # Extract metadata from the file name (customize this based on your file naming convention)
-            # Example: "file1_page2_chunk3.npy"
+            # Extract metadata from the file name
             parts = file_name.split("_")
-            file = parts[0]
-            page = parts[1].replace("page", "")
-            chunk = parts[2].replace("chunk", "").replace(".npy", "")
-            metadata.append({"file": file, "page": page, "chunk": chunk})
+            model_name = parts[0]  # e.g., "all-MiniLM-L6-v2"
+            embedding_id = parts[2].replace(".npy", "")  # e.g., "1", "2", etc.
+
+            metadata.append({
+                "model": model_name,  # Store the model name
+                "embedding_id": embedding_id,  # Store the embedding ID
+            })
 
     return embeddings, metadata
 
 # Store embeddings in Redis
 def store_embeddings(embeddings, metadata):
     for embedding, meta in zip(embeddings, metadata):
-        key = f"{DOC_PREFIX}:{meta['file']}_page_{meta['page']}_chunk_{meta['chunk']}"
+        key = f"{DOC_PREFIX}:{meta['model']}_embedding_{meta['embedding_id']}"
         redis_client.hset(
             key,
             mapping={
-                "file": meta["file"],
-                "page": meta["page"],
-                "chunk": meta["chunk"],
+                "model": meta["model"],
+                "embedding_id": meta["embedding_id"],
                 "embedding": np.array(embedding, dtype=np.float32).tobytes(),  # Store as byte array
             },
         )
@@ -143,16 +144,15 @@ def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
     q = (
         Query("*=>[KNN 5 @embedding $vec AS vector_distance]")
         .sort_by("vector_distance")
-        .return_fields("file", "page", "chunk", "vector_distance")
+        .return_fields("model", "embedding_id", "vector_distance")
         .dialect(2)
     )
 
     results = redis_client.ft(INDEX_NAME).search(q, query_params={"vec": query_vector})
     top_results = [
         {
-            "file": result.file,
-            "page": result.page,
-            "chunk": result.chunk,
+            "model": result.model,
+            "embedding_id": result.embedding_id,
             "similarity": result.vector_distance,
         }
         for result in results.docs
@@ -164,7 +164,7 @@ def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
 def generate_rag_response(query, context_results):
     context_str = "\n".join(
         [
-            f"From {result.get('file', 'Unknown file')} (page {result.get('page', 'Unknown page')}, chunk {result.get('chunk', 'Unknown chunk')}) "
+            f"From model {result.get('model', 'Unknown model')}, embedding ID {result.get('embedding_id', 'Unknown ID')} "
             f"with similarity {float(result.get('similarity', 0)):.2f}"
             for result in context_results
         ]
