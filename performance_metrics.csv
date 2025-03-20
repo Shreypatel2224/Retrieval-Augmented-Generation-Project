@@ -3,3 +3,11 @@ Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2,Chroma,L
 
 In the context of the embeddings you provided, the similarity between the embeddings suggests that they may be related to graph databases in some way. However, without more information, I cannot provide a definitive answer to your query. If you have any additional context or information about what you are trying to find out about graph databases, please let me know and I will do my best to assist you."
 Data/Embeddings/no_white_or_punc/200_tokens/0_overlap/all-mpnet-base-v2,Chroma,Mistral,all-mpnet-base-v2,what is a graph database?,0.7950716018676758,39.83755946159363,329.55859375," I don't know the exact context provided refers to graph databases. However, a graph database is a type of database that uses graph structures for storing, traversing, and querying data. It represents objects as nodes (vertices) and relationships between these objects as edges (links or lines). Graph databases are particularly useful when dealing with complex relationships between data points, such as in social networks, recommendation engines, and real-time analytics."
+Data/Embeddings/no_white_or_punc/500_tokens/50_overlap/all-mpnet-base-v2,Qdrant,Llama 2 7B,all-mpnet-base-v2,graph database,0.16387367248535156,57.98673224449158,329.21875,"I know! Based on the context you provided, the query ""graph database"" is relevant to the embeddings you mentioned. The similarity between the embeddings and the query can help determine the likelihood that the query is referring to a specific topic or concept that is represented in the embeddings.
+
+In this case, the embedding with the highest similarity to the query is embedding ID 107, which has a similarity of 0.70. This suggests that the query ""graph database"" is likely to be related to a concept that is represented in the embedding with the highest similarity.
+
+Therefore, my answer to the query is:
+
+Yes, the graph database is likely related to the concept represented in embedding ID 107, which has a similarity of 0.70."
+Data/Embeddings/no_white_or_punc/500_tokens/50_overlap/all-mpnet-base-v2,Qdrant,Mistral,all-mpnet-base-v2,graph database,0.8001880645751953,29.26808214187622,329.29296875, I don't know. The provided context does not seem to have any direct relation to the topic of graph databases.

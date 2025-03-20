@@ -57,15 +57,24 @@ def create_qdrant_collection():
 # Load precomputed embeddings from a folder
 def load_embeddings_from_folder(embedding_folder):
     embeddings = []
-    metadata = []
+    metadata = []  # Store metadata (model, embedding_id) for each embedding
+
     for file_name in os.listdir(embedding_folder):
         if file_name.endswith(".npy"):
             file_path = os.path.join(embedding_folder, file_name)
             embedding = np.load(file_path).tolist()
             embeddings.append(embedding)
+
+            # Extract metadata from the file name
             parts = file_name.split("_")
-            file, page, chunk = parts[0], parts[1].replace("page", ""), parts[2].replace("chunk", "").replace(".npy", "")
-            metadata.append({"file": file, "page": page, "chunk": chunk})
+            model_name = parts[0]  # e.g., "all-MiniLM-L6-v2"
+            embedding_id = parts[2].replace(".npy", "")  # e.g., "1", "2", etc.
+
+            metadata.append({
+                "model": model_name,  # Store the model name
+                "embedding_id": embedding_id,  # Store the embedding ID
+            })
+
     return embeddings, metadata
 
 # Store embeddings in Qdrant
@@ -92,18 +101,40 @@ def search_embeddings(query, model_name="all-MiniLM-L6-v2", top_k=3):
     query_embedding = get_embedding(query, model_name=model_name)
     results = qdrant_client.search(collection_name=COLLECTION_NAME, query_vector=query_embedding, limit=top_k)
     return [
-        {"file": r.payload["file"], "page": r.payload["page"], "chunk": r.payload["chunk"], "similarity": r.score}
+        {
+            "model": r.payload["model"],
+            "embedding_id": r.payload["embedding_id"],
+            "similarity": r.score,
+        }
         for r in results
     ]
 
-# Generate RAG response using Llama 2B
+# Generate RAG response using Llama 2 7B
 def generate_rag_response(query, context_results):
-    context_str = "\n".join([
-        f"From {r['file']} (page {r['page']}, chunk {r['chunk']}) with similarity {r['similarity']:.2f}"
-        for r in context_results
-    ])
-    prompt = f"""You are a helpful AI assistant.\nContext:\n{context_str}\nQuery: {query}\nAnswer:"""
-    response = ollama.chat(model="llama2:7b", messages=[{"role": "user", "content": prompt}])
+    context_str = "\n".join(
+        [
+            f"From model {result.get('model', 'Unknown model')}, embedding ID {result.get('embedding_id', 'Unknown ID')} "
+            f"with similarity {float(result.get('similarity', 0)):.2f}"
+            for result in context_results
+        ]
+    )
+
+    prompt = f"""You are a helpful AI assistant. 
+    Use the following context to answer the query as accurately as possible. If the context is 
+    not relevant to the query, say 'I don't know'.
+
+Context:
+{context_str}
+
+Query: {query}
+
+Answer:"""
+
+    # Use Llama 2 7B instead of Mistral
+    response = ollama.chat(
+        model="llama2:7b", messages=[{"role": "user", "content": prompt}]
+    )
+
     return response["message"]["content"]
 
 # Log performance metrics to a CSV file
