@@ -12,7 +12,7 @@ import csv
 qdrant_client = qdrant_client.QdrantClient(host="localhost", port=6333)
 
 # Constants
-VECTOR_DIM = 768  # Dimension of your embeddings
+VECTOR_DIM = 768  # Dimension of embeddings
 COLLECTION_NAME = "embedding_collection"
 
 # Initialize multiple embedding models
@@ -54,7 +54,7 @@ def create_qdrant_collection():
     )
     print("Collection created successfully.")
 
-# Load precomputed embeddings from a folder
+# Load precomputed embeddings from folder
 def load_embeddings_from_folder(embedding_folder):
     embeddings = []
     metadata = []  # Store metadata (model, embedding_id) for each embedding
@@ -65,10 +65,10 @@ def load_embeddings_from_folder(embedding_folder):
             embedding = np.load(file_path).tolist()
             embeddings.append(embedding)
 
-            # Extract metadata from the file name
+            # Extract metadata from file name
             parts = file_name.split("_")
-            model_name = parts[0]  # e.g., "all-MiniLM-L6-v2"
-            embedding_id = parts[2].replace(".npy", "")  # e.g., "1", "2", etc.
+            model_name = parts[0] 
+            embedding_id = parts[2].replace(".npy", "")  
 
             metadata.append({
                 "model": model_name,  # Store the model name

@@ -13,7 +13,7 @@ import csv
 redis_client = redis.Redis(host="localhost", port=6379, db=0)
 
 # Constants
-VECTOR_DIM = 768  # Dimension of your embeddings
+VECTOR_DIM = 768  
 INDEX_NAME = "embedding_index"
 DOC_PREFIX = "doc:"
 DISTANCE_METRIC = "COSINE"
@@ -83,7 +83,7 @@ def create_hnsw_index():
     )
     print("Index created successfully.")
 
-# Load precomputed embeddings from a folder
+# Load precomputed embeddings from folder
 def load_embeddings_from_folder(embedding_folder):
     embeddings = []
     metadata = []  # Store metadata (model, embedding_id) for each embedding
@@ -96,8 +96,8 @@ def load_embeddings_from_folder(embedding_folder):
 
             # Extract metadata from the file name
             parts = file_name.split("_")
-            model_name = parts[0]  # e.g., "all-MiniLM-L6-v2"
-            embedding_id = parts[2].replace(".npy", "")  # e.g., "1", "2", etc.
+            model_name = parts[0]  
+            embedding_id = parts[2].replace(".npy", "")  
 
             metadata.append({
                 "model": model_name,  # Store the model name
