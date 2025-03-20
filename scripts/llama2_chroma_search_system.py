@@ -75,7 +75,7 @@ def create_chroma_collection():
     print("Collection created successfully.")
     return collection
 
-# Load precomputed embeddings from a folder
+# Load precomputed embeddings from chosen folder
 def load_embeddings_from_folder(embedding_folder):
     embeddings = []
     metadata = []  # Store metadata (model, embedding_id) for each embedding
@@ -88,8 +88,8 @@ def load_embeddings_from_folder(embedding_folder):
 
             # Extract metadata from the file name
             parts = file_name.split("_")
-            model_name = parts[0]  # e.g., "all-MiniLM-L6-v2"
-            embedding_id = parts[2].replace(".npy", "")  # e.g., "1", "2", etc.
+            model_name = parts[0]  
+            embedding_id = parts[2].replace(".npy", "")  
 
             metadata.append({
                 "model": model_name,  # Store the model name
