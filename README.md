@@ -34,6 +34,20 @@ ollama pull llama2:7b
 
 ## Configuration
 
+### Generating Embeddings
+Since `.npy` embedding files are included in `.gitignore`, you must generate embeddings locally before running the system. Use the provided script:
+
+```bash
+python Retrieval-Augmented-Generation-Project/scripts/utils/generate_embeddings.py
+```
+
+This script will:
+- Read chunked text files from `Data/Chunked`
+- Generate embeddings using multiple models
+- Save them in `Data/Embeddings`
+
+Ensure your `Data/Chunked` directory contains the necessary text files before running the script.
+
 ### Embedding Folder Setup
 To change the embedding data source:
 
@@ -80,7 +94,7 @@ python scripts/[script_name].py
 ```
 Example:
 ```bash
-python scripts/scripts/mistral_chroma_search_system.py
+python scripts/mistral_chroma_search_system.py
 ```
 
 ## Interactive Interface Flow
