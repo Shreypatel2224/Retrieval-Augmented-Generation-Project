@@ -3,6 +3,7 @@ numpy
 pandas
 tqdm
 python-dotenv
+psutil
 
 # Text processing
 nltk
@@ -23,5 +24,6 @@ weaviate-client
 # Local LLMs
 ollama
 
+# PDF Processing
 PyPDF2
 pdfplumber
