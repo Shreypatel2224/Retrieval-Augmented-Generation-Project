@@ -80,7 +80,7 @@ python scripts/[script_name].py
 ```
 Example:
 ```bash
-python scripts/qdrant_llama2.py
+python scripts/scripts/mistral_chroma_search_system.py
 ```
 
 ## Interactive Interface Flow
