@@ -48,7 +48,7 @@ This script will:
 
 Ensure your `Data/Chunked` directory contains the necessary text files before running the script.
 
-### Embedding Folder Setup
+### Query Scripts: Usage and Embedding Folder Setup 
 To change the embedding data source:
 
 1. Open the desired query script in a text editor.
