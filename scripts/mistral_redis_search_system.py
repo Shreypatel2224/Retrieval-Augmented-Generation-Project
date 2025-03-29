@@ -277,5 +277,5 @@ def main(embedding_folder):
     interactive_search(embedding_folder)
 
 if __name__ == "__main__":
-    embedding_folder = "Data/Embeddings/no_white_or_punc/500_tokens/0_overlap/all-mpnet-base-v2"  # Replace with folder path to compare with
+    embedding_folder = "Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2"  # Replace with folder path to compare with
     main(embedding_folder)

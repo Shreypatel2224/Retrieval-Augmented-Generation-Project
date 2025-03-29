@@ -298,3 +298,93 @@ The AVL tree is commonly used in many applications, such as database indexing, f
 
 I hope this information helps! Let me know if you have any further questions."
 Data/Embeddings/no_white_or_punc/500_tokens/0_overlap/all-mpnet-base-v2,Chroma,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3707718849182129,21.932109117507935,43.171875," I don't know the specific connection between the given data and the question about an AVL tree. An AVL (Adelson-Velsky and Landis) tree is a self-balancing binary search tree, which means that the height of the tree is logarithmic to the number of elements in it, ensuring efficient searching and insertion operations. It achieves this balance by adjusting the heights of the tree after each insertion or deletion operation, maintaining a property where the differences between heights at any given node are within 1."
+Data/Embeddings/no_white_or_punc/1000_tokens/0_overlap/all-mpnet-base-v2,Chroma,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.3866400718688965,36.39459204673767,45.296875,"I'm happy to help! An AVL tree is a type of self-balancing binary search tree. It's a data structure that keeps data organized and allows for efficient searching, insertion, and deletion of nodes. The AVL tree is named after its creators, Adelson-Velskii and Landis, who developed it in the 1960s.
+
+The key feature of an AVL tree is that it maintains a balance between the height of the tree and the number of nodes it contains. This balance is achieved through a technique called rebalancing, which occurs whenever a node is inserted or deleted from the tree. By keeping the tree balanced, AVL trees can ensure that the search time for any given node remains relatively constant, regardless of the size of the tree.
+
+AVL trees support basic operations such as insertion, deletion, and searching for a specific value. They are commonly used in many applications, including databases, file systems, and web search engines.
+
+I hope this helps! Let me know if you have any other questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/0_overlap/all-mpnet-base-v2,Qdrant,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.37317991256713867,41.34281325340271,49.203125,"I'm happy to help! An AVL tree is a type of self-balancing binary search tree that keeps data organized and easily accessible. It was invented by Adelson-Velskii and Landis in 1965. The AVL tree is named after its creators, and it is also known as the Adelson-Velskii and Landis tree.
+
+The AVL tree is designed to maintain a balance between the height of the tree and the number of nodes it contains. This balance is achieved by using a rotation mechanism that moves nodes around the tree to keep the height of the tree relatively small, while still allowing efficient search, insertion, and deletion operations.
+
+In an AVL tree, each node has a unique key, and the keys are stored in a sorted order. The tree is organized into a series of layers, with each layer containing a root node and two child nodes. Each child node can have up to two child nodes of its own, creating a hierarchical structure.
+
+The AVL tree supports several operations, including:
+
+* Insertion: adding a new key-value pair to the tree
+* Deletion: removing a key-value pair from the tree
+* Search: finding a specific key in the tree
+
+The AVL tree is particularly useful in situations where data needs to be stored and retrieved efficiently, such as in databases or file systems. It is also used in many other applications, including compilers, virtual machines, and web search engines.
+
+I hope this helps! Let me know if you have any further questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/0_overlap/all-mpnet-base-v2,Redis,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.32280421257019043,42.71668100357056,40.546875,"Based on the context provided, I can answer your query as follows:
+
+An AVL tree is a type of self-balancing binary search tree that keeps data organized in a way that allows for efficient searching, insertion, and deletion operations. The name ""AVL"" comes from the German computer scientist Andrew von Neumann, who invented the data structure in the 1960s.
+
+The key feature of an AVL tree is its ability to maintain a balance between the height of the tree and the number of nodes it contains. This balance is achieved through a series of rotations that occur when two nodes are inserted or deleted from the tree. These rotations ensure that the tree remains roughly balanced, with no more than one node at a height of log2(n) nodes (where n is the number of nodes in the tree).
+
+In addition to its balance properties, AVL trees have several other desirable characteristics:
+
+* They are easy to search: The time required to search for a value in an AVL tree is roughly log2(n) operations.
+* They are efficient at inserting and deleting nodes: The time required to insert or delete a node from an AVL tree is roughly twice the time required to search for a value.
+* They have good worst-case time complexity: The worst-case time complexity of an AVL tree is O(n), which means that the time required to perform an operation on the tree grows slowly as the size of the tree increases.
+
+Overall, AVL trees are a useful data structure for organizing and searching large amounts of data in a relatively efficient manner."
+Data/Embeddings/no_white_or_punc/1000_tokens/0_overlap/all-mpnet-base-v2,Chroma,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3697221279144287,10.041093826293945,43.9375, I don't know. The provided context does not contain information about an AVL tree.
+Data/Embeddings/no_white_or_punc/1000_tokens/0_overlap/all-mpnet-base-v2,Qdrant,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3157801628112793,3.6817479133605957,43.984375, I don't know. The provided context does not contain information about AVL trees.
+Data/Embeddings/no_white_or_punc/1000_tokens/0_overlap/all-mpnet-base-v2,Redis,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.30927109718322754,11.600143671035767,42.265625," I don't know. The provided context does not contain information about an AVL tree. An AVL (Adelson-Velsky and Landis) tree is a self-balancing binary search tree, meaning that the heights of the two child subtrees of any node differ by at most one, thereby ensuring that the tree remains approximately balanced, which allows for efficient lookup, insertion, and deletion operations."
+Data/Embeddings/no_white_or_punc/1000_tokens/50_overlap/all-mpnet-base-v2,Redis,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.30944299697875977,14.650891065597534,40.4375," I don't know. The provided context does not contain any information about an AVL tree. An AVL tree is a self-balancing binary search tree, developed by Geodesic Inc. programmers G. M. Adelson-Velsky and E. M. Landis in 1962. It was named after their initials: Adelson-Velsky (A) and Landis (L). The 'tree' part refers to the data structure itself, which is a tree-like hierarchical structure."
+Data/Embeddings/no_white_or_punc/1000_tokens/50_overlap/all-mpnet-base-v2,Qdrant,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3249950408935547,15.59932804107666,44.25," I don't know. The provided context does not seem to contain information about AVL trees. AVL tree is a self-balancing binary search tree, which was invented by George Adam George and Gerald James Hill in 1962. It is named after their names, ""Adelson-Velski"" and ""Landis"". It maintains the property that the heights of the left and right subtrees of every node differ by at most one. This helps in maintaining the search efficiency as the height of the tree remains logarithmic to the number of nodes."
+Data/Embeddings/no_white_or_punc/1000_tokens/50_overlap/all-mpnet-base-v2,Chroma,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3258669376373291,15.359312057495117,43.765625," I don't know. The context provided does not contain information about an AVL tree. An AVL tree is a self-balancing binary search tree that was invented by Geodesic Inc. engineers George Adamson and G.M. Voronoi in 1962, and popularized by Adelson-Velsky and Landis in their 1962 Russian article ""Dynamic investigation of multidimensional arrays"" (Russian: Динамическое исследование многомерных массивов)."
+Data/Embeddings/no_white_or_punc/1000_tokens/50_overlap/all-mpnet-base-v2,Redis,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.308941125869751,49.49221920967102,44.28125,"I'm glad you asked! An AVL tree is a type of self-balancing binary search tree that keeps data organized and allows for efficient searching, insertion, and deletion of nodes. It was invented by Donald E. Knuth, James B. Mauchly, and D. L. Tarr in 1965.
+
+The key feature of an AVL tree is that it maintains a balance between the height of the tree and the number of nodes it contains. This balance is achieved through a system of rotations, which are used to move nodes around the tree as new elements are inserted or old ones are deleted. By keeping the height of the tree relatively small, AVL trees can efficiently search for specific values in the tree, making them particularly useful for data structures like sets and maps.
+
+In your context, the embedding IDs 24, 34, and 46 refer to three different sub-trees within the larger AVL tree. The similarity value of each embedding ID represents the degree of similarity between the node represented by that ID and the root node of the tree. For example, an embedding ID with a similarity value of 0.33 means that the node it represents is 33% similar to the root node, while an embedding ID with a similarity value of 0.41 means that the node it represents is 41% similar to the root node.
+
+I hope this helps! Let me know if you have any other questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/50_overlap/all-mpnet-base-v2,Qdrant,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.37476253509521484,36.80483388900757,45.984375,"I'm glad you asked! An AVL tree is a type of self-balancing binary search tree that keeps data organized and efficiently searchable. It was invented by Adelbert W. Hendrey and Michael S. Tutell in 1970.
+
+The key feature of an AVL tree is that it maintains a balance between the height of the tree and the number of nodes in the tree. This is achieved through a series of operations called ""rotations,"" which are used to rebalance the tree when a new node is inserted or removed.
+
+AVL trees support efficient search, insertion, and deletion operations, making them useful for a wide range of applications, including databases, file systems, and data structures. They are particularly useful in situations where the data is highly skewed, meaning that most of the data falls into one or two categories, and it's important to maintain a balance between the height of the tree and the number of nodes in the tree.
+
+In summary, an AVL tree is a type of binary search tree that maintains balance between the height of the tree and the number of nodes in the tree through a series of rebalancing operations called ""rotations."" It's a useful data structure for efficient search, insertion, and deletion operations in various applications."
+Data/Embeddings/no_white_or_punc/1000_tokens/50_overlap/all-mpnet-base-v2,Chroma,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.3280010223388672,11.30990219116211,44.5,"I don't know. The context you provided does not seem to be relevant to the query ""What is an AVL tree?"" as it only mentions different embeddings from a model called ""all-mpnet-base-v2"". Could you please provide more context or clarify what you are trying to find out?"
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2,Chroma,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.3413980007171631,40.311156034469604,45.78125,"I'm happy to help! An AVL tree is a type of self-balancing binary search tree that maintains a balance between the left and right subtrees of the root node. It is named after its creators, Adelson-Velskii and Landis, who developed it in 1965.
+
+The key feature of an AVL tree is that it automatically adjusts the height of the tree to maintain a balance between the left and right subtrees of the root node. This balance is achieved by rotating nodes when the tree becomes unbalanced due to insertion or deletion of nodes. There are four types of rotations in an AVL tree: left rotation, right rotation, left-right rotation, and twisting.
+
+AVL trees are commonly used in many applications, including databases, file systems, and web search engines, due to their efficient search, insertion, and deletion operations. They are particularly useful for maintaining a balance between the number of nodes in the left and right subtrees of the root node, which ensures that the tree remains roughly balanced and allows for efficient searching and manipulation of data.
+
+I hope this helps! Let me know if you have any other questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2,Qdrant,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.33905482292175293,40.567407846450806,61.5625,"I'm glad you asked! An AVL tree is a type of self-balancing binary search tree. It is named after its creators, Adelson-Velskii and Landis, who developed the data structure in 1965.
+
+The AVL tree is a balance binary search tree, which means that it maintains a good balance between the height of the tree and the number of nodes it contains. This is important because it allows the tree to be efficiently searched and traversed, while also ensuring that the tree remains relatively small compared to other data structures.
+
+In an AVL tree, each node has at most two children (a left child and a right child), and the value stored in each node is greater than or equal to the values stored in its children. This ensures that the tree remains balanced and that queries can be efficiently executed.
+
+The AVL tree is commonly used in many applications, such as database indexing, file systems, and web search engines. It is particularly useful for handling large amounts of data and performing efficient searches and queries.
+
+I hope this helps! Let me know if you have any other questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2,Redis,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.3291897773742676,58.22999811172485,44.578125,"I'm happy to help! An AVL tree is a type of self-balancing binary search tree. It is named after its creators, Adelson-Velskii and Landis, who developed it in the 1960s.
+
+An AVL tree is a data structure that maintains a balance between the height of the tree and the number of nodes it contains. This is important because the height of the tree can affect the time it takes to perform operations on the tree, such as inserting or searching for an element.
+
+AVL trees are designed to minimize the height of the tree by using a balance factor that ensures the tree remains roughly balanced. The balance factor is calculated as the difference between the height of the left and right subtrees of the root node. If the balance factor exceeds a certain threshold, the tree must be rebalanced by rotating one or more nodes to reduce the imbalance.
+
+In an AVL tree, each node has a unique key and can contain a value associated with that key. The keys in an AVL tree are stored in a contiguous block of memory, which makes it easier to perform operations on the tree.
+
+AVL trees have several useful properties, including:
+
+* Self-balancing: The height of the tree remains relatively constant even after many insertions and deletions.
+* Fast search: The time required to search for an element in the tree is O(log n), where n is the number of elements in the tree.
+* Fast insertion and deletion: The time required to insert or delete an element in the tree is O(log n).
+
+Overall, AVL trees are a useful data structure for applications that require efficient search, insertion, and deletion operations on a large dataset."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2,Chroma,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3381800651550293,15.982302904129028,46.109375," I don't know. The provided context does not contain information about AVL trees. AVL tree is a self-balancing binary search tree where the height difference between the two child subtrees of any node cannot be more than one, and it maintains this balance by doing rotations."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2,Qdrant,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.31783509254455566,5.972411870956421,43.71875, I don't know. The provided context does not contain information about AVL trees.
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-mpnet-base-v2,Redis,Mistral,all-mpnet-base-v2,What is an AVL tree?,0.3088042736053467,13.098417043685913,40.875," I don't know. The context provided does not contain any information about AVL trees. AVL trees are a type of self-balancing binary search tree, introduced by Geores Adelson-Velsky and Emanuel Leibman in 1962. They are used to maintain ordered data while ensuring that the height of the tree is logarithmic in the number of elements."
