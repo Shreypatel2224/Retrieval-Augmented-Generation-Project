@@ -417,3 +417,34 @@ Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-MiniLM-L6-v2,Redis,
 
 In an AVL tree, each node has a balance factor that is the difference between the heights of its left and right subtrees. The balance factors are used to ensure the height of the tree remains balanced; if a node's balance factor becomes 2 or -2, the tree needs to be rebalanced by performing rotations (single or double). The root of the AVL tree is always set to have a balance factor of 0."
 Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/all-MiniLM-L6-v2,Chroma,Mistral,all-MiniLM-L6-v2,What is an AVL tree?,0.2921593189239502,4.165381193161011,40.875, I don't know. The provided context does not contain information about AVL trees.
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/paraphrase-MiniLM-L6-v2,Chroma,Mistral,paraphrase-MiniLM-L6-v2,,0.7199418544769287,39.93657183647156,36.84375," It appears that the query is asking for interpretations of the given data points in the context. The data points are from a language model called paraphrase-MiniLM-L6-v2, and they include ID numbers (73, 61, 52) along with similarity scores (-47.17, -47.27, -48.28).
+
+The similarity scores might be measures of how similar the given phrases or sentences are to a certain reference phrase or sentence. A lower similarity score suggests that the given phrases are less similar to the reference. However, without more context or information about the specific model and its output format, it's difficult to provide a definitive interpretation.
+
+If we were to make an assumption based on common practices in Natural Language Processing, we could say that the lower the similarity score, the less similar the given phrases are to each other or to the reference phrase. So, for example, ID 73 is the most similar (least different) to the reference, while ID 52 is the least similar (most different). But remember, this is just an assumption based on common practices and not definitive without more information about the specific model and its output format."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/paraphrase-MiniLM-L6-v2,Chroma,Mistral,paraphrase-MiniLM-L6-v2,What is an AVL tree?,0.47078967094421387,10.989404916763306,57.640625," I don't know. The context provided does not seem to relate to the question about an AVL tree. An AVL (Adelson-Velsky and Landis) tree is a self-balancing binary search tree, which is widely used in computer science for various applications that require fast searching, insertion, and deletion of elements in logarithmic time complexity."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/paraphrase-MiniLM-L6-v2,Redis,Mistral,paraphrase-MiniLM-L6-v2,What is an AVL tree?,0.2785658836364746,19.042630910873413,30.6875," An AVL (Adelson-Velsky and Landis) tree is a self-balancing binary search tree that was originally invented in 1972 by Geores Adelson-Malles and Vladimir Y. Landis as a practical alternative to the Fraser's 2-3 tree and Floyd's multiway tree. AVL trees are a particular kind of balanced search tree, where the difference of heights between the two child subtrees for each node is always within a range of -1 and +1, and the difference is updated when nodes are inserted or deleted. This property ensures that the height of the tree remains logarithmic in the number of elements it contains, making AVL trees efficient for fast search operations."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/paraphrase-MiniLM-L6-v2,Redis,Llama 2 7B,paraphrase-MiniLM-L6-v2,What is an AVL tree?,0.2775712013244629,44.755128145217896,37.390625,"Of course! I'd be happy to help you understand what an AVL tree is.
+
+An AVL tree is a type of self-balancing binary search tree, which means that the height of the tree remains relatively constant even after insertion or deletion of nodes. It is named after its creators, Adelson-Velskii and Landis, who developed it in 1965.
+
+An AVL tree is defined by the following properties:
+
+1. Each node in the tree has a unique key (a number).
+2. The values stored in the nodes are not relevant to the query.
+3. All the keys in the left subtree of a node are less than the key in the node, and all the keys in the right subtree of a node are greater than the key in the node.
+4. For each node, the height of the left subtree is less than or equal to the height of the right subtree.
+5. The tree is a binary search tree, meaning that the value of any given key can be found in logarithmic time using binary search.
+
+The key feature of an AVL tree is that it maintains a balance between the height of the left and right subtrees after insertion or deletion of nodes. This is achieved by rotating the nodes when the balance is disturbed, which ensures that the height of the tree remains relatively constant.
+
+I hope this helps you understand what an AVL tree is! Let me know if you have any other questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap/paraphrase-MiniLM-L6-v2,Chroma,Llama 2 7B,paraphrase-MiniLM-L6-v2,What is an AVL tree?,0.29729509353637695,32.25278997421265,34.4375,"Based on the context provided, I can answer your query accurately. An AVL tree is a type of self-balancing binary search tree that keeps data in a way that allows searches, insertions, and deletions to be performed in logarithmic time.
+
+AVL trees are named after their creator, Adelbert von Vegesack, who invented the data structure in 1965. The ""A"" in AVL stands for Adelbert, and the ""V"" stands for Vegesack.
+
+An AVL tree is a binary search tree that ensures the height of the tree remains relatively small, even after insertions or deletions. This is achieved through a balance mechanism that maintains the height of the tree by rotating nodes to keep the tree balanced.
+
+In an AVL tree, each node has at most two children (a left child and a right child), and the value of each node is greater than or equal to the values of its children. This property ensures that the tree remains balanced and allows for efficient search, insertion, and deletion operations.
+
+I hope this helps! Let me know if you have any other questions."
