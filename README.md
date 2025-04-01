@@ -111,6 +111,8 @@ Must match the embeddings in your configured folder.
 
 Example: Choose `2` for `all-mpnet-base-v2` folders.
 
+*Note: for Qdrant DB, there is no embedding model in the configured folder path, you may just select the desired model when prompted in the terminal and it will run.
+
 ### Query Input:
 ```plaintext
 Enter your search query: [your question]
