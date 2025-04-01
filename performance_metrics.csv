@@ -448,3 +448,38 @@ An AVL tree is a binary search tree that ensures the height of the tree remains 
 In an AVL tree, each node has at most two children (a left child and a right child), and the value of each node is greater than or equal to the values of its children. This property ensures that the tree remains balanced and allows for efficient search, insertion, and deletion operations.
 
 I hope this helps! Let me know if you have any other questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap,Qdrant,Mistral,all-MiniLM-L6-v2,What is an AVL tree?,0.16797494888305664,12.358802795410156,20.59375," I don't know. The context provided appears to be related to word embeddings from a language model, not to computer science or data structures such as AVL trees."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap,Qdrant,Mistral,paraphrase-MiniLM-L6-v2,What is an AVL tree?,0.4000210762023926,16.008248805999756,4.5625," An AVL (Adelson-Velsky and Landis) tree is a self-balancing binary search tree, which was the first such data structure to provide guaranteed time performance in the worst case for the operations of insertion, deletion, and searching. It achieves this by maintaining a balance factor at each node, where the difference between heights of the left and right subtrees is kept within +1 or -1. If it's not, the tree rebalances itself through rotations."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap,Qdrant,Llama 2 7B,all-MiniLM-L6-v2,What is an AVL tree?,0.14376401901245117,42.416667222976685,20.0,"Based on the context provided, I believe the query is asking for information about AVL trees. As a helpful AI assistant, I can provide a brief explanation of what AVL trees are.
+
+An AVL tree is a type of self-balancing binary search tree that keeps data in the form of keys and values. It is named after its inventor, Adelson-Velskii and Landis, who developed it in 1965. The tree is designed to maintain a balance between the height of the tree and the number of nodes, which ensures efficient search, insertion, and deletion operations.
+
+An AVL tree consists of a set of nodes, each representing a key, with two child nodes for each node. Each node has a value associated with it, and the keys are stored in a sorted order. The tree is self-balancing, meaning that the height of the tree remains relatively constant even after many insertions, deletions, or searches.
+
+The AVL tree is constructed by starting with a root node, and then recursively adding child nodes to the left and right subtrees based on the key values. This process ensures that the tree remains balanced and efficient for search and other operations.
+
+I hope this information helps! Let me know if you have any further questions."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap,Qdrant,Llama 2 7B,paraphrase-MiniLM-L6-v2,What is an AVL tree?,0.33730101585388184,32.054742097854614,42.90625,"Based on the context provided, I believe the query ""What is an AVL tree?"" is relevant to the model paraphrase-MiniLM-L6-v2 and its embeddings.
+
+An AVL tree is a type of self-balancing binary search tree, which means that the height of the tree remains relatively constant regardless of the number of nodes added or removed. It is named after its creators, Adelson-Velskii and Landis, who first introduced the data structure in 1965.
+
+AVL trees are commonly used in computer science for various purposes such as:
+
+* Storing and searching data in a way that allows for efficient and stable balancing of the tree
+* Implementing algorithms that require random access to nodes in the tree
+* Providing a balance between the height of the tree and the number of nodes it contains, which is important for efficient querying and updating operations.
+
+In summary, an AVL tree is a type of binary search tree that maintains a good balance between the height of the tree and the number of nodes it contains, making it a useful data structure in computer science."
+Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap,Qdrant,Llama 2 7B,all-mpnet-base-v2,What is an AVL tree?,0.4785921573638916,40.37993502616882,73.234375,"I'm happy to help! An AVL tree is a type of self-balancing binary search tree that keeps data organized and easily searchable. It was invented by Adelson, Belady, and Goldberg in 1965 and is named after its creators.
+
+AVL trees are designed to maintain a balance between the height of the tree and the number of nodes it contains, which helps to ensure efficient search, insertion, and deletion operations. This balance is achieved by using a technique called rebalancing, which moves nodes around the tree to maintain a balance after certain operations.
+
+In an AVL tree, each node has a unique key, and the values of the nodes are stored in a way that allows for efficient search and insertion. The tree is organized into a series of branches, with each branch representing a different level of the tree. The branches are arranged in such a way that the height of the tree is roughly logarithmic with the number of nodes it contains.
+
+AVL trees have several useful properties, including:
+
+* Balance property: The height of the left and right subtrees of every node differs by at most one.
+* Self-balancing property: After any operation, the tree remains balanced.
+* Search property: It takes logarithmic time to search for a value in the tree.
+
+Overall, AVL trees are a useful data structure for organizing and searching large amounts of data efficiently, and they have many applications in computer science and software engineering."
