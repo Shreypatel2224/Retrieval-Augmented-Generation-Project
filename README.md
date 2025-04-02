@@ -61,6 +61,9 @@ if __name__ == "__main__":
     embedding_folder = "Data/Embeddings/no_white_or_punc/500_tokens/50_overlap/all-mpnet-base-v2"
     main(embedding_folder)
 ```
+*Note for Qdrant files the embedding foler does not contain the embedding model it allows you to select a model after running the script by prompting the user in the command line, changing tokens or overlap will still need to be changed here.
+
+How the file path appears: embedding_folder = "Data/Embeddings/no_white_or_punc/500_tokens/50_overlap
 
 ### Available Embedding Folder Structures:
 ```plaintext
