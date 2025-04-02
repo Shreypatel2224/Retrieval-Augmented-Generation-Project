@@ -151,6 +151,6 @@ def main(embedding_base_folder):
         store_embeddings(embeddings, metadata, model_name)
 
 if __name__ == "__main__":
-    embedding_base_folder = "Data/Embeddings/no_white_or_punc/1000_tokens/100_overlap"
+    embedding_base_folder = "Data/Embeddings/no_white_punc_or_stop/1000_tokens/100_overlap"
     main(embedding_base_folder)
     interactive_search(embedding_base_folder)
